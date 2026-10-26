@@ -1,0 +1,185 @@
+id,site,site_name,age,trimester,gravidity,parity,education,abortion_history,employed,washing_water,cooking_water,drinks_gallon_water,raises_cat,cat_contact,cleans_litter,soil_contact,eats_chicken_satay,eats_raw_vegetables,drinks_unboiled_water,igg_positive,igg_borderline,igg_index
+KB001,KB,Kaluku Bodoa,26,1,2,1,1,0,0,pipe,pipe,0,0,0,0,1,0,0,0,0,0,0.8389
+KB002,KB,Kaluku Bodoa,31,2,2,1,3,0,0,pipe,pipe,1,0,0,0,0,0,1,0,0,0,0.4248
+KB003,KB,Kaluku Bodoa,20,1,1,0,3,0,0,pipe,pipe,0,1,1,1,0,1,1,0,1,0,2.2422
+KB004,KB,Kaluku Bodoa,21,2,2,1,3,0,0,pipe,pipe,0,0,0,0,0,0,1,1,0,0,0.6213
+KB005,KB,Kaluku Bodoa,26,2,3,2,2,0,0,pipe,pipe,1,0,0,0,0,0,0,1,0,0,0.1842
+KB006,KB,Kaluku Bodoa,20,1,1,0,1,0,0,pipe,pipe,1,1,1,1,0,1,1,1,0,0,0.0906
+KB007,KB,Kaluku Bodoa,39,3,2,1,1,0,0,pipe,pipe,1,1,1,0,0,1,1,1,1,0,1.9772
+KB008,KB,Kaluku Bodoa,35,3,8,6,1,1,0,pipe,pipe,1,0,1,1,0,0,1,1,1,0,1.1193
+KB009,KB,Kaluku Bodoa,31,2,4,3,3,0,0,pipe,pipe,0,0,0,0,1,1,0,1,1,0,2.7267
+KB010,KB,Kaluku Bodoa,17,3,1,0,2,0,0,pipe,pipe,1,0,1,1,0,1,1,1,1,0,2.1126
+KB011,KB,Kaluku Bodoa,19,3,1,0,2,0,0,pipe,pipe,0,0,0,0,0,0,1,1,0,0,0.2348
+KB012,KB,Kaluku Bodoa,26,2,2,1,1,0,0,pipe,pipe,1,0,0,0,0,0,0,1,0,0,0.2319
+KB013,KB,Kaluku Bodoa,32,1,1,0,1,0,0,pipe,pipe,0,0,0,0,0,0,0,1,0,0,0.2735
+KB014,KB,Kaluku Bodoa,24,2,2,1,3,0,0,pipe,pipe,1,0,0,0,0,0,1,1,0,0,0.1667
+KB015,KB,Kaluku Bodoa,21,3,1,0,3,0,0,pipe,pipe,0,0,0,0,0,0,0,0,0,0,0.2781
+KB016,KB,Kaluku Bodoa,31,1,4,3,2,0,0,pipe,pipe,1,0,0,0,0,1,0,0,0,0,0.2895
+KB017,KB,Kaluku Bodoa,27,2,2,1,3,0,0,pipe,pipe,1,0,0,0,0,0,0,0,0,0,0.2821
+KB018,KB,Kaluku Bodoa,28,1,4,3,1,0,0,pump,pipe,1,0,0,0,0,0,0,1,0,0,0.1273
+KB019,KB,Kaluku Bodoa,23,2,2,0,3,1,0,pipe,pipe,1,0,1,1,1,0,0,1,0,0,0.2989
+KB020,KB,Kaluku Bodoa,17,1,2,1,2,0,0,pipe,pipe,0,0,0,0,0,1,0,0,0,0,0.1627
+KB021,KB,Kaluku Bodoa,23,3,2,1,3,0,0,pipe,pipe,1,0,0,0,0,0,1,0,0,0,0.2651
+KB022,KB,Kaluku Bodoa,26,3,1,0,4,0,0,pump,gallon,1,1,1,1,1,0,1,1,0,0,0.1332
+KB023,KB,Kaluku Bodoa,35,1,5,4,2,0,0,pipe,pipe,1,0,0,0,0,1,1,1,1,0,2.7404
+KB024,KB,Kaluku Bodoa,30,2,2,1,2,0,0,pipe,pipe,1,0,0,0,0,1,1,0,0,0,0.367
+KB025,KB,Kaluku Bodoa,24,2,1,0,3,0,0,pump,pipe,0,0,0,0,0,1,0,0,0,0,0.212
+KB026,KB,Kaluku Bodoa,25,2,1,0,4,0,1,pipe,pipe,1,0,0,0,0,0,0,1,0,0,0.2958
+KB027,KB,Kaluku Bodoa,34,2,6,4,2,1,0,pump,pipe,1,0,1,0,0,1,1,1,1,0,2.5451
+KB028,KB,Kaluku Bodoa,22,3,2,1,1,0,0,pump,pump,0,0,0,0,0,1,1,0,0,0,0.1566
+KB029,KB,Kaluku Bodoa,31,2,4,3,1,0,0,pump,pipe,1,0,0,1,0,0,0,1,0,1,0.9673
+KB030,KB,Kaluku Bodoa,26,2,2,1,4,0,0,pipe,pipe,0,0,0,0,0,1,0,0,1,0,2.0311
+KB031,KB,Kaluku Bodoa,20,2,2,1,1,0,0,pipe,pipe,1,0,0,0,0,0,0,1,0,0,0.2761
+KB032,KB,Kaluku Bodoa,24,2,3,2,3,1,0,pump,pipe,1,0,1,0,0,1,0,1,1,0,1.7479
+KB033,KB,Kaluku Bodoa,35,3,6,5,3,0,0,pipe,pipe,0,0,0,0,0,0,0,0,1,0,2.0076
+KB034,KB,Kaluku Bodoa,24,3,4,2,2,1,0,pipe,pipe,0,1,1,1,0,1,1,1,0,0,0.1934
+KB035,KB,Kaluku Bodoa,33,2,3,2,1,0,0,pipe,pipe,1,0,0,1,0,0,0,1,0,0,0.4963
+KB036,KB,Kaluku Bodoa,23,1,1,0,3,0,0,pipe,pipe,1,0,0,0,0,1,0,1,1,0,2.3438
+KB037,KB,Kaluku Bodoa,32,3,3,2,1,0,0,pipe,pipe,1,0,0,0,0,0,0,1,0,0,0.2094
+KK001,KK,Kassi-Kassi,29,1,3,2,3,0,1,pump,pump,1,1,1,0,0,1,1,0,1,0,2.9359
+KK002,KK,Kassi-Kassi,22,1,2,1,3,0,1,pipe,pipe,1,0,0,0,0,1,0,1,1,0,1.7728
+KK003,KK,Kassi-Kassi,26,2,2,1,3,0,1,pipe,pipe,1,0,0,0,1,1,0,1,1,0,2.527
+KK004,KK,Kassi-Kassi,42,1,5,4,3,0,1,pipe,pipe,1,0,0,0,0,0,0,0,0,0,0.1696
+KK005,KK,Kassi-Kassi,34,2,3,2,3,0,1,pipe,pipe,1,1,1,0,0,0,1,1,1,0,1.7235
+KK006,KK,Kassi-Kassi,35,2,3,2,3,0,0,pipe,pipe,1,1,1,0,0,0,0,0,0,0,0.3263
+KK007,KK,Kassi-Kassi,28,2,1,0,4,0,1,pipe,pipe,1,0,0,0,0,0,1,0,0,0,0.1108
+KK008,KK,Kassi-Kassi,24,2,4,3,3,0,0,pump,pump,1,0,0,1,0,1,1,1,1,0,2.1929
+KK009,KK,Kassi-Kassi,25,3,1,0,4,0,1,pump,pump,1,0,0,0,0,1,1,1,0,0,0.1797
+KK010,KK,Kassi-Kassi,26,2,4,3,3,0,0,pipe,pipe,1,0,0,0,0,1,1,1,0,0,0.2917
+KK011,KK,Kassi-Kassi,21,1,1,0,3,0,0,surface,surface,1,1,1,0,0,1,0,1,0,0,0.3935
+KK012,KK,Kassi-Kassi,33,1,2,1,4,0,1,pipe,pipe,1,0,0,0,0,0,0,0,0,0,0.2307
+KK013,KK,Kassi-Kassi,29,2,1,0,4,0,0,pipe,pipe,0,0,0,0,0,1,0,0,0,0,0.1746
+KK014,KK,Kassi-Kassi,26,3,2,1,3,0,0,pump,pipe,1,0,0,0,0,1,1,1,1,0,2.8575
+KK015,KK,Kassi-Kassi,26,2,1,0,4,0,1,pipe,pipe,1,0,0,0,0,0,1,1,0,0,0.1532
+KK016,KK,Kassi-Kassi,24,1,2,1,3,0,0,pipe,pipe,1,0,0,0,0,0,1,0,0,0,0.1103
+KK017,KK,Kassi-Kassi,17,3,1,0,3,0,0,pipe,pipe,1,0,0,0,0,1,1,1,1,0,1.9062
+KK018,KK,Kassi-Kassi,32,2,2,1,4,0,0,pump,pipe,0,0,0,0,0,0,1,0,0,0,0.2357
+KK019,KK,Kassi-Kassi,24,3,1,0,3,0,1,pump,pump,1,1,1,0,0,0,1,1,0,0,0.4353
+KK020,KK,Kassi-Kassi,34,3,3,2,3,0,0,pipe,pipe,0,0,0,0,0,0,1,0,0,0,0.1098
+KK021,KK,Kassi-Kassi,23,2,1,0,3,0,0,pump,pump,0,0,0,0,0,0,0,0,0,0,0.1202
+KK022,KK,Kassi-Kassi,30,3,2,1,4,0,0,pump,gallon,1,0,0,0,0,0,1,1,0,0,0.1289
+KK023,KK,Kassi-Kassi,19,3,1,0,3,0,0,pump,pipe,1,0,0,0,0,1,1,1,1,0,1.8585
+KK024,KK,Kassi-Kassi,25,3,2,0,3,1,0,pump,pump,0,1,1,0,0,0,0,0,0,0,0.1245
+KK025,KK,Kassi-Kassi,26,3,1,0,3,0,0,pipe,gallon,1,0,0,0,0,0,0,1,0,0,0.1905
+MG001,MG,Mangasa,29,1,3,1,3,1,0,pipe,pipe,1,0,1,0,1,1,1,1,1,0,2.1105
+MG002,MG,Mangasa,17,2,1,0,3,0,0,pipe,pipe,1,0,0,0,0,1,1,0,0,0,0.2442
+MG003,MG,Mangasa,24,2,1,0,3,0,1,pump,pump,1,0,0,0,0,0,1,0,0,0,0.2146
+MG004,MG,Mangasa,25,2,3,1,3,1,0,surface,pipe,1,0,1,0,0,1,1,1,1,0,2.2351
+MG005,MG,Mangasa,27,2,1,0,4,0,1,pipe,pipe,1,0,0,0,0,1,0,0,0,0,0.225
+MG006,MG,Mangasa,29,2,2,1,3,0,0,pump,pump,1,0,0,0,0,0,0,1,0,0,0.2263
+MG007,MG,Mangasa,36,2,2,1,4,0,0,surface,surface,1,0,1,0,1,1,1,1,1,0,2.7599
+MG008,MG,Mangasa,27,3,4,3,2,0,0,pump,gallon,1,0,1,0,0,0,0,1,1,0,1.8421
+MG009,MG,Mangasa,38,3,3,1,3,1,0,pipe,pipe,0,0,0,0,0,0,0,0,0,0,0.1078
+MG010,MG,Mangasa,26,3,2,1,4,0,0,surface,gallon,1,0,0,0,0,1,1,1,1,0,2.4721
+TT001,TT,Tamalate,29,3,3,1,2,1,1,pump,pump,0,0,0,0,0,0,1,0,0,0,0.3297
+TT002,TT,Tamalate,19,2,3,1,2,1,0,pump,pipe,1,1,0,0,0,1,1,1,0,0,0.6572
+TT003,TT,Tamalate,18,2,1,0,2,0,0,pipe,pipe,1,0,1,0,0,1,1,1,1,0,2.1374
+TT004,TT,Tamalate,28,3,1,0,4,0,0,pipe,pipe,0,0,0,0,1,1,1,1,0,0,0.1113
+TT005,TT,Tamalate,22,3,1,0,3,0,0,pump,pump,0,0,0,0,0,0,1,0,0,0,0.1134
+TT006,TT,Tamalate,33,3,3,2,3,0,0,pipe,pipe,1,0,0,1,0,1,0,1,1,0,2.8248
+TT007,TT,Tamalate,34,2,7,6,1,0,0,surface,pipe,1,0,1,0,0,1,0,1,1,0,1.9981
+TT008,TT,Tamalate,24,3,4,3,3,0,0,pipe,pipe,0,0,0,0,0,0,1,0,0,0,0.2244
+TT009,TT,Tamalate,18,3,1,0,3,0,0,pipe,pipe,1,0,1,0,0,0,0,1,1,0,2.278
+TT010,TT,Tamalate,23,1,1,0,3,0,1,pump,gallon,1,0,0,0,0,1,0,1,0,0,0.1313
+TT011,TT,Tamalate,32,1,2,1,3,0,0,pipe,pipe,1,0,0,0,0,1,1,1,0,0,0.6043
+TT012,TT,Tamalate,21,2,2,1,2,0,0,pump,gallon,1,0,0,0,0,0,1,1,0,0,0.2727
+TT013,TT,Tamalate,16,3,1,0,2,0,0,pump,pump,1,0,0,0,0,1,0,1,0,0,0.3842
+TT014,TT,Tamalate,24,2,2,1,3,0,0,pump,pipe,0,0,0,1,1,0,0,0,0,0,0.4577
+TT015,TT,Tamalate,36,2,3,1,3,1,0,pipe,pipe,1,0,0,0,0,0,0,1,0,0,0.4131
+TT016,TT,Tamalate,25,3,3,1,4,1,0,pump,pump,1,0,0,0,0,1,1,0,0,0,0.1571
+TT017,TT,Tamalate,32,2,2,1,3,0,0,pipe,pipe,1,0,1,0,1,1,1,1,1,0,2.3087
+TT018,TT,Tamalate,24,1,1,0,3,0,0,surface,surface,1,1,1,1,1,1,1,1,0,0,0.197
+TT019,TT,Tamalate,22,3,1,0,3,0,1,surface,surface,1,1,1,1,0,1,1,1,1,0,2.6909
+TT020,TT,Tamalate,38,3,3,2,2,0,0,pump,pump,1,0,0,0,1,1,1,1,0,0,0.7392
+TT021,TT,Tamalate,22,3,1,0,3,0,0,pipe,pipe,1,0,0,0,0,1,1,1,1,0,1.9608
+TT022,TT,Tamalate,32,2,3,1,4,1,1,pipe,pipe,1,0,0,0,0,0,0,0,0,0,0.2073
+JG001,JG,Jongaya,26,1,1,0,3,0,0,pump,pump,1,0,1,1,0,1,1,1,1,0,1.8033
+JG002,JG,Jongaya,22,3,1,0,3,0,0,pump,pump,1,0,0,0,0,1,0,0,0,0,0.2898
+JG003,JG,Jongaya,24,3,1,0,3,0,0,pipe,pipe,0,0,0,0,0,1,1,1,0,0,0.3765
+JG004,JG,Jongaya,20,3,2,1,3,0,0,surface,surface,1,0,0,0,0,1,0,1,0,0,0.1266
+JG005,JG,Jongaya,26,1,2,1,3,0,0,pump,pump,0,0,0,0,0,1,1,0,0,0,0.3266
+JG006,JG,Jongaya,21,1,1,0,3,0,0,pipe,pipe,1,0,0,0,1,0,1,1,0,0,0.274
+JG007,JG,Jongaya,26,1,2,1,2,0,0,pipe,pipe,1,0,1,0,0,1,1,1,1,0,2.4657
+JG008,JG,Jongaya,25,1,2,1,1,0,1,pump,gallon,1,0,1,0,0,1,1,1,1,0,1.6147
+JG009,JG,Jongaya,32,1,2,1,2,0,1,pipe,pipe,1,1,1,0,1,1,1,1,0,0,0.3883
+JG010,JG,Jongaya,23,2,1,0,4,0,1,pump,pump,0,1,1,0,0,1,1,1,0,0,0.7965
+JG011,JG,Jongaya,23,2,1,0,3,0,0,pump,pump,1,0,0,0,0,1,1,1,0,0,0.325
+JG012,JG,Jongaya,28,2,2,0,4,1,1,pump,pump,1,0,0,0,0,1,0,1,1,0,1.6825
+JG013,JG,Jongaya,25,2,1,0,4,0,0,pipe,pipe,1,0,0,0,0,1,1,1,0,0,0.4695
+JG014,JG,Jongaya,32,1,4,2,2,1,0,pipe,pipe,0,0,0,0,0,0,1,0,0,0,0.4858
+JG015,JG,Jongaya,35,1,1,0,4,0,0,pipe,pipe,1,0,1,0,0,0,1,1,0,0,0.6056
+JG016,JG,Jongaya,24,3,5,4,2,0,0,pump,pump,1,0,1,0,0,1,1,1,1,0,2.7279
+SD001,SD,Sudiang,29,3,1,0,4,0,1,pump,pump,1,0,1,0,0,1,1,1,1,0,2.6932
+SD002,SD,Sudiang,22,3,1,0,3,0,0,pump,pump,0,1,1,0,1,1,1,0,1,0,1.5992
+SD003,SD,Sudiang,21,2,1,0,2,0,0,surface,surface,1,0,0,0,1,1,1,1,0,0,0.3273
+SD004,SD,Sudiang,19,2,1,0,3,0,0,pump,pump,1,0,1,0,0,1,1,1,1,0,2.6315
+SD005,SD,Sudiang,25,3,3,2,3,0,0,pump,pump,1,0,0,0,1,1,1,1,0,0,0.3363
+SD006,SD,Sudiang,28,2,3,1,3,1,0,pump,pump,1,0,0,0,0,1,1,1,0,0,0.1842
+SD007,SD,Sudiang,39,3,3,2,3,0,1,pump,pump,1,1,1,0,0,1,1,1,1,0,1.9843
+SD008,SD,Sudiang,30,2,1,0,4,0,1,pump,pump,0,0,0,0,0,0,0,1,0,0,0.2577
+SD009,SD,Sudiang,29,1,2,0,4,1,0,pump,pump,1,0,1,1,1,1,1,1,1,0,1.6228
+SD010,SD,Sudiang,34,3,6,3,2,1,0,pump,pump,1,0,0,0,0,1,0,1,0,0,0.2026
+SD011,SD,Sudiang,37,1,3,2,3,0,0,pump,gallon,1,0,0,0,0,0,0,1,0,0,0.156
+SD012,SD,Sudiang,23,1,1,0,3,0,0,pump,pump,0,0,0,0,0,0,0,1,0,0,0.6532
+SD013,SD,Sudiang,34,3,3,1,4,1,1,pump,pump,1,0,0,0,1,0,0,1,1,0,3.005
+SD014,SD,Sudiang,28,3,6,3,2,1,0,pump,pump,1,0,0,0,1,0,0,1,0,0,0.5696
+SD015,SD,Sudiang,23,3,1,0,3,0,0,pump,pump,1,0,0,0,0,0,0,0,0,0,0.229
+SD016,SD,Sudiang,36,2,5,3,3,1,0,pump,pump,0,0,0,0,0,1,0,0,0,0,0.189
+SD017,SD,Sudiang,26,2,1,0,3,0,0,pump,pump,1,0,0,0,0,0,1,1,0,0,0.3008
+SD018,SD,Sudiang,37,3,3,2,4,0,0,pump,pump,1,0,0,0,0,0,0,1,1,0,2.3621
+SD019,SD,Sudiang,28,3,3,1,3,1,0,pump,pump,1,0,1,0,1,1,0,1,1,0,2.3914
+SD020,SD,Sudiang,30,1,2,1,4,0,1,pump,pump,1,0,0,0,0,1,0,0,0,0,0.1538
+SD021,SD,Sudiang,28,1,1,0,4,0,0,pump,gallon,1,0,0,0,0,0,0,1,0,0,0.2781
+SD022,SD,Sudiang,26,3,1,0,3,0,0,pump,pump,1,0,0,0,0,1,0,0,0,0,0.2764
+PC001,PC,Paccerakkang,24,3,1,0,4,0,1,pump,pump,1,0,0,0,0,0,0,1,1,0,2.1156
+PC002,PC,Paccerakkang,39,2,2,1,1,0,0,pump,pump,1,0,0,0,0,1,0,1,0,0,0.471
+PC003,PC,Paccerakkang,27,3,2,1,4,0,1,pump,gallon,1,0,0,0,0,0,0,1,0,0,0.1939
+PC004,PC,Paccerakkang,15,2,1,0,1,0,0,pump,pump,1,0,0,0,0,0,1,1,0,0,0.2104
+PC005,PC,Paccerakkang,32,1,2,0,4,1,0,pump,gallon,1,0,0,0,1,1,0,1,1,0,1.4722
+PC006,PC,Paccerakkang,32,3,2,1,4,0,1,pipe,pipe,1,0,0,0,0,0,0,1,1,0,2.646
+PC007,PC,Paccerakkang,27,3,2,1,3,0,0,pump,pump,1,0,0,0,0,1,0,1,1,0,2.1438
+PC008,PC,Paccerakkang,19,1,2,1,1,0,0,pump,pump,1,0,0,0,0,0,0,0,0,0,0.2068
+PC009,PC,Paccerakkang,18,1,1,0,2,0,0,pump,pump,1,0,0,0,0,0,1,1,0,0,0.2052
+PC010,PC,Paccerakkang,20,1,1,0,1,0,0,pump,pump,1,1,1,1,0,1,0,1,1,0,1.8106
+SR001,SR,Sudiang Raya,21,3,1,0,3,0,0,pump,gallon,1,0,0,0,0,0,0,0,0,0,0.1901
+SR002,SR,Sudiang Raya,26,1,2,1,4,0,1,pump,pump,1,0,0,0,0,0,1,1,0,0,0.1097
+SR003,SR,Sudiang Raya,36,3,6,5,1,0,0,pump,pump,1,0,0,0,0,0,1,1,0,0,0.7565
+SR004,SR,Sudiang Raya,25,1,2,1,2,0,0,pump,pump,1,0,1,0,0,0,0,1,1,0,2.1404
+SR005,SR,Sudiang Raya,38,3,5,2,3,1,0,pump,pump,1,0,0,0,0,1,1,1,1,0,1.4203
+AT001,AT,Antang,26,1,3,2,2,0,0,pipe,pipe,0,0,0,0,0,0,1,0,0,0,0.3057
+AT002,AT,Antang,33,2,2,1,4,0,1,pump,pump,1,0,0,0,0,0,0,1,0,0,0.3599
+AT003,AT,Antang,35,2,4,2,2,1,0,pipe,pipe,1,0,0,0,0,1,1,1,0,1,1.001
+AT004,AT,Antang,21,2,2,1,2,0,0,pipe,pipe,0,0,0,0,0,0,0,0,0,0,0.2425
+AT005,AT,Antang,31,2,2,1,3,0,0,pipe,pipe,0,0,0,0,0,0,1,0,0,0,0.1542
+AT006,AT,Antang,30,2,3,2,4,0,0,pipe,pipe,1,0,0,0,0,1,1,0,0,0,0.1666
+AT007,AT,Antang,32,2,3,2,2,0,1,pipe,pipe,1,0,0,0,0,0,1,1,0,0,0.3139
+AT008,AT,Antang,20,1,2,1,3,0,0,pump,pump,1,0,0,0,0,0,0,1,0,0,0.289
+AT009,AT,Antang,32,1,2,1,4,0,1,pipe,pipe,1,0,0,0,0,1,1,0,0,0,0.3232
+AT010,AT,Antang,18,2,2,1,3,0,0,pipe,pipe,0,1,1,0,0,0,1,0,0,0,0.1809
+AT011,AT,Antang,33,1,4,3,1,0,0,pipe,pipe,1,0,0,0,1,1,0,1,1,0,2.5141
+AT012,AT,Antang,25,2,1,0,3,0,0,pipe,pipe,1,0,1,0,0,1,1,1,1,0,1.4311
+AT013,AT,Antang,24,2,1,0,3,0,1,pipe,pipe,1,0,0,0,0,1,1,1,1,0,1.3716
+AT014,AT,Antang,29,1,2,1,4,0,0,pipe,pipe,0,1,1,0,0,1,0,1,1,0,2.3345
+AT015,AT,Antang,38,2,3,2,3,0,0,pipe,pipe,0,0,1,0,0,1,1,1,1,0,1.4271
+AT016,AT,Antang,29,1,5,2,1,1,0,pipe,pipe,0,0,0,0,0,0,0,0,0,0,0.1769
+AT017,AT,Antang,28,1,4,2,3,1,0,pump,gallon,1,0,0,0,0,0,0,1,0,0,0.1964
+AT018,AT,Antang,26,2,2,1,4,0,0,pipe,pipe,1,0,0,0,0,1,1,1,1,0,2.3148
+AT019,AT,Antang,20,1,4,3,1,0,0,pump,pipe,1,1,1,1,0,1,1,1,1,0,1.2268
+AT020,AT,Antang,28,3,2,1,4,0,0,pipe,pipe,0,0,0,0,0,1,1,0,0,0,0.1739
+AT021,AT,Antang,30,3,3,2,4,0,1,pump,gallon,1,1,1,0,0,0,1,1,0,0,0.121
+AT022,AT,Antang,29,3,2,1,4,0,0,pipe,pipe,1,0,0,0,0,0,1,1,0,0,0.5552
+AT023,AT,Antang,28,3,3,2,3,0,0,pump,pump,1,0,0,0,0,1,1,1,0,0,0.2877
+AT024,AT,Antang,34,3,2,1,1,0,0,pipe,pipe,0,0,0,0,0,1,1,0,0,0,0.2418
+AT025,AT,Antang,24,1,2,0,4,1,0,pipe,pipe,0,0,0,0,0,0,0,0,0,0,0.2388
+AT026,AT,Antang,26,2,1,0,1,0,0,pipe,pipe,1,0,0,0,0,1,0,1,0,0,0.2985
+AT027,AT,Antang,19,3,1,0,3,0,0,pipe,pipe,0,0,0,0,0,0,1,0,0,0,0.2496
+AT028,AT,Antang,18,3,1,0,2,0,0,pipe,pipe,1,0,0,0,0,0,0,1,0,0,0.1824
+AT029,AT,Antang,32,2,5,3,3,1,0,pipe,pipe,0,0,0,0,0,0,1,0,0,0,0.1282
+AT030,AT,Antang,32,2,2,1,2,0,0,pipe,pipe,0,0,0,0,0,0,0,0,0,0,0.3097
+AT031,AT,Antang,22,2,3,1,3,1,0,pipe,pipe,1,0,0,0,1,1,0,0,0,0,0.4687
+AT032,AT,Antang,25,1,2,1,3,0,0,surface,surface,1,1,1,1,0,1,0,1,1,0,1.6163
+AT033,AT,Antang,31,1,2,1,4,0,0,pipe,pipe,1,0,0,0,0,0,1,1,0,0,0.1792
+AT034,AT,Antang,24,3,1,0,3,0,0,pipe,pipe,1,0,0,0,0,0,0,1,0,0,0.1782
+AT035,AT,Antang,30,1,3,2,3,0,0,pump,gallon,1,0,0,0,0,0,0,0,0,0,0.3139
+AT036,AT,Antang,23,1,1,0,3,0,1,pump,pump,1,0,1,0,1,1,1,1,1,0,2.0534
+AT037,AT,Antang,23,2,1,0,3,0,1,surface,pipe,1,0,0,0,0,0,0,0,0,0,0.2308

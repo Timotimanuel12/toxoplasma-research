@@ -1,0 +1,50 @@
+Data: 182 women, 60 positive (33.0%), 9 health centres
+Cross-validation: 100 folds (5-fold x 20 repeats)
+
+Model         Set                   ROC-AUC          PR-AUC    Brier
+Dummy         A_background  0.500 +/- 0.000 0.330 +/- 0.004   0.2210
+LogReg        A_background  0.497 +/- 0.080 0.408 +/- 0.079   0.2293
+RandomForest  A_background  0.497 +/- 0.094 0.375 +/- 0.066   0.2304
+XGBoost       A_background  0.493 +/- 0.085 0.359 +/- 0.059   0.2755
+MLP           A_background  0.482 +/- 0.091 0.370 +/- 0.072   0.3269
+LogReg        B_exposures   0.866 +/- 0.056 0.797 +/- 0.078   0.1412
+RandomForest  B_exposures   0.867 +/- 0.060 0.789 +/- 0.087   0.1457
+XGBoost       B_exposures   0.853 +/- 0.059 0.781 +/- 0.081   0.1512
+MLP           B_exposures   0.820 +/- 0.062 0.748 +/- 0.090   0.1820
+LogReg        C_all         0.874 +/- 0.049 0.794 +/- 0.081   0.1428
+RandomForest  C_all         0.858 +/- 0.057 0.756 +/- 0.100   0.1518
+XGBoost       C_all         0.864 +/- 0.057 0.766 +/- 0.095   0.1542
+MLP           C_all         0.842 +/- 0.058 0.747 +/- 0.095   0.1921
+
+Comparisons (meaningful = ROC-AUC gain >= 0.01 AND corrected p < 0.05)
+Q1: models beat the dummy (all features)
+  LogReg vs Dummy                            diff +0.3741  p=0.000  -> MEANINGFUL
+  RandomForest vs Dummy                      diff +0.3582  p=0.000  -> MEANINGFUL
+  XGBoost vs Dummy                           diff +0.3637  p=0.000  -> MEANINGFUL
+  MLP vs Dummy                               diff +0.3424  p=0.000  -> MEANINGFUL
+Q2: exposures beat background (B vs A)
+  LogReg: B vs A                             diff +0.3687  p=0.000  -> MEANINGFUL
+  RandomForest: B vs A                       diff +0.3704  p=0.000  -> MEANINGFUL
+  XGBoost: B vs A                            diff +0.3597  p=0.000  -> MEANINGFUL
+  MLP: B vs A                                diff +0.3383  p=0.000  -> MEANINGFUL
+Q3: adding background to exposures helps (C vs B)
+  LogReg: C vs B                             diff +0.0086  p=0.688  -> not meaningful
+  RandomForest: C vs B                       diff -0.0089  p=0.514  -> not meaningful
+  XGBoost: C vs B                            diff +0.0107  p=0.653  -> not meaningful
+  MLP: C vs B                                diff +0.0223  p=0.434  -> not meaningful
+Q4: complex models beat logistic regression (all features)
+  RandomForest vs LogReg                     diff -0.0159  p=0.496  -> not meaningful
+  XGBoost vs LogReg                          diff -0.0103  p=0.658  -> not meaningful
+  MLP vs LogReg                              diff -0.0317  p=0.178  -> not meaningful
+
+Leave-one-site-out (9 health centres)
+  LogReg        B_exposures   pooled ROC-AUC 0.846   per site 0.74-1.00 (median 0.88)
+  RandomForest  B_exposures   pooled ROC-AUC 0.848   per site 0.77-1.00 (median 0.87)
+  XGBoost       B_exposures   pooled ROC-AUC 0.850   per site 0.78-1.00 (median 0.89)
+  MLP           B_exposures   pooled ROC-AUC 0.815   per site 0.76-1.00 (median 0.87)
+  LogReg        C_all         pooled ROC-AUC 0.867   per site 0.83-1.00 (median 0.91)
+  RandomForest  C_all         pooled ROC-AUC 0.838   per site 0.78-1.00 (median 0.85)
+  XGBoost       C_all         pooled ROC-AUC 0.867   per site 0.67-0.96 (median 0.89)
+  MLP           C_all         pooled ROC-AUC 0.843   per site 0.76-1.00 (median 0.89)
+
+Per-fold scores saved to outputs\baseline_fold_scores.csv

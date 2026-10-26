@@ -1,0 +1,29 @@
+Data: 182 women, 60 positive; feature set C; 100 folds
+
+Student  Condition                            ROC-AUC   PR-AUC    Brier  Cal. slope
+MLP      baseline (hard labels)       0.842 +/- 0.058    0.747   0.1921        0.22
+MLP      label smoothing eps=0.05     0.790 +/- 0.073    0.696   0.1844        0.43
+MLP      label smoothing eps=0.10     0.774 +/- 0.073    0.679   0.1828        0.53
+MLP      label smoothing eps=0.20     0.774 +/- 0.078    0.680   0.1792        0.83
+MLP      L2 weight decay=0.01         0.850 +/- 0.055    0.755   0.1653        0.45
+MLP      L2 weight decay=0.1          0.869 +/- 0.054    0.774   0.1478        1.69
+LogReg   baseline (hard labels)       0.874 +/- 0.049    0.794   0.1428        0.74
+LogReg   label smoothing eps=0.05     0.874 +/- 0.047    0.796   0.1378        1.03
+LogReg   label smoothing eps=0.10     0.874 +/- 0.047    0.797   0.1384        1.33
+LogReg   label smoothing eps=0.20     0.874 +/- 0.047    0.798   0.1500        2.08
+LogReg   L2 C=0.1                     0.875 +/- 0.050    0.784   0.1397        1.34
+LogReg   L2 C=0.01                    0.854 +/- 0.058    0.732   0.1751        3.20
+
+Each control vs the same student with hard labels
+  MLP     label smoothing eps=0.05     ROC -0.0519 p=0.014 WORSE           Brier -0.0078 p=0.611 no difference
+  MLP     label smoothing eps=0.10     ROC -0.0681 p=0.003 WORSE           Brier -0.0093 p=0.575 no difference
+  MLP     label smoothing eps=0.20     ROC -0.0681 p=0.007 WORSE           Brier -0.0129 p=0.485 no difference
+  MLP     L2 weight decay=0.01         ROC +0.0075 p=0.546 not meaningful  Brier -0.0268 p=0.026 BETTER
+  MLP     L2 weight decay=0.1          ROC +0.0261 p=0.358 not meaningful  Brier -0.0444 p=0.057 no difference
+  LogReg  label smoothing eps=0.05     ROC -0.0000 p=0.993 not meaningful  Brier -0.0050 p=0.175 no difference
+  LogReg  label smoothing eps=0.10     ROC +0.0002 p=0.969 not meaningful  Brier -0.0043 p=0.482 no difference
+  LogReg  label smoothing eps=0.20     ROC +0.0003 p=0.967 not meaningful  Brier +0.0073 p=0.448 no difference
+  LogReg  L2 C=0.1                     ROC +0.0006 p=0.961 not meaningful  Brier -0.0031 p=0.708 no difference
+  LogReg  L2 C=0.01                    ROC -0.0197 p=0.407 not meaningful  Brier +0.0323 p=0.021 WORSE
+
+Per-fold scores saved to outputs\controls_fold_scores.csv

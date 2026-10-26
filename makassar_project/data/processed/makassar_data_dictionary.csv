@@ -1,0 +1,24 @@
+column,role,description,values
+id,id,Participant code from the original file,text
+site,grouping,Primary health centre (ID prefix); use for grouped / leave-one-site-out CV,"AT, JG, KB, KK, MG, PC, SD, SR, TT"
+site_name,grouping,"Name of the primary health centre (Puskesmas), as in Table 2 of the paper",9 names
+age,feature,Age (years),15-42
+trimester,feature,Trimester of pregnancy,"1, 2, 3"
+gravidity,feature,Number of pregnancies including the current one,1-8
+parity,feature,Number of previous births,0-6
+education,feature,Education level (ordinal),"1 elementary, 2 junior high, 3 senior high, 4 above senior high"
+abortion_history,feature,History of miscarriage/abortion,"1 yes, 0 no"
+employed,feature,Employed,"1 yes, 0 no"
+washing_water,feature,Water source for washing (pipe = chlorinated),"surface, pump, pipe"
+cooking_water,feature,"Water source for cooking (pipe/gallon = treated); 1 ""pipe and gallon"" merged into pipe","surface, pump, pipe, gallon"
+drinks_gallon_water,feature,"Drinking water: filtered refill-gallon water (paper: ""filtered"") vs boiled water","1 filtered gallon, 0 boiled"
+raises_cat,feature,Raises a cat,"1 yes, 0 no"
+cat_contact,feature,Contact with cats,"1 yes, 0 no"
+cleans_litter,feature,Cleans cat litter,"1 yes, 0 no"
+soil_contact,feature,Contact with soil,"1 yes, 0 no"
+eats_chicken_satay,feature,Ate undercooked meat (chicken satay) during pregnancy,"1 yes, 0 no"
+eats_raw_vegetables,feature,Ate raw vegetables during pregnancy,"1 yes, 0 no"
+drinks_unboiled_water,feature,Drank un-boiled / filtered water during pregnancy,"1 yes, 0 no"
+igg_positive,target,"Toxoplasma IgG positive, index > 1.1 (borderline coded negative)","1 positive, 0 negative"
+igg_borderline,flag,IgG borderline (index 0.9-1.1); the paper excluded these 2 women,"1 borderline, 0 not"
+igg_index,do not use,IgG antibody index from the same blood test (leaks the target),0.09-3.01
