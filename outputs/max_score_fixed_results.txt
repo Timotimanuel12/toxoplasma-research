@@ -1,0 +1,71 @@
+Training people: 13,647 (2013-2014: 4,004, 2009-2012: 9,643);  test: 1,002
+Factors selected on all training people (26): hav_natural_infection, hav_antibody, hev_igg, hsv1, hsv2, toxocara_mfi_log, wbc_count, eosinophil_pct, lymphocyte_pct, blood_lead_log, blood_mercury_log, cotinine_log, well_or_spring_water, no_tap_water, household_size, crowding, home_rented, spanish_interview, not_us_citizen, work_food_service, work_construction_soil, food_insecurity, no_health_insurance, inject_drugs_ever, hav_vaccinated, missing_teeth
+  -> identical to the notebook (same 26 factors, same order)
+Factors selected inside each fold: min 21, max 25, mean 22.7
+Fitting 120 fold models ...
+
+=== Mode: once (selection on all training people, as in the notebook)
+                                step  CV ROC-AUC  CV sd  gain vs step 0  p vs step 0  TEST ROC-AUC  notebook CV  notebook TEST
+       0 earlier best (2013-14 only)      0.7227 0.0212          0.0000          NaN        0.7126       0.7227         0.7126
+         1 + 2009-2014 training rows      0.7267 0.0212          0.0040       0.0852        0.7121       0.7267         0.7121
+2 + all earlier features, age spline      0.7256 0.0213          0.0029       0.3769        0.7132       0.7256         0.7132
+                3 + age interactions      0.7303 0.0216          0.0076       0.0312        0.7143       0.7303         0.7143
+   4 + selected bio/exposure factors      0.7346 0.0203          0.0119       0.0058        0.7333       0.7346         0.7333
+                5 + XGBoost ensemble      0.7398 0.0201          0.0171       0.0001        0.7289       0.7398         0.7297
+Best step by CV (= final model): 5 + XGBoost ensemble
+               threshold  sensitivity  specificity  balanced accuracy     TP    FN     FP     TN
+earlier model      0.142        0.653        0.662              0.658   98.0  52.0  288.0  564.0
+final model        0.126        0.740        0.604              0.672  111.0  39.0  337.0  515.0
+Paired bootstrap test gain (final - earlier): +0.016 (95% CI -0.001 to +0.034; final better in 97%)
+Notebook: earlier: thr 0.142, TP/FN/FP/TN 98/52/288/564 | final (step 5): thr 0.136, 106/44/303/549 | bootstrap gain +0.017 (+0.000 to +0.034)
+
+=== Mode: per_fold (selection inside each fold)
+                                step  CV ROC-AUC  CV sd  gain vs step 0  p vs step 0  TEST ROC-AUC
+       0 earlier best (2013-14 only)      0.7227 0.0212          0.0000          NaN        0.7126
+         1 + 2009-2014 training rows      0.7267 0.0212          0.0040       0.0852        0.7121
+2 + all earlier features, age spline      0.7256 0.0213          0.0029       0.3769        0.7132
+                3 + age interactions      0.7303 0.0216          0.0076       0.0312        0.7143
+   4 + selected bio/exposure factors      0.7327 0.0199          0.0100       0.0233        0.7333
+                5 + XGBoost ensemble      0.7381 0.0198          0.0154       0.0007        0.7289
+Best step by CV (= final model): 5 + XGBoost ensemble
+               threshold  sensitivity  specificity  balanced accuracy     TP    FN     FP     TN
+earlier model      0.142        0.653        0.662              0.658   98.0  52.0  288.0  564.0
+final model        0.131        0.727        0.622              0.674  109.0  41.0  322.0  530.0
+Paired bootstrap test gain (final - earlier): +0.016 (95% CI -0.001 to +0.034; final better in 97%)
+
+How often each factor was selected across the 15 folds (selected on all training people = *):
+  hav_natural_infection            15/15 *
+  hav_antibody                     15/15 *
+  hsv1                             15/15 *
+  toxocara_mfi_log                 15/15 *
+  hsv2                             15/15 *
+  cotinine_log                     15/15 *
+  well_or_spring_water             15/15 *
+  blood_lead_log                   15/15 *
+  no_health_insurance              15/15 *
+  food_insecurity                  15/15 *
+  work_construction_soil           15/15 *
+  missing_teeth                    15/15 *
+  not_us_citizen                   15/15 *
+  crowding                         15/15 *
+  home_rented                      15/15 *
+  spanish_interview                15/15 *
+  household_size                   15/15 *
+  eosinophil_pct                   14/15 *
+  wbc_count                        13/15 *
+  no_tap_water                     11/15 *
+  work_food_service                 9/15 *
+  blood_mercury_log                 8/15 *
+  lymphocyte_pct                    6/15 *
+  inject_drugs_ever                 6/15 *
+  hev_igg                           5/15 *
+  hav_vaccinated                    3/15 *
+  work_agriculture                  3/15 
+  oysters_30d                       3/15 
+  hcv_antibody                      1/15 
+  shellfish_30d                     1/15 
+  poultry_g_log                     1/15 
+  organ_sausage_lunchmeat_g_log     1/15 
+  beef_g_log                        1/15 
+
+Saved outputs\max_score_fixed_results.json
