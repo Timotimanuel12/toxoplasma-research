@@ -1,0 +1,19 @@
+=== 1-2. Prediction with the shared questions only (logistic regression, ROC-AUC)
+variant                                               Makassar CV  Jakarta CV          train M -> test J          train J -> test M
+main: poultry = raw or grilled; water = well/river          0.785       0.508    0.498 [0.413, 0.583]      0.382 [0.299, 0.472]
+poultry = raw only                                          0.785       0.496    0.532 [0.445, 0.623]      0.530 [0.440, 0.618]
+poultry = grilled only                                      0.785       0.518    0.493 [0.408, 0.576]      0.360 [0.279, 0.448]
+without the water question                                  0.746       0.517    0.467 [0.382, 0.555]      0.356 [0.273, 0.443]
+Reference: Makassar with ALL its questions (incl. cat contact, litter) = 0.874; Jakarta with all its questions = about 0.5.
+Calibration of train M -> test J (main): mean predicted risk 0.23 vs observed 0.66
+
+=== 3. Risk factors in each population (odds ratio adjusted for age; main variant)
+question          % yes M  % yes J     OR Makassar [95% CI]      OR Jakarta [95% CI]  differ? p
+cat                   13%      40%    1.95 [ 0.81,   4.70]    1.16 [ 0.61,   2.20]     0.3374
+soil                  14%      19%    2.06 [ 0.87,   4.85]    0.71 [ 0.32,   1.57]     0.0778
+raw_vegetables        54%      83%    1.49 [ 0.79,   2.79]    1.29 [ 0.58,   2.86]     0.7843
+poultry               52%      75%    9.40 [ 4.28,  20.61]    0.79 [ 0.38,   1.64]     0.0000
+unboiled_water        67%      12%    9.13 [ 3.41,  24.44]    1.40 [ 0.51,   3.83]     0.0090
+refill_gallon         75%      36%    3.42 [ 1.42,   8.22]    0.68 [ 0.36,   1.30]     0.0037
+education           (1-4)    (1-4)    1.05 [ 0.76,   1.47]    0.84 [ 0.61,   1.14]     0.3395
+(education: odds ratio per level; "differ? p" = test that the two odds ratios are equal)

@@ -1,0 +1,911 @@
+row_id,text,serostatus
+0,"Demographics: 26 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; touches soil.",0
+1,"Demographics: 31 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+2,"Demographics: 20 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; cleans cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+3,"Demographics: 21 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+4,"Demographics: 26 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+5,"Demographics: 20 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; cleans cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+6,"Demographics: 39 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+7,"Demographics: 35 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 8; 6 previous births; has had a miscarriage.
+Cats: does not keep a cat; has contact with cats; cleans cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+8,"Demographics: 31 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 4; 3 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; touches soil.",1
+9,"Demographics: 17 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; cleans cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+10,"Demographics: 19 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+11,"Demographics: 26 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+12,"Demographics: 32 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+13,"Demographics: 24 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+14,"Demographics: 21 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+15,"Demographics: 31 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 4; 3 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+16,"Demographics: 27 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+17,"Demographics: 28 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 4; 3 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+18,"Demographics: 23 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; no previous births; has had a miscarriage.
+Cats: does not keep a cat; has contact with cats; cleans cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; touches soil.",0
+19,"Demographics: 17 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+20,"Demographics: 23 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+21,"Demographics: 26 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; cleans cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses refilled gallon water for cooking; touches soil.",0
+22,"Demographics: 35 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 5; 4 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+23,"Demographics: 30 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+24,"Demographics: 24 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+25,"Demographics: 25 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+26,"Demographics: 34 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 6; 4 previous births; has had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+27,"Demographics: 22 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+29,"Demographics: 26 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+30,"Demographics: 20 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+31,"Demographics: 24 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+32,"Demographics: 35 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 6; 5 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+33,"Demographics: 24 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 4; 2 previous births; has had a miscarriage.
+Cats: keeps a cat; has contact with cats; cleans cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+34,"Demographics: 33 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; cleans cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+35,"Demographics: 23 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+36,"Demographics: 32 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+37,"Demographics: 29 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",1
+38,"Demographics: 22 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+39,"Demographics: 26 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; touches soil.",1
+40,"Demographics: 42 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is employed.
+Pregnancy history: this is pregnancy number 5; 4 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+41,"Demographics: 34 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+42,"Demographics: 35 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+43,"Demographics: 28 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+44,"Demographics: 24 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 4; 3 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; cleans cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",1
+45,"Demographics: 25 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+46,"Demographics: 26 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 4; 3 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+47,"Demographics: 21 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses river or other surface water for bathing and washing; uses river or other surface water for cooking; never touches soil.",0
+48,"Demographics: 33 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+49,"Demographics: 29 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+50,"Demographics: 26 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+51,"Demographics: 26 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+52,"Demographics: 24 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+53,"Demographics: 17 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+54,"Demographics: 32 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+55,"Demographics: 24 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+56,"Demographics: 34 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+57,"Demographics: 23 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+58,"Demographics: 30 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses refilled gallon water for cooking; never touches soil.",0
+59,"Demographics: 19 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+60,"Demographics: 25 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; no previous births; has had a miscarriage.
+Cats: keeps a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+61,"Demographics: 26 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses refilled gallon water for cooking; never touches soil.",0
+62,"Demographics: 29 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 1 previous birth; has had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; touches soil.",1
+63,"Demographics: 17 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+64,"Demographics: 24 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+65,"Demographics: 25 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 1 previous birth; has had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses river or other surface water for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+66,"Demographics: 27 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+67,"Demographics: 29 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+68,"Demographics: 36 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses river or other surface water for bathing and washing; uses river or other surface water for cooking; touches soil.",1
+69,"Demographics: 27 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 4; 3 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses refilled gallon water for cooking; never touches soil.",1
+70,"Demographics: 38 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 1 previous birth; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+71,"Demographics: 26 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses river or other surface water for bathing and washing; uses refilled gallon water for cooking; never touches soil.",1
+72,"Demographics: 29 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished junior high school; is employed.
+Pregnancy history: this is pregnancy number 3; 1 previous birth; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+73,"Demographics: 19 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 1 previous birth; has had a miscarriage.
+Cats: keeps a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+74,"Demographics: 18 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+75,"Demographics: 28 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; touches soil.",0
+76,"Demographics: 22 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+77,"Demographics: 33 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; cleans cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+78,"Demographics: 34 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 7; 6 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses river or other surface water for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+79,"Demographics: 24 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 4; 3 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+80,"Demographics: 18 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+81,"Demographics: 23 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses refilled gallon water for cooking; never touches soil.",0
+82,"Demographics: 32 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+83,"Demographics: 21 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses refilled gallon water for cooking; never touches soil.",0
+84,"Demographics: 16 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+85,"Demographics: 24 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; cleans cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses piped tap water (PAM) for cooking; touches soil.",0
+86,"Demographics: 36 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 1 previous birth; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+87,"Demographics: 25 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 1 previous birth; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+88,"Demographics: 32 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; touches soil.",1
+89,"Demographics: 24 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; cleans cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses river or other surface water for bathing and washing; uses river or other surface water for cooking; touches soil.",0
+90,"Demographics: 22 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; cleans cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses river or other surface water for bathing and washing; uses river or other surface water for cooking; never touches soil.",1
+91,"Demographics: 38 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; touches soil.",0
+92,"Demographics: 22 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+93,"Demographics: 32 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 3; 1 previous birth; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+94,"Demographics: 26 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; cleans cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",1
+95,"Demographics: 22 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+96,"Demographics: 24 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+97,"Demographics: 20 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses river or other surface water for bathing and washing; uses river or other surface water for cooking; never touches soil.",0
+98,"Demographics: 26 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+99,"Demographics: 21 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; touches soil.",0
+100,"Demographics: 26 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+101,"Demographics: 25 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished primary school; is employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses refilled gallon water for cooking; never touches soil.",1
+102,"Demographics: 32 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished junior high school; is employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; touches soil.",0
+103,"Demographics: 23 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+104,"Demographics: 23 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+105,"Demographics: 28 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 2; no previous births; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",1
+106,"Demographics: 25 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+107,"Demographics: 32 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 4; 2 previous births; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+108,"Demographics: 35 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+109,"Demographics: 24 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 5; 4 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",1
+110,"Demographics: 29 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",1
+111,"Demographics: 22 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; touches soil.",1
+112,"Demographics: 21 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses river or other surface water for bathing and washing; uses river or other surface water for cooking; touches soil.",0
+113,"Demographics: 19 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",1
+114,"Demographics: 25 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; touches soil.",0
+115,"Demographics: 28 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 1 previous birth; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+116,"Demographics: 39 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",1
+117,"Demographics: 30 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+118,"Demographics: 29 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; no previous births; has had a miscarriage.
+Cats: does not keep a cat; has contact with cats; cleans cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; touches soil.",1
+119,"Demographics: 34 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 6; 3 previous births; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+120,"Demographics: 37 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses refilled gallon water for cooking; never touches soil.",0
+121,"Demographics: 23 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+122,"Demographics: 34 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 3; 1 previous birth; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; touches soil.",1
+123,"Demographics: 28 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 6; 3 previous births; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; touches soil.",0
+124,"Demographics: 23 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+125,"Demographics: 36 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 5; 3 previous births; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+126,"Demographics: 26 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+127,"Demographics: 37 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",1
+128,"Demographics: 28 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 1 previous birth; has had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; touches soil.",1
+129,"Demographics: 30 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+130,"Demographics: 28 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses refilled gallon water for cooking; never touches soil.",0
+131,"Demographics: 26 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+132,"Demographics: 24 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",1
+133,"Demographics: 39 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+134,"Demographics: 27 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses refilled gallon water for cooking; never touches soil.",0
+135,"Demographics: 15 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+136,"Demographics: 32 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; no previous births; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses refilled gallon water for cooking; touches soil.",1
+137,"Demographics: 32 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+138,"Demographics: 27 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",1
+139,"Demographics: 19 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+140,"Demographics: 18 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+141,"Demographics: 20 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; cleans cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",1
+142,"Demographics: 21 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses refilled gallon water for cooking; never touches soil.",0
+143,"Demographics: 26 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+144,"Demographics: 36 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 6; 5 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+145,"Demographics: 25 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",1
+146,"Demographics: 38 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 5; 2 previous births; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",1
+147,"Demographics: 26 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+148,"Demographics: 33 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+150,"Demographics: 21 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+151,"Demographics: 31 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+152,"Demographics: 30 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+153,"Demographics: 32 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished junior high school; is employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+154,"Demographics: 20 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+155,"Demographics: 32 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+156,"Demographics: 18 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+157,"Demographics: 33 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 4; 3 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; touches soil.",1
+158,"Demographics: 25 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+159,"Demographics: 24 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+160,"Demographics: 29 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+161,"Demographics: 38 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+162,"Demographics: 29 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 5; 2 previous births; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+163,"Demographics: 28 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 4; 2 previous births; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses refilled gallon water for cooking; never touches soil.",0
+164,"Demographics: 26 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+165,"Demographics: 20 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 4; 3 previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; cleans cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",1
+166,"Demographics: 28 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+167,"Demographics: 30 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses refilled gallon water for cooking; never touches soil.",0
+168,"Demographics: 29 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+169,"Demographics: 28 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; never touches soil.",0
+170,"Demographics: 34 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+171,"Demographics: 24 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; no previous births; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+172,"Demographics: 26 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished primary school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+173,"Demographics: 19 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+174,"Demographics: 18 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+175,"Demographics: 32 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 5; 3 previous births; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+176,"Demographics: 32 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished junior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks boiled water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+177,"Demographics: 22 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 1 previous birth; has had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; touches soil.",0
+178,"Demographics: 25 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: keeps a cat; has contact with cats; cleans cat litter.
+Food (during pregnancy): ate undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses river or other surface water for bathing and washing; uses river or other surface water for cooking; never touches soil.",1
+179,"Demographics: 31 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: studied beyond senior high school; is not employed.
+Pregnancy history: this is pregnancy number 2; 1 previous birth; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+180,"Demographics: 24 years old; female; pregnant, in the third trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses piped tap water (PAM) for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0
+181,"Demographics: 30 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is not employed.
+Pregnancy history: this is pregnancy number 3; 2 previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses refilled gallon water for cooking; never touches soil.",0
+182,"Demographics: 23 years old; female; pregnant, in the first trimester; lives in Makassar, Indonesia; education: finished senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has contact with cats; does not clean cat litter.
+Food (during pregnancy): ate undercooked chicken satay; ate raw vegetables.
+Water and soil: drinks filtered refilled gallon water; drank un-boiled water during pregnancy; uses pumped well water for bathing and washing; uses pumped well water for cooking; touches soil.",1
+183,"Demographics: 23 years old; female; pregnant, in the second trimester; lives in Makassar, Indonesia; education: finished senior high school; is employed.
+Pregnancy history: this is pregnancy number 1; no previous births; has never had a miscarriage.
+Cats: does not keep a cat; has no contact with cats; does not clean cat litter.
+Food (during pregnancy): did not eat undercooked chicken satay; did not eat raw vegetables.
+Water and soil: drinks filtered refilled gallon water; did not drink un-boiled water during pregnancy; uses river or other surface water for bathing and washing; uses piped tap water (PAM) for cooking; never touches soil.",0

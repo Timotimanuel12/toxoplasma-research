@@ -1,0 +1,21 @@
+Jakarta HIV data: 186 people, 123 positive (66%), 76 features
+
+A. 5-fold CV x 20 repeats (mean +/- SD over 100 folds; threshold 0.5)
+model                           ROC-AUC  PR-AUC  accuracy  bal.acc  F1 pos  F1 wtd
+Dummy: always positive   0.500 +/- 0.000   0.661     0.661    0.500   0.796   0.527
+Dummy: random guess      0.486 +/- 0.075   0.658     0.537    0.486   0.647   0.538
+Logistic regression      0.472 +/- 0.091   0.672     0.567    0.483   0.693   0.544
+Decision tree            0.538 +/- 0.084   0.702     0.571    0.505   0.680   0.551
+Random forest            0.506 +/- 0.079   0.690     0.654    0.499   0.789   0.531
+k-nearest neighbours     0.514 +/- 0.100   0.695     0.626    0.492   0.762   0.543
+Naive Bayes              0.465 +/- 0.096   0.654     0.394    0.476   0.274   0.326
+SVM (RBF)                0.466 +/- 0.088   0.671     0.660    0.499   0.795   0.526
+Balanced accuracy 0.5 and ROC-AUC 0.5 = no better than guessing.
+
+B. One 70/30 split (the earlier paper's design), repeated with 100 different seeds
+model                      ROC-AUC range (5th-95th pct)    weighted F1 range
+Dummy: always positive   0.500 (0.500-0.500)        0.526 (0.526-0.526)
+Logistic regression      0.480 (0.382-0.591)        0.545 (0.464-0.637)
+Random forest            0.501 (0.365-0.612)        0.531 (0.508-0.565)
+SVM (RBF)                0.508 (0.398-0.610)        0.527 (0.517-0.556)
+A single split can land anywhere in these ranges, so one split alone cannot show a model works.

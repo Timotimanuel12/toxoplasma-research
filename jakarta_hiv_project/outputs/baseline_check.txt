@@ -1,0 +1,14 @@
+Jakarta HIV data: 186 people (123 positive, 66%); 5-fold CV x 20 repeats
+
+feature set                                          model                ROC-AUC          PR-AUC   Brier
+all questions (76)                                   LogReg       0.472 +/- 0.091  0.672 +/- 0.062  0.279
+all questions (76)                                   RandomForest 0.506 +/- 0.079  0.690 +/- 0.060  0.230
+exposures (cats, food, water, soil, hygiene) (35)    LogReg       0.365 +/- 0.077  0.618 +/- 0.052  0.270
+exposures (cats, food, water, soil, hygiene) (35)    RandomForest 0.456 +/- 0.081  0.674 +/- 0.056  0.233
+background (age, gender, education, household goods) (15) LogReg       0.535 +/- 0.082  0.706 +/- 0.057  0.233
+background (age, gender, education, household goods) (15) RandomForest 0.582 +/- 0.090  0.717 +/- 0.068  0.222
+age only (1)                                         LogReg       0.582 +/- 0.098  0.754 +/- 0.065  0.222
+
+Trivial baselines (what an LLM must beat):
+  everyone gets the same risk (0.66):  ROC-AUC 0.500, PR-AUC 0.661, Brier 0.224
+  everyone called positive:            F1 (positive class) 0.796, weighted F1 0.526, accuracy 0.661

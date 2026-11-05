@@ -149,3 +149,14 @@ Self-distillation behaves like regularisation, which fits the theory. On this sm
 2. **Self-distillation on top of weight decay:** does it add anything to a well-regularised MLP (3–4 conditions)?
 3. Other methods from Mr Feri's list: knowledge distillation (e.g. LR teacher → MLP student), multi-teacher KD, deep mutual learning (the code in `common.py` / `train_self_distillation.py` supports other teachers).
 4. **Write-up.** Verify these references before citing: Hinton et al. 2015 (knowledge distillation), Furlanello et al. 2018 (Born-Again Networks), Zhang et al. 2019 (Be Your Own Teacher), Mobahi et al. 2020 (self-distillation as regularisation), Müller, Kornblith & Hinton 2019 and Yuan et al. 2020 (link with label smoothing), plus Polanunu et al. 2021 (data).
+
+## 8. Added November 2026 (for the LLM paper)
+- **Standard ML report** (`scripts/standard_ml.py` -> `outputs/standard_ml_results.txt`), same format as the Jakarta HIV study:
+  six simple models + two dummies, all 17 questions, 5-fold CV x 20. Logistic regression best: ROC-AUC 0.874,
+  accuracy 77.6% (dummy "always negative" 67.0%), balanced accuracy 0.73. Confusion matrix (threshold 0.5): finds
+  39 of 60 infected, 100 of 122 uninfected correct. One 70/30 split: ROC-AUC 0.80-0.92 over 100 seeds (always far
+  above chance; Jakarta: 0.37-0.61).
+- **LLM package** (`scripts/make_llm_handoff.py` -> `outputs/llm_handoff/`, zipped): 182 English text profiles,
+  separate answer key, out-of-fold LR risk per woman (pooled ROC-AUC 0.878), README with fairness rules.
+- **Cross-population test** with the Jakarta HIV study: see `../jakarta_hiv_project/outputs/cross_dataset.txt`
+  (models do not transfer; undercooked poultry OR 9.4 here vs 0.8 in Jakarta).

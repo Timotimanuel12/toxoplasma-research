@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+
+# Sensitive health data (HIV study): never commit
+jakarta_hiv_project/data/
+jakarta_hiv_project/docs/
+makassar_project/outputs/*.zip
