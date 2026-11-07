@@ -1,0 +1,251 @@
+maritalstatus,age,Occupation,education,tribe,residence,trimester,Chidren,miscarriage,stillbirth,fever,cough,headache,CATpossession,CatCONTACT,CATlitters,CatProximity,strayCAT,gardening,farmwork,undercookedmeat,rawmeat,untreatedwater,unpasturizedmilk,watersourcePIPEBORNE,watersorceWELL,watersourceSATCHET,watersourceBOREHOLE,watersourceSPRING,boilfilterwaterguard,vegetablesandfruits,kitchenknife,washhand,sexpartners,HIVstatus,contactCATS,contactCATlitters,contactWATER,contactSOIL,contactFRUITvege,contactKNIVES,contactUNWASHEDhand,contactMILK,target_toxo_pos
+married,20-30,daily labourers,secondary,igbo,urban,3rd,nil,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,merchant,secondary,igbo,urban,1st,4,YES,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,YES,YES,>1,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,rural,3rd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,YES,YES,YES,>1,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,3rd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,YES,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,merchant,secondary,igbo,urban,2nd,3,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,YES,YES,1 partner,NO,YES,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,,urban,3rd,1,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,urban,1st,2,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,daily labourers,tertiary,igbo,urban,3rd,nil,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,YES,YES,>1,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,urban,3rd,3,NO,NO,YES,YES,YES,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,secondary,igbo,urban,3rd,1,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,YES,YES,>1,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,housewife,illiterate,igbo,rural,3rd,1,NO,YES,NO,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,3rd,nil,NO,NO,YES,YES,YES,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,NO,NO,NO,YES,NO,NO,YES,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,urban,2nd,2,YES,NO,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,YES,YES,YES,YES,YES,YES,YES,YES,0
+married,20-30,civil servants,tertiary,igbo,urban,3rd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,urban,3rd,4,YES,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,YES,YES,YES,YES,NO,YES,YES,1
+married,20-30,civil servants,tertiary,igbo,urban,1st,3,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,YES,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,2nd,1,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,>40,civil servants,tertiary,igbo,urban,2nd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,YES,YES,1 partner,NO,YES,YES,YES,YES,YES,YES,YES,YES,1
+married,31-40,civil servants,tertiary,igbo,urban,3rd,nil,YES,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,>40,civil servants,tertiary,igbo,urban,2nd,1,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,YES,>1,NO,NO,YES,YES,NO,NO,NO,NO,NO,0
+married,20-30,merchant,secondary,igbo,urban,3rd,nil,NO,NO,YES,YES,YES,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,rural,3rd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,YES,>1,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,<20,merchant,secondary,igbo,urban,2nd,1,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+single,31-40,merchant,secondary,igbo,urban,2nd,4,YES,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,merchant,secondary,igbo,rural,2nd,4,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,YES,YES,YES,YES,0,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,merchant,secondary,,rural,3rd,4,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,>40,civil servants,secondary,igbo,urban,2nd,4,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,housewife,tertiary,igbo,urban,3rd,2,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,merchant,tertiary,igbo,urban,3rd,nil,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,urban,2nd,1,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,daily labourers,secondary,igbo,urban,3rd,4,YES,YES,NO,NO,YES,NO,YES,NO,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,YES,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,merchant,tertiary,igbo,urban,3rd,1,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,10,NO,NO,NO,NO,YES,NO,YES,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,urban,3rd,5,YES,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,,NO,NO,1
+married,<20,merchant,secondary,igbo,urban,2nd,4,YES,NO,YES,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,YES,YES,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,civil servants,tertiary,igbo,urban,3rd,1,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,YES,YES,>1,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,urban,3rd,4,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,,rural,2nd,2,YES,YES,YES,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,housewife,tertiary,igbo,rural,2nd,1,YES,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,civil servants,tertiary,igbo,urban,2nd,1,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,urban,3rd,2,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,civil servants,tertiary,igbo,urban,3rd,nil,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,civil servants,tertiary,igbo,urban,3rd,1,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,urban,3rd,5,YES,NO,NO,YES,NO,NO,NO,NO,NO,YES,YES,YES,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO,NO,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,housewife,secondary,igbo,urban,3rd,5,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,daily labourers,tertiary,igbo,urban,2nd,1,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,daily labourers,secondary,igbo,urban,3rd,1,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,merchant,tertiary,yoruba,urban,2nd,nil,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,YES,>1,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,housewife,primary,igbo,urban,2nd,1,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,3,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,merchant,secondary,igbo,urban,2nd,4,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,tertiary,igbo,urban,3rd,2,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,merchant,secondary,igbo,urban,3rd,1,NO,NO,YES,YES,YES,NO,NO,NO,YES,NO,YES,NO,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,urban,3rd,1,NO,NO,YES,YES,YES,NO,NO,NO,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,daily labourers,tertiary,igbo,urban,2nd,nil,YES,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,tertiary,igbo,urban,3rd,2,YES,YES,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,housewife,tertiary,igbo,urban,2nd,2,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,5,civil servants,tertiary,igbo,urban,3rd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,urban,2nd,2,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,merchant,secondary,,urban,2nd,2,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,student,tertiary,igbo,urban,2nd,nil,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,urban,2nd,4,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,YES,0,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,2nd,nil,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,student,secondary,igbo,urban,2nd,2,YES,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,student,tertiary,igbo,urban,3rd,2,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,student,tertiary,igbo,urban,2nd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,student,tertiary,igbo,urban,3rd,nil,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,student,secondary,igbo,urban,3rd,nil,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,student,secondary,igbo,urban,3rd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,student,tertiary,igbo,urban,1st,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,YES,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,rural,1st,3,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,civil servants,tertiary,igbo,urban,2nd,nil,2,2,2,2,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,,urban,3rd,1,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,student,secondary,igbo,urban,3rd,3,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,>40,student,tertiary,igbo,urban,3rd,4,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,student,secondary,igbo,urban,1st,4,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,daily labourers,secondary,igbo,urban,1st,nil,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,YES,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,student,tertiary,4,rural,2nd,1,YES,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,urban,3rd,2,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,urban,2nd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,student,secondary,igbo,urban,3rd,2,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,housewife,secondary,igbo,urban,3rd,1,YES,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,housewife,tertiary,igbo,urban,3rd,nil,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,3rd,nil,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,3rd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,urban,3rd,2,YES,NO,NO,NO,YES,NO,NO,YES,NO,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,>40,civil servants,tertiary,igbo,rural,3rd,nil,YES,YES,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+widow,31-40,daily labourers,secondary,igbo,rural,2nd,3,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,YES,NO,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,<20,daily labourers,secondary,igbo,rural,2nd,nil,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,primary,igbo,rural,1st,nil,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,housewife,secondary,igbo,rural,3rd,2,NO,NO,NO,YES,YES,NO,YES,NO,YES,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,rural,2nd,3,NO,NO,YES,YES,YES,NO,NO,NO,YES,YES,NO,NO,NO,NO,YES,NO,,NO,YES,NO,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,housewife,tertiary,igbo,rural,3rd,nil,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,rural,3rd,3,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,rural,2nd,4,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,student,tertiary,igbo,rural,1st,nil,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,daily labourers,secondary,igbo,rural,3rd,nil,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,rural,3rd,3,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,rural,3rd,nil,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,daily labourers,secondary,igbo,rural,3rd,2,YES,YES,YES,YES,YES,NO,NO,NO,YES,YES,YES,NO,NO,YES,YES,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,rural,3rd,6,NO,NO,YES,NO,NO,NO,YES,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,YES,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,housewife,primary,igbo,rural,2nd,2,YES,YES,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,student,tertiary,igbo,urban,2nd,nil,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,urban,3rd,2,NO,YES,YES,NO,YES,NO,NO,NO,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,urban,3rd,nil,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,daily labourers,tertiary,igbo,urban,3rd,3,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,YES,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,housewife,tertiary,igbo,urban,3rd,2,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,urban,3rd,nil,YES,NO,YES,NO,YES,NO,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,daily labourers,secondary,igbo,urban,3rd,3,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,daily labourers,secondary,igbo,urban,3rd,nil,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,rural,2nd,3,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,student,tertiary,igbo,urban,3rd,1,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,urban,3rd,2,NO,NO,NO,NO,10,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,YES,1 partner,NO,YES,YES,YES,NO,NO,NO,YES,NO,0
+married,31-40,daily labourers,secondary,igbo,urban,3rd,3,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,urban,3rd,2,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,YES,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,urban,1st,1,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,student,tertiary,igbo,urban,1st,2,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,student,tertiary,igbo,urban,2nd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,daily labourers,secondary,igbo,urban,3rd,1,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,rural,3rd,2,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+single,<20,student,secondary,igbo,urban,2nd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,,urban,3rd,2,NO,YES,NO,NO,YES,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,3rd,nil,NO,NO,NO,NO,NO,YES,YES,NO,YES,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,2nd,nil,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,,urban,1st,1,NO,NO,YES,YES,YES,NO,NO,NO,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,1st,nil,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,urban,2nd,1,YES,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,YES,YES,YES,NO,NO,NO,YES,YES,1
+married,20-30,student,secondary,igbo,urban,3rd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,3rd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,urban,2nd,1,NO,NO,NO,NO,NO,NO,YES,NO,YES,YES,YES,YES,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,urban,3rd,1,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,secondary,,urban,2nd,3,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,urban,2nd,2,YES,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,YES,YES,1 partner,NO,YES,YES,YES,NO,YES,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,urban,2nd,1,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,primary,igbo,rural,3rd,4,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,>40,civil servants,tertiary,igbo,urban,2nd,3,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,student,tertiary,igbo,urban,3rd,3,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,urban,1st,nil,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,3,3rd,1,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,<20,student,secondary,igbo,urban,3rd,nil,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,housewife,primary,igbo,urban,1st,3,YES,YES,YES,NO,YES,NO,NO,NO,NO,YES,YES,YES,YES,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,NO,NO,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,,urban,1st,nil,NO,NO,10,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,rural,3rd,3,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,tertiary,igbo,urban,3rd,nil,YES,NO,YES,YES,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,1st,2,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,daily labourers,tertiary,igbo,urban,1st,nil,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,rural,3rd,3,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,YES,NO,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,rural,3rd,3,NO,NO,NO,YES,NO,YES,NO,NO,NO,YES,YES,YES,YES,NO,YES,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,daily labourers,secondary,igbo,rural,2nd,2,NO,NO,YES,NO,NO,NO,NO,NO,YES,YES,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,rural,3rd,nil,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,NO,YES,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,rural,3rd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,rural,3rd,4,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,YES,YES,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,rural,1st,2,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,housewife,secondary,igbo,rural,2nd,nil,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,daily labourers,secondary,igbo,rural,2nd,nil,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,rural,3rd,3,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,YES,YES,YES,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,rural,3rd,1,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,YES,YES,YES,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,rural,3rd,3,NO,NO,3,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,tertiary,igbo,rural,3rd,1,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,daily labourers,secondary,,rural,2nd,1,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,rural,2nd,nil,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,housewife,secondary,igbo,rural,3rd,nil,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,>40,civil servants,tertiary,igbo,rural,1st,2,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,rural,3rd,nil,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,YES,YES,0,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,daily labourers,secondary,hausa,rural,3rd,1,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,YES,YES,0,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,rural,2nd,nil,NO,NO,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,>40,housewife,secondary,igbo,rural,2nd,5,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,NO,YES,0,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,housewife,secondary,igbo,rural,3rd,3,NO,NO,NO,YES,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,rural,2nd,2,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,urban,2nd,3,NO,YES,YES,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,merchant,secondary,igbo,urban,2nd,5,NO,NO,YES,NO,NO,NO,YES,NO,YES,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,YES,NO,YES,NO,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,1st,nil,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,YES,YES,YES,YES,YES,YES,YES,YES,0
+single,<20,civil servants,tertiary,igbo,urban,3rd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,YES,NO,NO,NO,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,daily labourers,secondary,igbo,urban,1st,1,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,urban,3rd,3,3,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,secondary,igbo,urban,3rd,3,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,NO,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,urban,3rd,3,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,urban,2nd,1,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,daily labourers,secondary,igbo,urban,2nd,nil,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,,rural,2nd,1,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,urban,3rd,1,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,urban,2nd,1,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,YES,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,2nd,nil,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,housewife,tertiary,,urban,3rd,nil,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,student,tertiary,igbo,rural,1st,nil,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,daily labourers,secondary,igbo,urban,1st,6,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,urban,3rd,1,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,YES,YES,YES,YES,YES,YES,YES,YES,1
+married,20-30,housewife,tertiary,igbo,rural,1st,1,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,rural,3rd,1,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,2nd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,student,secondary,igbo,urban,3rd,nil,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,tertiary,igbo,urban,3rd,3,NO,YES,YES,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,daily labourers,tertiary,igbo,urban,2nd,2,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,urban,2nd,2,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,rural,1st,nil,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,YES,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,merchant,tertiary,igbo,urban,2nd,1,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,rural,3rd,nil,YES,NO,YES,NO,YES,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,urban,3rd,3,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,rural,3rd,nil,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,housewife,tertiary,igbo,rural,1st,2,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,rural,2nd,4,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,tertiary,,rural,0,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,civil servants,tertiary,igbo,urban,3rd,nil,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,YES,YES,YES,NO,YES,NO,NO,YES,0
+married,31-40,civil servants,tertiary,igbo,urban,2nd,3,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,rural,2nd,1,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,civil servants,tertiary,igbo,urban,2nd,nil,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,YES,YES,YES,YES,YES,YES,YES,0
+married,20-30,civil servants,tertiary,igbo,rural,1st,1,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,YES,>1,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,housewife,tertiary,igbo,rural,3rd,3,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,merchant,tertiary,igbo,urban,1st,nil,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,YES,YES,0,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,urban,3rd,1,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,2nd,1,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,>1,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,housewife,secondary,igbo,rural,2nd,1,NO,YES,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,rural,3rd,nil,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,housewife,tertiary,igbo,urban,1st,2,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,tertiary,igbo,urban,2nd,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,YES,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,urban,1st,2,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,urban,2nd,2,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,urban,3rd,1,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,YES,YES,YES,YES,YES,YES,YES,YES,0
+married,31-40,housewife,tertiary,igbo,urban,3rd,2,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,urban,3rd,2,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,>40,daily labourers,primary,igbo,urban,3rd,3,NO,YES,YES,YES,YES,NO,NO,NO,YES,YES,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,merchant,secondary,igbo,urban,2nd,1,NO,NO,NO,YES,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,rural,2nd,nil,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,tertiary,igbo,urban,3rd,2,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,rural,2nd,4,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,2nd,1,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,YES,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,20-30,student,tertiary,igbo,urban,3rd,nil,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,YES,NO,NO,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,urban,2nd,2,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,urban,3rd,1,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,student,tertiary,igbo,urban,2nd,nil,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,2nd,nil,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,YES,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,1st,nil,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,YES,NO,NO,YES,NO,NO,YES,0
+married,31-40,daily labourers,secondary,igbo,urban,1st,nil,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,YES,NO,NO,YES,NO,YES,NO,NO,NO,NO,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,housewife,secondary,igbo,urban,2nd,2,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,urban,3rd,nil,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,daily labourers,secondary,igbo,urban,3rd,1,YES,NO,YES,YES,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,rural,2nd,2,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,YES,NO,YES,NO,YES,YES,1
+married,31-40,civil servants,secondary,igbo,urban,3rd,4,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,1st,2,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,urban,2nd,2,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,urban,2nd,2,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,daily labourers,secondary,igbo,rural,3rd,3,NO,NO,NO,YES,YES,NO,NO,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,2nd,nil,NO,NO,YES,YES,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,urban,2nd,3,YES,NO,YES,NO,NO,NO,YES,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,urban,3rd,1,NO,NO,NO,NO,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,merchant,secondary,igbo,urban,1st,2,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,tertiary,igbo,rural,2nd,1,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,20-30,civil servants,tertiary,igbo,rural,1st,1,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,YES,1 partner,YES,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,daily labourers,secondary,igbo,urban,1st,1,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,YES,YES,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,secondary,igbo,urban,3rd,1,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1
+married,31-40,civil servants,secondary,igbo,rural,3rd,4,YES,NO,YES,YES,YES,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,YES,NO,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,0
+married,31-40,civil servants,tertiary,igbo,urban,1st,nil,YES,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,YES,NO,YES,YES,1 partner,NO,NO,NO,NO,NO,NO,NO,NO,NO,1

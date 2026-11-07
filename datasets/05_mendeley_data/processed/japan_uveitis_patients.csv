@@ -1,0 +1,84 @@
+sex,age at exam,finding,laterarity,target_toxo_pos
+female,73,iritis,both,1
+female,62,iritis,right,0
+male,28,iritis,left,0
+female,77,peripheral corneal infiltration,right,1
+female,73,iritis,both,0
+male,65,episcleritis,right,0
+female,38,other,left,0
+female,22,episcleritis,left,0
+male,74,other,unknown,0
+female,32,subretinal neovascularization,right,0
+female,72,uveitis,right,0
+female,65,iritis,both,0
+male,63,other,both,1
+female,73,episcleritis,both,0
+female,58,other,right,1
+female,63,other,right,0
+female,77,peripheral corneal infiltration,right,0
+male,59,iritis,left,0
+male,71,iritis,both,1
+female,60,peripheral corneal infiltration,left,0
+female,69,uveitis,both,0
+female,56,other,right,0
+female,57,other,right,0
+female,66,iritis,both,0
+female,78,iritis,right,1
+female,68,iritis,right,0
+female,68,uveitis,right,1
+female,80,other,right,0
+female,64,uveitis,right,0
+female,73,iritis,right,0
+male,42,other,both,1
+female,72,iritis,right,1
+male,74,uveitis,both,0
+female,35,iritis,right,0
+female,55,uveitis,both,0
+female,63,episcleritis,right,0
+female,59,uveitis,right,0
+male,69,uveitis,right,1
+female,68,uveitis,left,0
+male,63,uveitis,both,0
+male,67,iritis,both,0
+female,33,iritis,right,0
+male,64,uveitis,both,0
+female,68,subretinal neovascularization,right,0
+female,31,episcleritis,left,0
+female,46,subretinal neovascularization,right,0
+female,67,uveitis,right,0
+female,13,uveitis,both,0
+male,61,uveitis,right,0
+female,26,subretinal neovascularization,right,0
+female,65,subretinal neovascularization,right,0
+female,59,subretinal neovascularization,left,1
+female,59,subretinal neovascularization,right,0
+female,37,uveitis,right,0
+female,10,uveitis,both,0
+male,70,uveitis,both,1
+female,49,iritis,left,0
+female,35,uveitis,both,0
+female,55,uveitis,both,0
+male,56,uveitis,right,0
+male,37,episcleritis,left,0
+female,74,uveitis,right,1
+female,78,iritis,right,0
+female,8,uveitis,both,0
+female,51,iritis,both,0
+female,74,iritis,right,1
+female,49,iritis,right,0
+female,66,iritis,right,0
+female,44,iritis,right,0
+male,56,other,both,0
+female,73,uveitis,left,0
+male,38,iritis,right,0
+female,82,uveitis,right,0
+female,62,other,left,0
+female,31,iritis,both,0
+male,59,iritis,both,1
+female,75,iritis,right,1
+female,72,uveitis,both,1
+female,72,episcleritis,right,0
+female,73,uveitis,both,0
+female,82,peripheral corneal infiltration,right,0
+male,76,iritis,left,0
+male,43,iritis,right,0

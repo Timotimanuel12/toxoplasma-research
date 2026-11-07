@@ -1,0 +1,641 @@
+Edad,Lugar_residencia,Estado_civil,Semestre_académico,¿Con_qué_frecuencia_tiene_contacto_con_gatos,¿Tienes_gatos_en_tu_casa,¿Has_tenido_gatos_en_tu_casa,¿Usted_consume_carne,La_carne_que_consume_es,¿Con_qué_frecuencia_lava_sus_manos_antes_de_comer,Frecuencia_lavado_frutas,Nivel_de_conocimiento,Fuente_de_consuml_agua,Equipo_de_proteción,Historia_abortos,Periodo_abortos,target_toxo_pos
+18.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,SÍ,SI,BIEN COCIDA,SIEMPRE,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,NO,SI,BIEN COCIDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,NO,NO,NO APLICA,0
+20.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,SÍ,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,NO,SI,BIEN COCIDA,SIEMPRE,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,NUNCA,SÍ,SÍ,SI,BIEN COCIDA,SIEMPRE,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,NO,SI,BIEN COCIDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,SÍ,SI,BIEN COCIDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,PRIMERO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,PRIMERO,NUNCA,SÍ,SÍ,SI,CRUDA,SIEMPRE,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,PRIMERO,NUNCA,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,SIEMPRE,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,PRIMERO,NUNCA,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,SIEMPRE,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+21.0,URBANO,Soltera,PRIMERO,DIARIO,SÍ,SÍ,SI,BIEN COCIDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,SÍ,SI,BIEN COCIDA,SIEMPRE,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,SÍ,SI,BIEN COCIDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,NUNCA,NO,SÍ,SI,BIEN COCIDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,PRIMERO,DIARIO,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,NO,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,NO,SI,BIEN COCIDA,SIEMPRE,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,PRIMERO,DIARIO,NO,SÍ,SI,BIEN COCIDA,SIEMPRE,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,NO,SI,BIEN COCIDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,NUNCA,NO,NO,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+17.0,URBANO,Soltera,PRIMERO,DIARIO,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,PRIMERO,NUNCA,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,SÍ,SI,BIEN COCIDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,PRIMERO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,SÍ,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,NO,NO,NO APLICA,1
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,SÍ,SI,BIEN COCIDA,SIEMPRE,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,PRIMERO,DIARIO,SÍ,SÍ,SI,BIEN COCIDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,SIEMPRE,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,SIEMPRE,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,NO,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,NO,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,PRIMERO,DIARIO,SÍ,SÍ,SI,BIEN COCIDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+21.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,SÍ,SI,BIEN COCIDA,SIEMPRE,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,NO,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,SÍ,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,PRIMERO,DIARIO,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+22.0,URBANO,Soltera,PRIMERO,DIARIO,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,NO,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,NO,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,DIARIO,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,PRIMERO,DIARIO,NO,SÍ,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,PRIMERO,DIARIO,SÍ,SÍ,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,DIARIO,SÍ,SÍ,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,NO,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,NO,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,DIARIO,NO,21.0,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+22.0,URBANO,Soltera,PRIMERO,DIARIO,SÍ,SÍ,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,SÍ,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,NO,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,NO,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,NUNCA,NO,SÍ,SI,BIEN COCIDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,NO,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+28.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,SÍ,SI,BIEN COCIDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,PRIMERO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,PRIMERO,DIARIO,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,PRIMERO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,PRIMERO,NUNCA,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,NO,NO,NO APLICA,1
+18.0,URBANO,Soltera,PRIMERO,DIARIO,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+21.0,URBANO,Soltera,PRIMERO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,PRIMERO,NUNCA,SÍ,SÍ,SI,BIEN COCIDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,PRIMERO,DIARIO,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,PRIMERO,OCASIONALMENTE,NO,SÍ,SI,BIEN COCIDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,DIARIO,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,SEGUNDO,DIARIO,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,NO,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEGUNDO,NUNCA,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,DIARIO,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,NUNCA,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+21.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,NO,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,NUNCA,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+22.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,2.0,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEGUNDO,DIARIO,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,DIARIO,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,NUNCA,NO,SÍ,2.0,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+22.0,URBANO,Unión Libre,SEGUNDO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,NO,2.0,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEGUNDO,NUNCA,NO,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+28.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,0
+18.0,URBANO,Unión Libre,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,NO,2.0,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,SEGUNDO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEGUNDO,DIARIO,SÍ,SÍ,2.0,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,0
+21.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEGUNDO,DIARIO,SÍ,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,NO,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,1
+17.0,URBANO,Soltera,SEGUNDO,DIARIO,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,1
+18.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,1
+17.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,FRECUENTEMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,NUNCA,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,1
+18.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,NO,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,DIARIO,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEGUNDO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+21.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEGUNDO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,TERCERO,NUNCA,NO,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,2.0,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+22.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,SÍ,2.0,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,FRECUENTEMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,TERCERO,NUNCA,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,FRECUENTEMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+22.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,NUNCA,NO,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+28.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,NO,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,NO,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,NO,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,TERCERO,FRECUENTEMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,TERCERO,NUNCA,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+21.0,URBANO,Soltera,TERCERO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,NUNCA,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,TERCERO,FRECUENTEMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,NUNCA,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+21.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,TERCERO,NUNCA,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+17.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+22.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,TERCERO,FRECUENTEMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,TERCERO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,TERCERO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,CUARTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+22.0,URBANO,Soltera,CUARTO,FRECUENTEMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,CUARTO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+28.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,CUARTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,CUARTO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,CUARTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,CUARTO,NUNCA,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,CUARTO,FRECUENTEMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+21.0,URBANO,Soltera,CUARTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,CUARTO,DIARIO,SÍ,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,CUARTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,CUARTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,CUARTO,FRECUENTEMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,CUARTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,CUARTO,NUNCA,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,CUARTO,NUNCA,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+17.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,CUARTO,NUNCA,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,CUARTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,CUARTO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,CUARTO,NUNCA,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+21.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,CUARTO,NUNCA,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,CUARTO,NUNCA,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+17.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+22.0,RURAL,Soltera,CUARTO,NUNCA,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,CUARTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,CUARTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,CUARTO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,CUARTO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,CUARTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+22.0,RURAL,Soltera,CUARTO,FRECUENTEMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,CUARTO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,CUARTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+28.0,RURAL,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,QUINTO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,QUINTO,FRECUENTEMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+21.0,RURAL,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,QUINTO,DIARIO,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+17.0,RURAL,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+21.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,QUINTO,FRECUENTEMENTE,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+22.0,URBANO,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,QUINTO,DIARIO,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+22.0,URBANO,Casada,QUINTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Casada,QUINTO,OCASIONALMENTE,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+28.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,FRECUENTEMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,QUINTO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,QUINTO,NUNCA,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,QUINTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+21.0,URBANO,Soltera,QUINTO,FRECUENTEMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,QUINTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,QUINTO,FRECUENTEMENTE,SÍ,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Casada,SEXTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+17.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,SEXTO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+21.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEXTO,NUNCA,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+22.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,FRECUENTEMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+22.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,NO,2.0,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,NO,2.0,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,NUNCA,NO,SÍ,2.0,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+28.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEXTO,DIARIO,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+21.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,NO,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,NO,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,FRECUENTEMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEXTO,DIARIO,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEXTO,FRECUENTEMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEXTO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEXTO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Casada,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+21.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEPTIMO,DIARIO,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Casada,SEPTIMO,NUNCA,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+22.0,URBANO,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Casada,SEPTIMO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,SEPTIMO,DIARIO,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,SEPTIMO,FRECUENTEMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+22.0,URBANO,Soltera,SEPTIMO,NUNCA,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,SEPTIMO,NUNCA,NO,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+28.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+18.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+18.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+18.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+21.0,RURAL,Soltera,SEPTIMO,DIARIO,NO,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+18.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,SEPTIMO,FRECUENTEMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,SEPTIMO,DIARIO,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+17.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+17.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,NO,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,NO,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,SEPTIMO,NUNCA,NO,SÍ,NO,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+18.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+21.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,SEPTIMO,NUNCA,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+17.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+22.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+18.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,SEPTIMO,DIARIO,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,SEPTIMO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,SEPTIMO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua no tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,NUNCA,NO,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,NUNCA,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,OCTAVO,NUNCA,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,OCTAVO,NUNCA,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,RURAL,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,RURAL,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,CRUDA,A VECES,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,OCTAVO,NUNCA,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+17.0,RURAL,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,RURAL,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,RURAL,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,OCTAVO,NUNCA,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+21.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,NUNCA,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+17.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+22.0,URBANO,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,NUNCA,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,SÍ,6 a 12 semanas de gestación,0
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,OCTAVO,FRECUENTEMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,OCTAVO,NUNCA,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+22.0,URBANO,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,SÍ,12 a 18 semanas de gestación,0
+20.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+18.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+28.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,SÍ,SÍ,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,SÍ,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,NUNCA,SÍ,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,Sé de manera general sobre la toxoplasmosis y los riesgos asociados,Agua tratada,SÍ,NO,NO APLICA,1
+22.0,URBANO,Soltera,OCTAVO,NUNCA,SÍ,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,SÍ,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+20.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,CRUDA,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+20.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+19.0,URBANO,Soltera,OCTAVO,NUNCA,NO,SÍ,SI,CRUDA,A VECES,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0
+19.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,1
+18.0,URBANO,Soltera,OCTAVO,OCASIONALMENTE,NO,NO,SI,TERMINO MEDIO/TRES CUARTOS,NUNCA,A VECES,"Conozco el término toxoplasmosis, pero no muchos detalles",Agua tratada,SÍ,NO,NO APLICA,0

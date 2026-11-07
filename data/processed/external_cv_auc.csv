@@ -1,0 +1,28 @@
+dataset,setting,n,positive %,model,CV AUC,low (2.5%),high (97.5%)
+indonesia_pregnant,"Pregnant women, Makassar, Indonesia",182,33.0,LogReg,0.8700409836065575,0.8522814207650273,0.8906625683060109
+indonesia_pregnant,"Pregnant women, Makassar, Indonesia",182,33.0,RandomForest,0.8641666666666665,0.848551912568306,0.8714549180327869
+indonesia_pregnant,"Pregnant women, Makassar, Indonesia",182,33.0,XGBoost,0.8747062841530054,0.8594842896174864,0.8883469945355191
+cameroon_hiv,"People living with HIV, Bamenda, Cameroon",325,50.5,LogReg,0.6483847144372065,0.6310587410998334,0.664502537494319
+cameroon_hiv,"People living with HIV, Bamenda, Cameroon",325,50.5,RandomForest,0.6261475534009998,0.6069061505832449,0.6456000984699287
+cameroon_hiv,"People living with HIV, Bamenda, Cameroon",325,50.5,XGBoost,0.6264694743220723,0.608353847901833,0.6494574685653689
+china_women,"Women with gynaecological tumour + matched controls, eastern China",920,7.5,LogReg,0.846060474463121,0.8311008787615592,0.8572548919429827
+china_women,"Women with gynaecological tumour + matched controls, eastern China",920,7.5,RandomForest,0.8945771385752483,0.8784477766991944,0.9059103526967421
+china_women,"Women with gynaecological tumour + matched controls, eastern China",920,7.5,XGBoost,0.8673636301708136,0.8458539825269504,0.880916313288714
+myanmar_slaughter,"Slaughterhouse workers, Yangon, Myanmar",139,56.1,LogReg,0.6759247583018075,0.6378257671290458,0.7294136191677175
+myanmar_slaughter,"Slaughterhouse workers, Yangon, Myanmar",139,56.1,RandomForest,0.655222782681799,0.6239018495166037,0.6863387978142076
+myanmar_slaughter,"Slaughterhouse workers, Yangon, Myanmar",139,56.1,XGBoost,0.628509878100042,0.5789092055485499,0.6889974779319041
+iran_suicide,"Suicide attempters + controls, Lorestan, Iran",500,30.6,LogReg,0.6337237008155808,0.6173708820704075,0.6487749806935262
+iran_suicide,"Suicide attempters + controls, Lorestan, Iran",500,30.6,RandomForest,0.6327847469439265,0.6124029967414439,0.6498775687027933
+iran_suicide,"Suicide attempters + controls, Lorestan, Iran",500,30.6,XGBoost,0.6366064869751936,0.620311587651391,0.6516523516226855
+philippines_cebu,"General population, Cebu, Philippines",924,26.4,LogReg,0.6017600349566056,0.5907857702507232,0.6100500241080039
+philippines_cebu,"General population, Cebu, Philippines",924,26.4,RandomForest,0.6909379520250722,0.6780101856316297,0.6997089711909353
+philippines_cebu,"General population, Cebu, Philippines",924,26.4,XGBoost,0.686622468659595,0.6768068195515912,0.6944138741562199
+thai_border_pregnant,"Migrant/refugee pregnant women, Thailand-Myanmar border",199,31.2,LogReg,0.5118495408523664,0.4630268424770426,0.556230868848599
+thai_border_pregnant,"Migrant/refugee pregnant women, Thailand-Myanmar border",199,31.2,RandomForest,0.5651989639745703,0.5305274311278549,0.6042294560866494
+thai_border_pregnant,"Migrant/refugee pregnant women, Thailand-Myanmar border",199,31.2,XGBoost,0.5106575229573818,0.475219272427596,0.5527725453261125
+brazil_homeless,"Homeless persons, Sao Paulo, Brazil",120,35.8,LogReg,0.4164753850800363,0.35280126849894294,0.4939595288432498
+brazil_homeless,"Homeless persons, Sao Paulo, Brazil",120,35.8,RandomForest,0.3772123225611598,0.3284279673814558,0.430459075807913
+brazil_homeless,"Homeless persons, Sao Paulo, Brazil",120,35.8,XGBoost,0.4209906372697071,0.35764119601328903,0.478276955602537
+ghana_sickle_cell,"Sickle cell disease patients, Ho, Ghana",156,53.2,LogReg,0.7135624690542993,0.7010191450734444,0.7348943720085821
+ghana_sickle_cell,"Sickle cell disease patients, Ho, Ghana",156,53.2,RandomForest,0.6841805578478296,0.6573774550255816,0.7080396930186499
+ghana_sickle_cell,"Sickle cell disease patients, Ho, Ghana",156,53.2,XGBoost,0.6544974418220828,0.6186623205149364,0.678078065687407

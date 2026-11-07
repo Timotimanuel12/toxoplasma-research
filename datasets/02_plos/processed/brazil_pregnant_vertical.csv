@@ -1,0 +1,474 @@
+Identification code,Age,Age brackets,City,Estate,Basic Unit of Health,Residence,How many consultations?,Number of pregnancies (including the current one),target_toxo_pos
+1,24.0,> 20 < 30,Gurupi,TO,Policlínica,Rural zone,,2.0,1
+2,31.0,> 30,Gurupi,TO,Policlínica,Urban zone,3.0,,1
+3,20.0,> 20 < 30,Gurupi,To,Policlínica,Urban zone,8.0,1.0,0
+4,36.0,> 30,Gurupi,TO,Policlínica,Urban zone,,4.0,0
+5,20.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,1.0,1.0,0
+6,24.0,> 20 < 30,Gurupi,TO,Ambulatorio,Urban zone,,3.0,1
+7,37.0,> 30,Gurupi,TO,Ambulatorio,Urban zone,2.0,3.0,0
+8,36.0,> 30,Gurupi,TO,Ambulatorio,Urban zone,,3.0,1
+9,37.0,> 30,Gurupi,TO,Policlínica,Urban zone,,4.0,0
+10,23.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,1.0,3.0,1
+11,24.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,7.0,2.0,1
+12,25.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,7.0,1.0,1
+13,25.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,6.0,1.0,1
+14,30.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,7.0,3.0,0
+15,29.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,8.0,3.0,0
+16,36.0,> 30,Gurupi,TO,Policlínica,Urban zone,1.0,2.0,0
+17,26.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,7.0,1.0,1
+18,19.0,< 20,Gurupi,TO,Policlínica,Urban zone,9.0,2.0,1
+19,18.0,< 20,Gurupi,TO,Policlínica,Urban zone,5.0,1.0,1
+21,43.0,> 30,Gurupi,TO,Policlínica,Urban zone,8.0,1.0,0
+23,39.0,> 30,Gurupi,TO,Policlínica,Rural zone,6.0,,1
+24,19.0,< 20,Gurupi,TO,Policlínica,Urban zone,,1.0,1
+25,43.0,> 30,Gurupi,TO,Policlínica,Urban zone,,2.0,1
+26,21.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,8.0,1.0,1
+27,39.0,> 30,Gurupi,TO,Policlínica,Urban zone,9.0,5.0,1
+29,24.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,6.0,1.0,1
+30,37.0,> 30,Gurupi,TO,Policlínica,Urban zone,8.0,1.0,1
+31,32.0,> 30,Gurupi,TO,Policlínica,Urban zone,2.0,3.0,1
+32,24.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,9.0,3.0,0
+33,15.0,< 20,Gurupi,TO,Policlínica,Urban zone,7.0,1.0,1
+34,38.0,> 30,Gurupi,TO,Policlínica,Urban zone,5.0,5.0,1
+36,37.0,> 30,Gurupi,TO,Sevilha,,3.0,3.0,1
+38,18.0,< 20,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+39,20.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,7.0,1.0,0
+42,32.0,> 30,Gurupi,TO,Policlínica,Urban zone,7.0,3.0,1
+43,39.0,> 30,Gurupi,TO,Policlínica,Urban zone,8.0,2.0,1
+47,27.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,2.0,2.0,1
+48,21.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,3.0,1.0,1
+51,18.0,< 20,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+52,19.0,< 20,Gurupi,TO,Vila Nova,Urban zone,,2.0,1
+53,28.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+54,31.0,> 30,Gurupi,TO,Ambulatorio,Urban zone,,1.0,1
+55,22.0,> 20 < 30,Gurupi,TO,Ambulatorio,Urban zone,11.0,2.0,1
+56,19.0,,Gurupi,TO,,Urban zone,2.0,2.0,0
+58,38.0,> 30,Gurupi,TO,,Urban zone,5.0,1.0,1
+59,34.0,> 30,Gurupi,TO,,Urban zone,7.0,1.0,1
+60,28.0,> 20 < 30,Gurupi,TO,,Urban zone,,3.0,1
+61,19.0,< 20,Gurupi,TO,,Urban zone,2.0,2.0,1
+62,20.0,> 20 < 30,Gurupi,TO,,Urban zone,5.0,1.0,0
+63,22.0,> 20 < 30,Peixe,TO,Policlínica,Urban zone,8.0,2.0,1
+65,22.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,8.0,5.0,1
+66,28.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,3.0,1.0,1
+67,28.0,,Gurupi,TO,Sol Nascente,Urban zone,5.0,3.0,1
+68,27.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,4.0,5.0,1
+69,26.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,4.0,2.0,1
+70,27.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,4.0,2.0,1
+71,27.0,> 20 < 30,Gurupi,TO,Pedroso,Rural zone,7.0,3.0,1
+72,25.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,5.0,4.0,1
+73,30.0,> 30,Gurupi,TO,Pedroso,Urban zone,8.0,5.0,1
+74,16.0,< 20,Formoso do Araguaia,TO,Pedroso,Urban zone,,1.0,1
+75,39.0,> 30,Gurupi,TO,Policlínica,,5.0,,1
+76,25.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,8.0,2.0,1
+77,26.0,> 20 < 30,Goiania,GO,Policlínica,Urban zone,11.0,4.0,1
+78,30.0,> 30,Lagoa da Confusão,TO,,Rural zone,3.0,4.0,1
+80,30.0,> 30,Gurupi,TO,,Urban zone,2.0,3.0,1
+81,26.0,> 20 < 30,Gurupi,TO,,,8.0,1.0,1
+82,28.0,> 20 < 30,Gurupi,TO,,Urban zone,8.0,2.0,1
+83,31.0,> 30,Gurupi,TO,,Urban zone,2.0,1.0,1
+84,32.0,> 30,Gurupi,TO,,Urban zone,7.0,1.0,1
+85,19.0,< 20,Gurupi,TO,,,8.0,2.0,0
+86,27.0,> 20 < 30,Gurupi,TO,,Urban zone,6.0,2.0,0
+87,33.0,> 20 < 30,Gurupi,TO,,,2.0,1.0,1
+88,24.0,> 20 < 30,Gurupi,TO,,,6.0,2.0,0
+89,28.0,> 20 < 30,Gurupi,TO,,Urban zone,8.0,2.0,1
+90,32.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,6.0,3.0,1
+91,18.0,< 20,Gurupi,TO,Pedroso,Urban zone,6.0,1.0,0
+92,22.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,4.0,2.0,1
+93,21.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,1.0,2.0,1
+94,26.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,,4.0,1
+95,31.0,> 30,Gurupi,TO,Policlínica,Urban zone,10.0,2.0,1
+96,30.0,> 30,Gurupi,TO,Policlínica,Urban zone,,3.0,0
+97,23.0,> 20 < 30,,TO,Policlínica,Rural zone,2.0,1.0,0
+98,29.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,10.0,2.0,0
+99,29.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,5.0,4.0,0
+100,43.0,> 30,Gurupi,TO,Policlínica,Urban zone,5.0,3.0,0
+101,32.0,> 30,Gurupi,TO,Policlínica,Urban zone,,2.0,1
+102,25.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,10.0,1.0,1
+103,29.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,,,1
+104,25.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,4.0,4.0,1
+105,21.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,2.0,1
+106,21.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,0
+107,30.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,3.0,1
+108,20.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+109,23.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,0
+110,20.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,5.0,1.0,1
+111,16.0,< 20,Gurupi,TO,Pedroso,Urban zone,6.0,1.0,0
+112,20.0,< 20,Gurupi,TO,Vila Nova,Urban zone,,2.0,0
+113,22.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,3.0,1.0,1
+114,22.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,,3.0,1
+115,31.0,> 30,Gurupi,TO,Pedroso,Urban zone,3.0,3.0,1
+116,30.0,> 30,Gurupi,TO,Vila Nova,Urban zone,,2.0,1
+117,26.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,8.0,1.0,1
+118,28.0,> 30,Gurupi,TO,Policlínica,Urban zone,4.0,2.0,1
+119,31.0,> 30,Gurupi,TO,Policlínica,Urban zone,6.0,,1
+120,23.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,5.0,5.0,0
+121,30.0,> 30,Gurupi,TO,Policlínica,Urban zone,,3.0,1
+122,38.0,> 30,Aliança,TO,Policlínica,Urban zone,7.0,,1
+123,21.0,< 20,Gurupi,TO,Sevilha,Rural zone,4.0,2.0,1
+124,17.0,< 20,Gurupi,TO,Sevilha,Urban zone,4.0,1.0,0
+125,26.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,4.0,1.0,1
+126,21.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,8.0,1.0,0
+127,25.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,5.0,2.0,1
+128,29.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,6.0,3.0,1
+129,33.0,> 30,Gurupi,TO,Sevilha,Urban zone,8.0,1.0,1
+130,32.0,> 30,Gurupi,TO,Policlínica,Urban zone,5.0,4.0,1
+131,25.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,8.0,1.0,1
+132,27.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,5.0,2.0,1
+133,30.0,> 30,Chap. de Natividade,TO,Policlínica,Rural zone,1.0,2.0,1
+134,17.0,< 20,Gurupi,TO,Policlínica,,9.0,1.0,1
+135,36.0,> 30,Gurupi,TO,Pedroso,Urban zone,4.0,3.0,0
+136,22.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,4.0,1.0,1
+137,22.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,2.0,4.0,1
+138,30.0,> 30,Gurupi,TO,Pedroso,Urban zone,3.0,2.0,1
+139,35.0,> 30,Sucupira,TO,Policlínica,Urban zone,2.0,1.0,1
+140,28.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,6.0,2.0,1
+141,24.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,7.0,2.0,1
+142,23.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,,3.0,1
+143,19.0,< 20,Gurupi,TO,Pedroso,Urban zone,1.0,1.0,0
+144,25.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,6.0,3.0,1
+145,35.0,> 30,Gurupi,TO,Policlínica,Urban zone,6.0,1.0,1
+146,39.0,> 30,,,Policlínica,Rural zone,6.0,2.0,1
+147,20.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,2.0,1
+148,29.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,3.0,1
+149,26.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+150,27.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+151,24.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,0
+152,40.0,> 30,Gurupi,TO,Policlínica,Urban zone,7.0,2.0,1
+153,23.0,> 20 < 30,Gurupi,TO,Ambulatorio,Urban zone,7.0,1.0,0
+154,27.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,6.0,2.0,1
+155,24.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,,2.0,1
+156,30.0,> 30,Gurupi,TO,Ambulatorio,Urban zone,4.0,3.0,1
+157,26.0,> 20 < 30,Gurupi,TO,Ambulatorio,Urban zone,,2.0,0
+158,22.0,> 20 < 30,Gurupi,TO,Ambulatorio,Urban zone,4.0,3.0,1
+159,22.0,> 20 < 30,Gurupi,TO,Ambulatorio,Urban zone,,1.0,1
+160,19.0,< 20,Gurupi,TO,Ambulatorio,Urban zone,,1.0,1
+161,22.0,> 20 < 30,Gurupi,TO,Ambulatorio,Urban zone,8.0,2.0,0
+162,39.0,> 30,Gurupi,TO,Policlínica,Urban zone,3.0,4.0,1
+163,30.0,> 30,Gurupi,TO,Policlínica,Urban zone,6.0,2.0,1
+164,24.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,4.0,2.0,0
+165,33.0,> 30,Gurupi,TO,Policlínica,Urban zone,8.0,2.0,1
+166,21.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,1.0,3.0,1
+167,32.0,> 30,Gurupi,TO,Pedroso,Urban zone,3.0,2.0,1
+168,29.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,7.0,2.0,0
+169,31.0,> 30,Gurupi,TO,Pedroso,Urban zone,7.0,3.0,1
+170,21.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,4.0,1.0,0
+171,16.0,< 20,Gurupi,TO,Policlínica,Urban zone,,1.0,1
+172,19.0,< 20,Gurupi,TO,Pedroso,Urban zone,3.0,2.0,1
+173,15.0,< 20,Gurupi,TO,Policlínica,Urban zone,5.0,1.0,1
+174,31.0,> 30,Gurupi,TO,Policlínica,Urban zone,3.0,,1
+175,22.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,8.0,4.0,1
+176,38.0,> 30,Gurupi,TO,Policlínica,Urban zone,5.0,,1
+177,23.0,> 20 < 30,Gurupi,TO,Ambulatorio,Urban zone,,1.0,0
+178,30.0,> 30,Gurupi,TO,Ambulatorio,Urban zone,5.0,2.0,1
+179,36.0,> 30,Gurupi,TO,Ambulatorio,Urban zone,1.0,4.0,1
+180,35.0,> 30,Aliança,TO,Policlínica,Urban zone,1.0,2.0,1
+181,25.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,,3.0,1
+182,35.0,> 30,Gurupi,TO,Policlínica,Urban zone,2.0,4.0,1
+183,42.0,> 30,Gurupi,TO,Policlínica,Urban zone,7.0,3.0,1
+184,20.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,2.0,2.0,0
+185,23.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,6.0,2.0,1
+186,17.0,< 20,Gurupi,TO,Pedroso,Urban zone,6.0,1.0,0
+187,30.0,> 30,Gurupi,TO,Pedroso,Urban zone,5.0,4.0,0
+188,14.0,< 20,Gurupi,TO,Pedroso,Urban zone,6.0,1.0,1
+189,23.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,1.0,2.0,1
+190,31.0,> 30,Gurupi,TO,Pedroso,Urban zone,8.0,4.0,1
+191,26.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,11.0,3.0,1
+192,30.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,2.0,1
+193,15.0,< 20,Gurupi,TO,Vila Nova,Rural zone,,3.0,1
+194,21.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,0
+195,25.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,3.0,0
+196,19.0,< 20,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+197,19.0,< 20,Gurupi,TO,Policlínica,Urban zone,,2.0,0
+198,22.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,3.0,1.0,1
+199,37.0,> 30,Gurupi,TO,Policlínica,Urban zone,6.0,2.0,1
+200,37.0,> 30,Peixe,TO,,Urban zone,,1.0,0
+201,26.0,> 20 < 30,Gurupi,TO,Sol Nascente,Urban zone,,3.0,1
+202,22.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,1.0,2.0,1
+203,21.0,> 20 < 30,Gurupi,TO,Sol Nascente,Urban zone,7.0,1.0,1
+204,15.0,< 20,Gurupi,TO,Sol Nascente,Urban zone,,1.0,0
+205,20.0,> 20 < 30,Gurupi,TO,Sol Nascente,Urban zone,,1.0,1
+206,20.0,> 20 < 30,Lagoa da Confusao,TO,Policlínica,Rural zone,5.0,3.0,1
+207,38.0,> 30,Gurupi,TO,Policlínica,Urban zone,,1.0,0
+208,37.0,> 30,Gurupi,TO,Policlínica,Urban zone,7.0,2.0,0
+209,16.0,< 20,Sucupira,T0,Policlínica,Urban zone,,1.0,1
+210,25.0,> 20 < 30,Gurupi,TO,Vila Nova,,,3.0,1
+211,31.0,> 30,Gurupi,TO,Pedroso,Urban zone,9.0,2.0,1
+212,33.0,> 30,Gurupi,TO,Ambulatorio,Urban zone,,1.0,0
+213,26.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,7.0,1.0,1
+214,27.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,6.0,2.0,1
+215,22.0,> 20 < 30,Gurupi,TO,Pedroso,Rural zone,4.0,,0
+216,16.0,< 20,Gurupi,TO,Pedroso,Urban zone,3.0,1.0,0
+217,20.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,2.0,1.0,1
+218,28.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,1.0,2.0,0
+219,39.0,> 30,Gurupi,TO,Policlínica,Urban zone,8.0,3.0,1
+220,31.0,> 30,Gurupi,TO,Vila Nova,Urban zone,,3.0,0
+221,29.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,5.0,1
+222,20.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+223,20.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,2.0,0
+224,22.0,> 20 < 30,Gurupi,TO,,Urban zone,4.0,4.0,1
+225,28.0,> 20 < 30,Gurupi,TO,São José,Urban zone,,2.0,1
+226,25.0,> 20 < 30,Gurupi,TO,São José,Urban zone,,2.0,1
+227,26.0,> 20 < 30,Gurupi,TO,,Urban zone,4.0,1.0,0
+228,22.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,2.0,1
+229,26.0,> 20 < 30,Gurupi,TO,São José,Urban zone,7.0,5.0,1
+230,32.0,> 30,Gurupi,TO,São José,Urban zone,5.0,3.0,0
+231,31.0,> 30,Gurupi,TO,São José,Urban zone,6.0,1.0,1
+232,19.0,< 20,Gurupi,TO,São José,Urban zone,,1.0,1
+233,23.0,> 20 < 30,Gurupi,TO,São José,Urban zone,,3.0,1
+234,18.0,< 20,Gurupi,TO,São José,Urban zone,5.0,1.0,1
+235,25.0,> 20 < 30,Gurupi,TO,São José,Urban zone,10.0,3.0,1
+236,31.0,> 30,Gurupi,TO,São José,Urban zone,,1.0,0
+237,22.0,> 20 < 30,,TO,São José,,6.0,1.0,1
+238,20.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,3.0,1
+239,22.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,2.0,1
+240,23.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,2.0,1
+241,17.0,< 20,Gurupi,TO,Casego,Urban zone,5.0,1.0,0
+242,27.0,> 20 < 30,Gurupi,TO,Casego,Urban zone,,1.0,1
+243,30.0,> 30,Gurupi,TO,Casego,Urban zone,5.0,1.0,0
+244,18.0,< 20,Gurupi,TO,Casego,Urban zone,,1.0,0
+245,28.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,3.0,1
+246,35.0,> 30,Gurupi,To,Vila Nova,Urban zone,,4.0,1
+247,30.0,> 30,Gurupi,TO,Sevilha,Urban zone,,4.0,0
+248,35.0,> 30,Gurupi,TO,Sevilha,Urban zone,2.0,1.0,0
+249,19.0,< 20,Gurupi,TO,,Urban zone,,1.0,0
+250,31.0,> 30,Gurupi,TO,Sol Nascente,Urban zone,7.0,2.0,0
+251,17.0,< 20,Gurupi,TO,Policlínica,Urban zone,9.0,1.0,1
+252,30.0,> 30,Gurupi,TO,Policlínica,Urban zone,2.0,2.0,1
+253,19.0,< 20,Gurupi,TO,,Urban zone,5.0,1.0,1
+254,28.0,> 20 < 30,Percursolândia,TO,Policlínica,Urban zone,3.0,5.0,0
+255,23.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,8.0,2.0,0
+256,23.0,> 20 < 30,Gurupi,TO,,Urban zone,9.0,2.0,0
+257,23.0,> 20 < 30,Gurupi,TO,Pedroso,Urban zone,3.0,4.0,0
+258,,,Gurupi,TO,Pedroso,Urban zone,,3.0,1
+259,17.0,< 20,Gurupi,TO,Sevilha,Urban zone,1.0,1.0,0
+260,19.0,< 20,Gurupi,TO,,Urban zone,6.0,2.0,0
+261,18.0,< 20,Gurupi,TO,,Urban zone,2.0,1.0,1
+262,23.0,> 20 < 30,Gurupi,TO,Sol Nascente,Urban zone,6.0,1.0,1
+263,24.0,> 20 < 30,Gurupi,TO,Sol Nascente,Urban zone,4.0,1.0,1
+264,21.0,> 20 < 30,Gurupi,TO,Sol Nascente,Urban zone,,1.0,1
+265,18.0,< 20,Gurupi,TO,Sol Nascente,Urban zone,11.0,1.0,1
+266,18.0,< 20,Gurupi,TO,Sol Nascente,Urban zone,5.0,1.0,1
+267,31.0,> 30,Gurupi,TO,Sol Nascente,Urban zone,8.0,2.0,0
+268,37.0,> 30,Gurupi,TO,Sol Nascente,Urban zone,7.0,2.0,1
+269,23.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,3.0,1
+270,32.0,> 30,Gurupi,TO,Sol Nascente,Urban zone,6.0,2.0,1
+271,23.0,> 20 < 30,Gurupi,TO,Sol Nascente,Urban zone,8.0,2.0,0
+272,19.0,< 20,Gurupi,TO,Vila Nova,Urban zone,,1.0,0
+273,20.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+274,17.0,< 20,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+275,17.0,< 20,Gurupi,TO,Policlínica,Urban zone,7.0,1.0,0
+276,25.0,> 20 < 30,Gurupi,TO,,Urban zone,6.0,2.0,1
+277,33.0,> 30,Gurupi,TO,,Urban zone,1.0,1.0,1
+278,20.0,> 20 < 30,Gurupi,TO,,Urban zone,6.0,1.0,0
+279,17.0,< 20,Gurupi,TO,,Urban zone,1.0,1.0,0
+280,20.0,> 20 < 30,Gurupi,TO,Sevilha,,10.0,1.0,0
+281,22.0,> 20 < 30,Gurupi,TO,,Urban zone,4.0,1.0,1
+282,31.0,> 30,Gurupi,TO,Sevilha,Urban zone,1.0,4.0,0
+283,21.0,> 20 < 30,Gurupi,TO,,Urban zone,,2.0,0
+284,20.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,3.0,1.0,1
+285,16.0,< 20,Gurupi,TO,Policlínica,Urban zone,7.0,1.0,0
+286,27.0,> 20 < 30,Gurupi,TO,,Urban zone,4.0,3.0,0
+287,28.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,2.0,1
+288,19.0,< 20,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+289,20.0,> 20 < 30,Gurupi,TO,,Urban zone,1.0,3.0,0
+290,26.0,> 20 < 30,Gurupi,TO,,,8.0,2.0,0
+291,36.0,> 30,Gurupi,TO,Sevilha,Urban zone,6.0,2.0,0
+292,21.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,2.0,1.0,1
+293,29.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,4.0,3.0,0
+294,23.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,3.0,1.0,1
+295,27.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,3.0,1.0,1
+296,32.0,> 30,Gurupi,TO,Policlínica,Urban zone,,3.0,1
+297,30.0,> 30,Gurupi,TO,Policlínica,Urban zone,,5.0,1
+298,29.0,> 20 < 30,Formoso do Araguaia,TO,Policlínica,Urban zone,1.0,3.0,1
+299,15.0,< 20,,TO,Policlínica,Urban zone,,1.0,1
+300,36.0,> 30,Formoso do Araguaia,TO,Policlínica,Urban zone,1.0,,1
+301,26.0,> 20 < 30,Duere,TO,Sol Nascente,Rural zone,6.0,2.0,1
+302,30.0,> 30,Gurupi,TO,Sol Nascente,Urban zone,8.0,4.0,1
+303,27.0,> 20 < 30,Gurupi,TO,Sol Nascente,Urban zone,3.0,2.0,1
+304,21.0,> 20 < 30,Gurupi,TO,,Urban zone,1.0,2.0,1
+305,22.0,> 20 < 30,Gurupi,TO,,Urban zone,4.0,1.0,1
+306,31.0,> 30,Gurupi,TO,Parque das Acácias,Urban zone,,2.0,1
+307,22.0,> 20 < 30,Gurupi,TO,Parque das Acácias,Urban zone,7.0,2.0,0
+308,33.0,> 30,Gurupi,TO,Parque das Acácias,Urban zone,7.0,2.0,0
+309,27.0,> 20 < 30,Gurupi,TO,Parque das Acácias,Urban zone,8.0,2.0,1
+310,27.0,< 20,Gurupi,TO,Parque das Acácias,Urban zone,6.0,2.0,1
+311,19.0,< 20,Gurupi,To,Parque das Acácias,Urban zone,7.0,1.0,0
+312,25.0,> 20 < 30,Gurupi,TO,Parque das Acácias,Urban zone,9.0,4.0,1
+313,26.0,> 20 < 30,Gurupi,TO,Parque das Acácias,Urban zone,7.0,4.0,0
+314,30.0,> 30,Gurupi,TO,Sol Nascente,Urban zone,8.0,2.0,0
+315,19.0,< 20,Gurupi,TO,,Urban zone,2.0,2.0,0
+316,28.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+317,31.0,> 30,Gurupi,TO,Vila Nova,Urban zone,,3.0,1
+318,22.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,3.0,1.0,0
+319,18.0,< 20,Gurupi,TO,Sevilha,Urban zone,,2.0,0
+320,30.0,> 30,Gurupi,TO,,Urban zone,2.0,,0
+321,24.0,> 20 < 30,Gurupi,TO,Ambulatorio,Urban zone,2.0,2.0,0
+322,18.0,< 20,Gurupi,TO,Ambulatorio,Urban zone,6.0,1.0,1
+323,27.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,2.0,2.0,1
+324,22.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,5.0,2.0,0
+325,20.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,,2.0,1
+326,17.0,< 20,Gurupi,TO,Sevilha,Urban zone,1.0,1.0,0
+327,30.0,> 30,Gurupi,TO,Sevilha,Urban zone,6.0,5.0,1
+328,17.0,< 20,Gurupi,TO,,Urban zone,6.0,1.0,1
+329,33.0,> 30,Gurupi,TO,Sevilha,Urban zone,,2.0,0
+330,35.0,> 30,Gurupi,TO,Sevilha,Urban zone,8.0,2.0,1
+331,23.0,> 20 < 30,Gurupi,TO,Ambulatorio,Urban zone,,2.0,1
+332,35.0,> 30,Gurupi,TO,Sevilha,Urban zone,2.0,3.0,1
+333,27.0,> 20 < 30,Gurupi,TO,Ambulatorio,Urban zone,,3.0,0
+334,26.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,5.0,2.0,1
+335,27.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,5.0,2.0,0
+336,29.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,4.0,3.0,1
+337,26.0,> 20 < 30,Gurupi,TO,,Urban zone,7.0,1.0,1
+338,20.0,> 20 < 30,Gurupi,TO,,Urban zone,3.0,1.0,1
+339,15.0,< 20,Gurupi,TO,,Urban zone,1.0,1.0,1
+340,29.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,,4.0,1
+341,22.0,> 20 < 30,Gurupi,TO,,Urban zone,6.0,1.0,1
+342,17.0,< 20,Gurupi,TO,,Urban zone,4.0,1.0,0
+343,24.0,> 20 < 30,Gurupi,TO,,Urban zone,3.0,1.0,1
+344,41.0,> 30,Gurupi,TO,Vila Nova,Urban zone,,4.0,1
+345,21.0,> 20 < 30,Gurupi,TO,Ambulatorio,Urban zone,,1.0,1
+346,27.0,> 20 < 30,Gurupi,TO,,Urban zone,1.0,2.0,1
+347,21.0,> 20 < 30,Gurupi,TO,,Urban zone,2.0,4.0,1
+348,24.0,> 20 < 30,Gurupi,TO,,Urban zone,7.0,3.0,1
+349,31.0,> 30,Gurupi,TO,,Rural zone,5.0,2.0,0
+350,25.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,3.0,2.0,1
+351,26.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,9.0,1.0,1
+352,29.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,6.0,2.0,0
+353,28.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,5.0,3.0,1
+354,17.0,< 20,Gurupi,TO,Sol Nascente,Urban zone,3.0,1.0,1
+355,18.0,< 20,Gurupi,TO,Sol Nascente,Urban zone,6.0,2.0,0
+356,15.0,< 20,Gurupi,TO,Policlínica,Urban zone,7.0,1.0,1
+357,29.0,> 20 < 30,Gurupi,TO,,Urban zone,4.0,2.0,0
+358,24.0,> 20 < 30,Gurupi,TO,,Urban zone,5.0,2.0,1
+359,30.0,> 30,Gurupi,TO,,Urban zone,6.0,2.0,1
+360,25.0,> 20 < 30,Gurupi,TO,Parque das Acácias,Urban zone,4.0,2.0,1
+361,18.0,< 20,Gurupi,TO,,Urban zone,4.0,1.0,1
+362,19.0,< 20,,TO,Parque das Acácias,Urban zone,7.0,1.0,1
+363,22.0,> 20 < 30,Gurupi,TO,Parque das Acácias,Urban zone,8.0,3.0,1
+364,29.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,4.0,4.0,1
+365,19.0,< 20,Gurupi,TO,Ambulatorio,Urban zone,,1.0,1
+366,21.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,6.0,1.0,0
+367,27.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,7.0,2.0,1
+368,31.0,> 30,Gurupi,TO,Policlínica,Urban zone,5.0,2.0,1
+369,15.0,< 20,Gurupi,TO,Policlínica,Urban zone,,1.0,1
+370,22.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,,1.0,0
+371,22.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,2.0,2.0,1
+372,22.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,4.0,3.0,1
+373,17.0,< 20,Gurupi,TO,Sevilha,Urban zone,1.0,1.0,1
+374,35.0,> 30,Gurupi,TO,,Urban zone,8.0,3.0,1
+375,18.0,< 20,Gurupi,TO,,Urban zone,4.0,1.0,0
+376,23.0,> 20 < 30,Gurupi,TO,,Urban zone,3.0,2.0,0
+377,39.0,> 30,Gurupi,TO,Policlínica,Urban zone,,5.0,1
+378,41.0,> 30,Gurupi,TO,Policlínica,Urban zone,10.0,2.0,1
+379,21.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,3.0,1
+380,26.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+381,16.0,< 20,Gurupi,TO,Policlínica,,5.0,1.0,1
+382,25.0,> 20 < 30,Gurupi,TO,Sevilha,Urban zone,4.0,1.0,1
+383,15.0,< 20,Gurupi,TO,,Urban zone,3.0,1.0,1
+384,25.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,8.0,2.0,1
+385,31.0,> 30,Aliança,TO,Policlínica,Urban zone,2.0,,1
+386,24.0,> 20 < 30,Gurupi,TO,,Urban zone,2.0,3.0,0
+387,16.0,< 20,Gurupi,TO,,Urban zone,6.0,1.0,0
+388,29.0,> 20 < 30,Gurupi,TO,Waldir Lins,Urban zone,,1.0,1
+389,23.0,> 20 < 30,Gurupi,TO,São José,Urban zone,,1.0,1
+390,18.0,< 20,Gurupi,TO,São José,Urban zone,7.0,1.0,0
+391,22.0,> 20 < 30,Gurupi,TO,São José,Urban zone,,1.0,1
+392,20.0,> 20 < 30,Gurupi,TO,São José,Urban zone,,2.0,1
+393,40.0,> 30,Gurupi,TO,São José,Urban zone,,1.0,1
+394,21.0,> 20 < 30,Gurupi,TO,São José,Urban zone,,2.0,0
+395,24.0,> 20 < 30,Gurupi,TO,São José,Urban zone,,1.0,0
+396,24.0,> 20 < 30,Gurupi,TO,São José,Urban zone,4.0,1.0,1
+397,36.0,> 30,Gurupi,TO,São José,Urban zone,5.0,2.0,0
+398,37.0,> 30,Gurupi,TO,Vila Nova,Urban zone,,4.0,1
+399,24.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,0
+400,26.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,0
+401,20.0,< 20,Gurupi,TO,Vila Nova,,,1.0,0
+402,32.0,> 30,Gurupi,TO,Policlínica,Urban zone,4.0,1.0,1
+403,41.0,> 30,Gurupi,TO,Policlínica,Urban zone,5.0,3.0,0
+404,17.0,< 20,Peixe,TO,Policlínica,Rural zone,5.0,2.0,1
+405,35.0,> 30,Gurupi,TO,Casego,Urban zone,6.0,3.0,1
+406,22.0,> 20 < 30,Gurupi,TO,Policlínica,Urban zone,2.0,1.0,0
+407,31.0,> 30,Gurupi,TO,Casego,Urban zone,,1.0,1
+408,32.0,> 30,Gurupi,TO,Casego,Urban zone,,3.0,1
+409,,,Gurupi,TO,Casego,Urban zone,,2.0,0
+410,26.0,> 20 < 30,Gurupi,TO,Casego,Urban zone,,3.0,0
+411,16.0,< 20,Gurupi,TO,Casego,Urban zone,,1.0,0
+412,24.0,> 20 < 30,Gurupi,TO,Casego,Urban zone,,1.0,1
+413,45.0,> 30,,,Casego,Urban zone,1.0,3.0,1
+414,33.0,> 30,Gurupi,TO,Casego,Urban zone,4.0,4.0,0
+415,20.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+416,39.0,> 30,Gurupi,TO,Policlínica,Urban zone,5.0,2.0,1
+417,29.0,> 20 < 30,Formoso do Araguaia,TO,Policlínica,Urban zone,,3.0,1
+418,18.0,< 20,Gurupi,TO,Policlínica,Urban zone,3.0,1.0,1
+419,24.0,> 20 < 30,Gurupi,TO,Casego,Urban zone,4.0,2.0,1
+420,23.0,> 20 < 30,Gurupi,TO,Casego,Urban zone,5.0,1.0,0
+421,29.0,> 20 < 30,Gurupi,TO,Casego,Urban zone,4.0,3.0,0
+422,26.0,> 20 < 30,Gurupi,TO,Casego,Urban zone,3.0,2.0,1
+423,29.0,> 20 < 30,Gurupi,TO,Casego,Urban zone,4.0,2.0,1
+424,22.0,> 20 < 30,Gurupi,TO,Casego,Urban zone,4.0,2.0,1
+425,16.0,< 20,Gurupi,TO,Vila Nova,Urban zone,,1.0,0
+426,31.0,> 30,Gurupi,TO,Vila Nova,Urban zone,,3.0,1
+427,20.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,2.0,0
+428,17.0,< 20,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+429,19.0,< 20,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+430,49.0,> 30,Gurupi,TO,Vila Nova,Rural zone,,5.0,1
+431,28.0,> 20 < 30,Gurupi,TO,,Urban zone,9.0,1.0,1
+432,30.0,> 30,Gurupi,TO,,Urban zone,,2.0,1
+433,37.0,> 30,Gurupi,TO,Policlínica,Urban zone,4.0,4.0,0
+434,18.0,< 20,Gurupi,TO,Waldir Lins,Urban zone,,1.0,0
+435,25.0,> 20 < 30,Gurupi,TO,Waldir Lins,Urban zone,,3.0,1
+436,27.0,> 20 < 30,Gurupi,TO,Waldir Lins,Urban zone,,2.0,1
+437,26.0,> 20 < 30,Gurupi,TO,Waldir Lins,Urban zone,,3.0,0
+438,27.0,> 20 < 30,Gurupi,TO,Casego,Urban zone,,5.0,0
+439,25.0,> 20 < 30,Gurupi,TO,Casego,Urban zone,3.0,2.0,1
+440,20.0,> 20 < 30,Gurupi,TO,Casego,Urban zone,5.0,1.0,0
+441,22.0,> 20 < 30,Gurupi,TO,Casego,Urban zone,2.0,2.0,1
+442,29.0,> 20 < 30,Gurupi,TO,Casego,Urban zone,4.0,4.0,0
+443,27.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,3.0,0
+444,18.0,< 20,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+445,21.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,2.0,1
+446,16.0,< 20,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+447,29.0,> 20 < 30,Gurupi,TO,Vila Nova,Rural zone,,2.0,0
+448,22.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,3.0,1
+449,24.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,1
+450,15.0,< 20,Gurupi,TO,Vila Nova,Urban zone,,1.0,0
+451,23.0,> 20 < 30,Gurupi,To,Casego,Rural zone,,1.0,1
+452,16.0,< 20,Gurupi,TO,Sevilha,Urban zone,,1.0,1
+453,20.0,> 20 < 30,Gurupi,TO,Waldir Lins,Urban zone,,3.0,1
+454,31.0,> 30,Gurupi,TO,Waldir Lins,Urban zone,,2.0,1
+455,34.0,> 30,Gurupi,TO,Policlínica,Urban zone,4.0,1.0,1
+456,26.0,> 20 < 30,Gurupi,TO,Vila Íris,Urban zone,5.0,1.0,0
+457,32.0,> 30,,,Vila Íris,Urban zone,3.0,4.0,1
+458,28.0,> 20 < 30,,,Vila Íris,Urban zone,6.0,1.0,1
+459,22.0,> 20 < 30,,,Vila Íris,Urban zone,5.0,2.0,0
+460,23.0,> 20 < 30,,,Vila Íris,Urban zone,7.0,1.0,1
+461,32.0,> 30,Gurupi,TO,Vila Íris,Urban zone,7.0,2.0,1
+462,22.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,0
+463,28.0,> 20 < 30,Gurupi,TO,Vila Nova,Urban zone,,1.0,0
+464,16.0,< 20,Gurupi,to,Vila Íris,Urban zone,6.0,1.0,0
+465,30.0,> 30,Gurupi,TO,Vila Íris,Urban zone,4.0,3.0,1
+466,22.0,> 20 < 30,Gurupi,TO,Vila Íris,Urban zone,3.0,3.0,1
+467,30.0,> 30,Gurupi,TO,Vila Íris,Urban zone,1.0,4.0,1
+468,20.0,> 20 < 30,Gurupi,TO,Vila Íris,Urban zone,6.0,4.0,1
+469,25.0,> 20 < 30,Gurupi,TO,Vila Íris,Urban zone,3.0,1.0,0
+470,20.0,> 20 < 30,Gurupi,TO,Waldir Lins,Urban zone,,2.0,0
+471,27.0,> 20 < 30,Gurupi,TO,Waldir Lins,,,2.0,1
+472,22.0,> 20 < 30,Gurupi,TO,Waldir Lins,Urban zone,,3.0,1
+473,23.0,> 20 < 30,Gurupi,TO,Vila Íris,Urban zone,1.0,2.0,0
+474,16.0,< 20,Gurupi,TO,Vila Íris,Urban zone,4.0,1.0,1
+475,32.0,> 30,Gurupi,TO,Vila Íris,Rural zone,2.0,4.0,1
+476,23.0,> 20 < 30,Gurupi,TO,Vila Íris,Urban zone,6.0,1.0,1
+477,24.0,> 20 < 30,Gurupi,TO,Vila Nova,Rural zone,,3.0,1
+478,22.0,> 20 < 30,,,Vila Nova,Rural zone,,3.0,1
+479,25.0,> 20 < 30,Gurupi,TO,Casego,Urban zone,,2.0,0
+480,32.0,> 30,Gurupi,TO,Sol Nascente,Urban zone,,3.0,0
+481,23.0,> 20 < 30,Gurupi,TO,Waldir Lins,Urban zone,,1.0,1
+482,17.0,< 20,Gurupi,TO,Waldir Lins,Urban zone,,1.0,1
+483,20.0,> 20 < 30,Gurupi,TO,Waldir Lins,Urban zone,,2.0,0
+484,16.0,< 20,Gurupi,TO,Waldir Lins,Urban zone,,1.0,1
+485,27.0,> 20 < 30,Gurupi,TO,Waldir Lins,Urban zone,,2.0,0
+486,18.0,< 20,Gurupi,TO,Waldir Lins,Urban zone,,1.0,0
+487,18.0,< 20,Gurupi,TO,Waldir Lins,Urban zone,,1.0,1
+488,20.0,> 20 < 30,Gurupi,TO,São José,Urban zone,,1.0,1

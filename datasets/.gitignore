@@ -1,0 +1,9 @@
+# Re-creatable caches (run the scripts in _harvest/ to rebuild them)
+_harvest/supp/
+_harvest/zips/
+_harvest/tables/
+_harvest/repo_supp/
+_harvest/*.log
+01_nhanes/raw/
+__pycache__/
+*.log

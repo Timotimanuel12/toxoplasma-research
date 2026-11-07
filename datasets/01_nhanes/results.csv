@@ -1,0 +1,5 @@
+dataset,n,positives,prevalence,n_features,LogReg_auc,LogReg_sd,RandomForest_auc,RandomForest_sd,XGBoost_auc,XGBoost_sd,best_auc,best_model,description
+nhanes_1999_2004,8485,1235,0.146,15,0.72,0.018,0.715,0.018,0.718,0.016,0.72,LogReg,"Adults 18-49, 1999-2004, CDC EIA IgG >= 7 IU/mL; demographics, housing, insurance, smoking"
+nhanes_2013_2014_markers,5006,750,0.15,54,0.699,0.018,0.718,0.022,0.713,0.015,0.718,RandomForest,"Adults 18+, 2013-2014, Bio-Rad IgG >= 33 IU/mL; baseline + lifestyle + 44 markers (the paper)"
+nhanes_2009_2014_pooled,14649,2495,0.17,58,0.726,0.015,0.738,0.011,0.742,0.011,0.742,XGBoost,"Adults 18+, 2009-2014 pooled, same assay; baseline + markers"
+nhanes_iii_1988_1994,15524,4263,0.275,37,0.691,0.009,0.706,0.009,0.703,0.008,0.706,RandomForest,"Adults 18+, 1988-1994; includes cat, garden, meat-frequency, region and water questions"

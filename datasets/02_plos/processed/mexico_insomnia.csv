@@ -1,0 +1,1155 @@
+caso_control,Igg_mayor150,N1edad,n1edad2,N2sexo,N4nacim,N5resid,N6area,target_toxo_pos
+caso,no,23,menos 30,female,Abroad,Durango State,Urban,0
+caso,no,56,> 50,female,Durango State,Durango State,Urban,0
+control,no,54,> 50,female,Durango State,Durango State,Urban,0
+control,no,48,31-50,female,Durango State,Durango State,Urban,0
+control,no,34,31-50,male,Durango State,Durango State,Urban,0
+caso,no,36,31-50,female,Durango State,Durango State,Urban,0
+control,no,51,> 50,male,Durango State,Durango State,Urban,0
+control,no,34,31-50,male,Other Mexican State,Durango State,Urban,1
+control,no,60,> 50,female,Durango State,Durango State,Urban,0
+control,no,23,menos 30,male,Other Mexican State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,41,31-50,male,Durango State,Durango State,Urban,0
+control,no,19,menos 30,female,Durango State,Durango State,Urban,0
+control,no,20,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,51,> 50,female,Durango State,Durango State,Urban,0
+caso,no,20,menos 30,male,Other Mexican State,Durango State,Urban,0
+control,no,26,menos 30,male,Durango State,Durango State,Urban,0
+caso,no,26,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,28,menos 30,female,Durango State,Durango State,Urban,0
+control,no,31,31-50,male,Durango State,Durango State,Urban,0
+control,no,60,> 50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,24,menos 30,female,Durango State,Durango State,Urban,0
+control,no,53,> 50,male,Durango State,Durango State,Urban,0
+control,no,54,> 50,female,Durango State,Durango State,Urban,0
+control,no,29,menos 30,female,Other Mexican State,Durango State,Urban,0
+control,no,45,31-50,male,Other Mexican State,Durango State,Urban,0
+control,no,25,menos 30,female,Durango State,Durango State,Urban,0
+control,no,51,> 50,female,Durango State,Durango State,Urban,0
+control,no,42,31-50,female,Durango State,Durango State,Urban,0
+control,no,26,menos 30,female,Durango State,Durango State,Urban,0
+control,no,29,menos 30,male,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,29,menos 30,female,Durango State,Durango State,Urban,0
+control,no,35,31-50,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,no,47,31-50,male,Other Mexican State,Durango State,Urban,0
+control,no,62,> 50,male,Durango State,Durango State,Urban,0
+control,no,25,menos 30,female,Durango State,Durango State,Urban,0
+control,no,45,31-50,male,Durango State,Durango State,Urban,0
+caso,yes,35,31-50,female,Durango State,Durango State,rural,1
+control,no,23,menos 30,female,Durango State,Durango State,Urban,0
+control,no,50,31-50,female,Durango State,Durango State,Urban,0
+control,no,28,menos 30,female,Durango State,Durango State,Urban,0
+control,no,39,31-50,female,Durango State,Durango State,Urban,0
+caso,no,20,menos 30,female,Durango State,Durango State,Urban,0
+control,no,46,31-50,male,Durango State,Durango State,rural,0
+control,no,56,> 50,female,Durango State,Durango State,Urban,0
+control,no,38,31-50,female,Durango State,Durango State,Urban,0
+control,no,19,menos 30,male,Durango State,Durango State,Urban,0
+control,no,50,31-50,female,Durango State,Durango State,Urban,0
+control,no,20,menos 30,female,Durango State,Durango State,Urban,0
+control,no,26,menos 30,female,Durango State,Durango State,Urban,0
+control,no,50,31-50,female,Other Mexican State,Durango State,Urban,0
+caso,no,27,menos 30,female,Durango State,Durango State,Urban,0
+control,no,26,menos 30,male,Durango State,Durango State,Urban,0
+caso,no,61,> 50,female,Durango State,Durango State,Urban,0
+control,no,43,31-50,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,male,,,,0
+control,no,34,31-50,female,Durango State,,,0
+control,no,50,31-50,female,Durango State,Durango State,Urban,0
+control,no,50,31-50,female,Durango State,Durango State,Urban,0
+control,no,43,31-50,female,Durango State,Other Mexican State,rural,1
+caso,no,35,31-50,female,Durango State,Durango State,Urban,0
+control,no,28,menos 30,female,Durango State,Durango State,Urban,0
+control,no,20,menos 30,male,Durango State,Durango State,Urban,0
+control,no,28,menos 30,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Other Mexican State,Durango State,Urban,1
+caso,no,26,menos 30,female,Other Mexican State,Durango State,Urban,0
+control,no,20,menos 30,female,Other Mexican State,Durango State,Urban,0
+control,no,19,menos 30,female,Durango State,Durango State,Urban,0
+control,no,20,menos 30,female,Other Mexican State,Durango State,Urban,0
+control,no,27,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,19,menos 30,female,Durango State,Durango State,Urban,0
+control,no,19,menos 30,female,Durango State,Durango State,Urban,0
+control,no,26,menos 30,female,Durango State,Durango State,Urban,0
+control,no,27,menos 30,male,Durango State,Durango State,Urban,0
+control,no,21,menos 30,female,Durango State,Durango State,Urban,1
+control,no,25,menos 30,female,Durango State,Durango State,Urban,1
+control,no,19,menos 30,female,Durango State,Durango State,rural,0
+control,no,25,menos 30,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,rural,0
+control,no,57,> 50,female,Other Mexican State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,35,31-50,female,Durango State,Durango State,Urban,0
+control,no,43,31-50,female,Durango State,Durango State,Urban,0
+control,no,32,31-50,female,Durango State,Durango State,Urban,0
+control,no,21,menos 30,female,Durango State,Durango State,Urban,0
+control,no,30,menos 30,female,Durango State,Durango State,Urban,0
+control,no,27,menos 30,female,Durango State,Durango State,Urban,0
+control,no,54,> 50,female,Durango State,Durango State,Urban,0
+control,no,32,31-50,female,Durango State,Durango State,Urban,0
+control,no,35,31-50,male,Durango State,Durango State,Urban,0
+caso,no,50,31-50,female,Durango State,Durango State,Urban,0
+control,no,60,> 50,female,Durango State,Durango State,Urban,0
+control,no,43,31-50,female,Durango State,Durango State,Urban,0
+caso,no,41,31-50,male,Durango State,Durango State,Urban,0
+control,no,30,menos 30,female,Durango State,Durango State,Urban,0
+control,no,45,31-50,female,Durango State,Durango State,Urban,0
+control,no,26,menos 30,male,Durango State,Durango State,Urban,0
+control,no,37,31-50,female,Durango State,Durango State,Urban,0
+control,no,50,31-50,female,Durango State,Durango State,Urban,0
+control,no,44,31-50,female,Durango State,Durango State,Urban,0
+control,no,38,31-50,female,Durango State,Durango State,Urban,0
+control,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,no,24,menos 30,female,Durango State,Durango State,Urban,0
+control,no,23,menos 30,male,Durango State,Durango State,Urban,0
+control,no,38,31-50,female,Durango State,Durango State,Urban,0
+control,no,31,31-50,female,Durango State,Durango State,Urban,0
+control,no,53,> 50,female,Other Mexican State,Durango State,Urban,0
+control,no,24,menos 30,male,Durango State,Durango State,Urban,0
+control,no,28,menos 30,female,Durango State,Durango State,Urban,0
+control,no,23,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,no,18,menos 30,female,Durango State,Durango State,Urban,0
+control,no,58,> 50,male,Durango State,Durango State,Urban,0
+caso,no,30,menos 30,female,Durango State,Durango State,Urban,0
+control,no,18,menos 30,female,Durango State,Durango State,Urban,0
+control,no,19,menos 30,male,Durango State,Durango State,Urban,0
+control,no,22,menos 30,female,Durango State,Durango State,Urban,1
+control,no,21,menos 30,female,Durango State,Durango State,Urban,0
+control,no,30,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,64,> 50,female,Durango State,Durango State,,0
+control,no,33,31-50,female,Durango State,Durango State,Urban,0
+control,no,43,31-50,female,Durango State,Durango State,Urban,1
+caso,no,44,31-50,female,Durango State,Durango State,Urban,0
+control,no,58,> 50,female,Durango State,Durango State,Urban,0
+control,no,25,menos 30,male,Durango State,Durango State,Urban,0
+control,no,40,31-50,male,Durango State,Durango State,Urban,0
+caso,no,30,menos 30,female,Durango State,Durango State,Urban,0
+control,no,36,31-50,male,Durango State,Durango State,Urban,0
+control,no,59,> 50,female,Durango State,Durango State,Urban,0
+control,no,21,menos 30,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,male,Durango State,Durango State,Urban,0
+control,no,38,31-50,male,Durango State,Durango State,Urban,0
+control,no,25,menos 30,female,Durango State,Durango State,Urban,0
+control,no,26,menos 30,male,Durango State,Durango State,Urban,0
+control,no,46,31-50,female,Durango State,Durango State,Urban,0
+control,no,38,31-50,female,Durango State,Durango State,Urban,1
+control,no,32,31-50,female,Durango State,Durango State,Urban,0
+control,no,37,31-50,female,Durango State,Durango State,Urban,0
+control,no,20,menos 30,male,Durango State,Durango State,Urban,0
+caso,no,57,> 50,female,Durango State,Durango State,Urban,0
+control,no,33,31-50,female,Durango State,Durango State,Urban,0
+control,no,57,> 50,female,Durango State,Durango State,Urban,0
+control,no,30,menos 30,female,Durango State,Durango State,Urban,0
+control,no,26,menos 30,female,Durango State,Durango State,rural,0
+control,no,23,menos 30,female,Durango State,Durango State,Urban,0
+control,no,26,menos 30,female,Durango State,Durango State,Urban,0
+control,no,28,menos 30,female,Durango State,Durango State,Urban,0
+control,no,32,31-50,female,Durango State,Durango State,Urban,0
+control,no,43,31-50,male,Durango State,Durango State,Urban,0
+control,no,45,31-50,female,Durango State,Durango State,Urban,0
+control,no,42,31-50,female,Durango State,Durango State,Urban,0
+control,no,62,> 50,female,Durango State,Durango State,Urban,0
+control,no,30,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,42,31-50,female,Durango State,Durango State,Urban,0
+caso,no,24,menos 30,female,Durango State,Durango State,Urban,0
+control,no,29,menos 30,female,Durango State,Durango State,Urban,0
+control,no,27,menos 30,female,Durango State,Durango State,suburba,0
+caso,no,41,31-50,male,Durango State,Durango State,Urban,0
+control,no,44,31-50,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,male,Durango State,Durango State,Urban,0
+caso,no,57,> 50,female,Durango State,Durango State,Urban,0
+control,yes,46,31-50,female,Durango State,Durango State,Urban,1
+caso,no,55,> 50,female,Durango State,Durango State,Urban,0
+control,no,31,31-50,female,Other Mexican State,Durango State,Urban,0
+control,no,34,31-50,female,Durango State,Durango State,Urban,0
+control,no,20,menos 30,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,34,31-50,female,Durango State,Durango State,Urban,0
+caso,no,37,31-50,female,Durango State,Durango State,Urban,1
+control,no,49,31-50,female,Durango State,Durango State,Urban,0
+control,no,38,31-50,female,Durango State,Durango State,Urban,1
+control,no,37,31-50,female,Durango State,Durango State,Urban,0
+control,no,37,31-50,male,Durango State,Durango State,Urban,0
+control,no,56,> 50,male,Durango State,Durango State,Urban,0
+control,no,52,> 50,female,Durango State,Durango State,Urban,0
+control,no,45,31-50,female,Durango State,Durango State,Urban,0
+control,no,46,31-50,female,Durango State,Durango State,Urban,0
+control,no,26,menos 30,female,Durango State,Durango State,Urban,0
+control,no,21,menos 30,female,Durango State,Durango State,Urban,0
+control,no,21,menos 30,female,Durango State,Durango State,Urban,0
+control,no,19,menos 30,female,Durango State,Durango State,Urban,0
+control,no,65,> 50,female,Durango State,Durango State,Urban,0
+control,no,34,31-50,female,Durango State,Durango State,Urban,0
+control,no,52,> 50,female,Durango State,Durango State,Urban,0
+control,no,39,31-50,female,Durango State,Durango State,Urban,0
+control,no,37,31-50,female,Durango State,Durango State,Urban,0
+control,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,no,66,> 50,female,Durango State,Durango State,Urban,0
+control,no,33,31-50,female,Durango State,Durango State,rural,0
+control,no,32,31-50,female,Durango State,Durango State,Urban,0
+caso,no,24,menos 30,male,Durango State,Durango State,Urban,0
+control,no,58,> 50,female,Durango State,Durango State,suburba,0
+control,no,31,31-50,male,Durango State,Durango State,rural,0
+control,no,41,31-50,male,Durango State,Durango State,Urban,0
+control,no,22,menos 30,female,Durango State,Durango State,rural,0
+control,no,33,31-50,female,Durango State,Durango State,Urban,0
+control,no,56,> 50,male,,,,0
+control,no,37,31-50,female,Durango State,Durango State,Urban,0
+control,no,50,31-50,female,Durango State,Durango State,Urban,0
+control,no,46,31-50,female,Durango State,Durango State,Urban,0
+control,yes,20,menos 30,female,Durango State,Durango State,Urban,1
+control,no,31,31-50,female,Durango State,Durango State,Urban,0
+control,no,53,> 50,female,Durango State,Durango State,Urban,0
+control,no,30,menos 30,female,Durango State,Durango State,Urban,0
+control,no,51,> 50,female,Durango State,Durango State,Urban,0
+control,no,33,31-50,female,Durango State,Durango State,Urban,0
+control,no,20,menos 30,female,Durango State,Durango State,,0
+control,no,40,31-50,female,Other Mexican State,Durango State,Urban,0
+caso,no,52,> 50,female,Durango State,Durango State,Urban,0
+control,no,55,> 50,male,Durango State,Durango State,Urban,0
+caso,no,31,31-50,female,Durango State,Durango State,Urban,0
+control,no,38,31-50,female,Durango State,Durango State,Urban,0
+control,no,56,> 50,female,Durango State,Durango State,Urban,1
+control,no,36,31-50,female,Durango State,Durango State,Urban,0
+control,no,65,> 50,female,Durango State,Durango State,Urban,0
+control,no,51,> 50,female,Durango State,Durango State,Urban,0
+control,no,36,31-50,male,Other Mexican State,Durango State,Urban,0
+control,no,33,31-50,female,Durango State,Durango State,Urban,0
+control,no,49,31-50,female,Durango State,Durango State,Urban,0
+control,no,20,menos 30,female,Durango State,Durango State,Urban,0
+control,no,35,31-50,female,Durango State,Durango State,Urban,0
+caso,no,42,31-50,female,Durango State,Durango State,Urban,0
+caso,no,28,menos 30,female,Durango State,Durango State,Urban,0
+control,no,31,31-50,female,Durango State,Durango State,Urban,0
+caso,no,52,> 50,female,Durango State,Durango State,Urban,0
+control,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,no,37,31-50,female,Durango State,Durango State,Urban,0
+caso,no,39,31-50,female,Durango State,Durango State,rural,0
+control,no,37,31-50,female,Durango State,Durango State,Urban,0
+caso,no,36,31-50,male,Durango State,Durango State,Urban,0
+caso,yes,53,> 50,female,Durango State,Other Mexican State,Urban,1
+caso,no,23,menos 30,female,Durango State,Durango State,Urban,0
+control,no,41,31-50,female,Durango State,Durango State,Urban,0
+control,no,23,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,59,> 50,female,Durango State,Durango State,Urban,0
+control,no,42,31-50,female,Durango State,Durango State,Urban,0
+control,no,53,> 50,female,Durango State,Durango State,Urban,0
+caso,no,64,> 50,female,Other Mexican State,Durango State,Urban,1
+control,no,39,31-50,female,Durango State,Durango State,Urban,0
+control,yes,37,31-50,female,Durango State,Durango State,Urban,1
+control,no,54,> 50,female,Durango State,Durango State,Urban,0
+control,no,53,> 50,male,Durango State,Durango State,Urban,0
+control,no,30,menos 30,female,Durango State,Durango State,Urban,0
+control,no,37,31-50,female,Durango State,Durango State,Urban,0
+caso,no,35,31-50,female,Durango State,Durango State,Urban,0
+caso,no,60,> 50,female,Durango State,Durango State,Urban,0
+caso,no,38,31-50,female,Durango State,Durango State,rural,0
+control,no,37,31-50,female,Durango State,Durango State,Urban,0
+control,no,37,31-50,female,Durango State,Durango State,rural,0
+control,no,27,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,68,> 50,female,Other Mexican State,Durango State,Urban,0
+caso,no,78,> 50,female,Durango State,Durango State,Urban,0
+control,no,55,> 50,female,Durango State,Durango State,Urban,0
+caso,no,26,menos 30,male,Durango State,Durango State,suburba,0
+caso,no,65,> 50,female,Durango State,Durango State,suburba,0
+caso,no,29,menos 30,female,Durango State,Durango State,suburba,0
+caso,no,27,menos 30,female,,Durango State,rural,0
+control,no,52,> 50,female,Durango State,Durango State,Urban,0
+control,no,50,31-50,female,Durango State,Durango State,rural,0
+caso,no,56,> 50,male,Durango State,Durango State,rural,0
+control,no,27,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,26,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,39,31-50,female,Durango State,Durango State,suburba,0
+caso,no,25,menos 30,female,Durango State,Durango State,Urban,0
+control,no,39,31-50,female,Durango State,Durango State,Urban,0
+caso,no,20,menos 30,female,Durango State,Durango State,suburba,0
+control,no,28,menos 30,male,Durango State,Durango State,Urban,0
+control,no,57,> 50,male,Other Mexican State,Durango State,Urban,0
+control,no,31,31-50,female,Durango State,Durango State,Urban,0
+control,no,36,31-50,female,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,yes,63,> 50,female,Durango State,Durango State,rural,1
+control,no,35,31-50,female,Durango State,Durango State,suburba,0
+caso,no,56,> 50,female,Durango State,Durango State,rural,0
+caso,no,20,menos 30,male,Durango State,Durango State,Urban,0
+control,no,49,31-50,female,Durango State,Durango State,Urban,0
+caso,no,35,31-50,female,Durango State,Durango State,rural,1
+caso,no,52,> 50,female,Durango State,Durango State,suburba,0
+control,no,62,> 50,female,Durango State,Durango State,Urban,0
+caso,no,42,31-50,female,Durango State,Durango State,suburba,0
+control,no,49,31-50,male,Durango State,Durango State,Urban,0
+control,no,49,31-50,female,Durango State,Durango State,Urban,0
+control,no,34,31-50,female,Durango State,Durango State,rural,0
+caso,no,21,menos 30,female,Durango State,Durango State,Urban,0
+control,no,48,31-50,female,Durango State,Durango State,Urban,0
+control,no,31,31-50,female,Durango State,Durango State,Urban,1
+control,no,37,31-50,female,Other Mexican State,Durango State,Urban,0
+caso,no,45,31-50,male,Durango State,Durango State,suburba,0
+control,no,33,31-50,female,Durango State,Durango State,Urban,0
+caso,no,37,31-50,female,Durango State,Durango State,Urban,0
+caso,no,22,menos 30,female,Durango State,Durango State,Urban,0
+control,no,27,menos 30,female,Durango State,Durango State,Urban,0
+control,no,43,31-50,female,Durango State,Durango State,Urban,0
+control,no,43,31-50,female,Durango State,Durango State,Urban,0
+caso,no,28,menos 30,female,Durango State,Durango State,rural,0
+caso,no,50,31-50,female,Other Mexican State,Durango State,Urban,0
+control,no,49,31-50,female,Durango State,Durango State,Urban,0
+control,no,32,31-50,female,Durango State,Durango State,rural,0
+caso,no,63,> 50,female,Durango State,Durango State,Urban,0
+caso,no,50,31-50,female,Durango State,Durango State,Urban,0
+caso,no,32,31-50,female,Durango State,Durango State,Urban,0
+control,no,35,31-50,female,Durango State,Durango State,Urban,0
+control,no,35,31-50,female,Durango State,Durango State,Urban,0
+caso,no,64,> 50,female,Durango State,Durango State,Urban,0
+control,no,44,31-50,female,Durango State,Durango State,rural,0
+caso,no,18,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,56,> 50,female,Durango State,Durango State,Urban,0
+caso,no,21,menos 30,female,Durango State,Durango State,rural,0
+caso,no,35,31-50,female,Durango State,Durango State,Urban,1
+control,no,31,31-50,female,Durango State,Durango State,suburba,0
+caso,no,44,31-50,female,Durango State,Durango State,Urban,0
+control,yes,36,31-50,female,Durango State,Durango State,Urban,1
+caso,no,38,31-50,female,Durango State,Durango State,Urban,0
+caso,no,20,menos 30,female,Durango State,Durango State,rural,0
+control,no,46,31-50,female,Durango State,Durango State,Urban,0
+control,no,58,> 50,female,Durango State,Durango State,Urban,0
+control,no,45,31-50,female,Durango State,Durango State,Urban,0
+control,no,38,31-50,female,Durango State,Durango State,Urban,0
+control,no,23,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,51,> 50,female,Other Mexican State,Durango State,suburba,0
+control,no,37,31-50,female,Durango State,Durango State,Urban,0
+control,no,23,menos 30,female,Durango State,Durango State,rural,0
+control,no,56,> 50,female,Durango State,Durango State,Urban,0
+caso,no,21,menos 30,female,Durango State,Durango State,Urban,0
+control,no,23,menos 30,female,Durango State,Durango State,Urban,0
+control,no,46,31-50,female,Other Mexican State,Durango State,Urban,0
+control,no,37,31-50,female,Durango State,Durango State,rural,1
+caso,no,18,menos 30,female,Durango State,Durango State,Urban,0
+control,no,48,31-50,female,Durango State,Durango State,Urban,0
+control,no,34,31-50,female,Durango State,Durango State,Urban,0
+caso,no,55,> 50,female,Durango State,Durango State,Urban,0
+control,no,50,31-50,female,Durango State,Durango State,Urban,0
+control,no,41,31-50,female,Durango State,Durango State,Urban,0
+control,no,42,31-50,female,Durango State,Durango State,Urban,1
+caso,no,51,> 50,female,Other Mexican State,Durango State,Urban,0
+control,no,20,menos 30,male,Durango State,Durango State,Urban,0
+caso,no,23,menos 30,female,Durango State,Durango State,Urban,0
+control,no,23,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,27,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,32,31-50,female,Other Mexican State,Durango State,suburba,0
+control,no,32,31-50,female,Durango State,Durango State,rural,0
+caso,no,66,> 50,female,Durango State,Durango State,rural,0
+caso,no,45,31-50,female,Durango State,Durango State,rural,0
+caso,no,20,menos 30,female,Durango State,Durango State,rural,0
+caso,no,43,31-50,female,Durango State,Durango State,Urban,0
+caso,no,27,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,22,menos 30,female,Durango State,Durango State,suburba,0
+control,no,34,31-50,female,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,Urban,0
+caso,no,59,> 50,female,Other Mexican State,Durango State,Urban,0
+control,no,45,31-50,female,Durango State,Durango State,Urban,0
+caso,yes,46,31-50,male,Durango State,Durango State,Urban,1
+control,no,53,> 50,female,Durango State,Durango State,Urban,0
+control,no,38,31-50,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,56,> 50,female,Durango State,Durango State,rural,0
+control,no,37,31-50,female,Durango State,Durango State,Urban,0
+caso,no,33,31-50,female,Durango State,Durango State,Urban,0
+control,no,30,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,57,> 50,female,Durango State,Durango State,Urban,0
+caso,no,38,31-50,female,Durango State,Durango State,Urban,0
+control,no,65,> 50,female,Durango State,Durango State,Urban,0
+control,no,53,> 50,female,Durango State,Durango State,Urban,0
+caso,yes,35,31-50,male,Other Mexican State,Durango State,rural,1
+caso,no,40,31-50,female,Durango State,Durango State,rural,0
+caso,no,45,31-50,female,Durango State,Durango State,Urban,0
+caso,no,19,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,27,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,61,> 50,female,Durango State,Durango State,Urban,0
+caso,no,21,menos 30,male,Durango State,Durango State,rural,0
+caso,no,30,menos 30,female,Durango State,Durango State,Urban,0
+control,no,30,menos 30,female,Durango State,Durango State,rural,0
+control,no,60,> 50,female,Durango State,Durango State,Urban,0
+caso,no,45,31-50,female,Durango State,Durango State,Urban,0
+control,no,66,> 50,female,Durango State,Durango State,Urban,0
+control,no,44,31-50,female,Durango State,Durango State,Urban,0
+caso,no,60,> 50,female,Durango State,Durango State,Urban,0
+control,no,39,31-50,female,Durango State,Durango State,rural,1
+caso,no,35,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,36,31-50,female,,Durango State,Urban,0
+control,no,30,menos 30,female,Durango State,Durango State,Urban,0
+control,no,35,31-50,female,Durango State,Durango State,Urban,0
+control,no,69,> 50,female,Durango State,Durango State,Urban,0
+control,no,56,> 50,female,Durango State,Durango State,Urban,0
+control,no,43,31-50,female,Durango State,Durango State,Urban,0
+caso,no,19,menos 30,male,Durango State,Durango State,Urban,0
+control,no,21,menos 30,female,Other Mexican State,Durango State,Urban,0
+caso,no,49,31-50,female,Durango State,Durango State,Urban,0
+caso,no,44,31-50,female,Durango State,Durango State,rural,0
+caso,no,30,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,42,31-50,female,Durango State,Durango State,Urban,0
+control,no,23,menos 30,female,Durango State,Durango State,Urban,0
+control,no,46,31-50,female,Durango State,Durango State,rural,0
+caso,no,63,> 50,female,Durango State,Durango State,Urban,0
+caso,no,80,> 50,female,Durango State,Durango State,rural,0
+caso,no,27,menos 30,female,Durango State,Durango State,suburba,0
+caso,no,23,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,38,31-50,female,Durango State,Durango State,Urban,0
+control,no,45,31-50,female,Durango State,Durango State,Urban,0
+control,no,39,31-50,female,Durango State,Durango State,rural,0
+caso,no,26,menos 30,female,Durango State,Durango State,Urban,0
+control,no,44,31-50,female,Other Mexican State,Durango State,Urban,0
+control,no,27,menos 30,female,Durango State,Durango State,suburba,0
+caso,no,54,> 50,female,Durango State,Durango State,Urban,0
+control,no,64,> 50,female,Other Mexican State,Other Mexican State,Urban,0
+control,no,77,> 50,female,Other Mexican State,Durango State,Urban,1
+control,no,30,menos 30,female,Durango State,Durango State,Urban,0
+control,no,64,> 50,female,Durango State,Durango State,rural,0
+control,no,63,> 50,male,Other Mexican State,Durango State,Urban,0
+control,no,34,31-50,female,Durango State,Durango State,Urban,0
+caso,no,34,31-50,male,Durango State,Durango State,Urban,0
+control,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,no,46,31-50,female,Durango State,Durango State,Urban,0
+control,no,63,> 50,female,Durango State,Durango State,rural,0
+caso,no,28,menos 30,female,Durango State,Durango State,Urban,0
+control,no,53,> 50,female,Durango State,Durango State,Urban,0
+control,no,52,> 50,male,Durango State,Durango State,Urban,0
+control,no,38,31-50,female,Durango State,Durango State,Urban,0
+caso,yes,37,31-50,female,Durango State,Durango State,rural,1
+caso,no,57,> 50,male,Durango State,Durango State,rural,0
+control,no,43,31-50,male,Durango State,Durango State,Urban,0
+caso,no,45,31-50,female,Other Mexican State,Durango State,Urban,0
+control,no,39,31-50,female,Durango State,Durango State,Urban,0
+control,no,55,> 50,female,Durango State,Durango State,Urban,0
+caso,yes,55,> 50,female,Durango State,Durango State,Urban,1
+control,no,27,menos 30,female,Durango State,Durango State,Urban,1
+control,no,35,31-50,female,Durango State,Durango State,Urban,0
+control,no,30,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,37,31-50,female,Other Mexican State,Durango State,,0
+caso,no,64,> 50,female,Durango State,Durango State,rural,0
+caso,no,55,> 50,female,Durango State,Durango State,Urban,0
+control,no,39,31-50,female,Durango State,Durango State,Urban,0
+control,no,39,31-50,female,Durango State,Durango State,Urban,0
+control,no,30,menos 30,female,Durango State,Durango State,Urban,0
+control,no,58,> 50,female,Durango State,Durango State,Urban,0
+control,no,30,menos 30,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,yes,55,> 50,female,Durango State,Durango State,rural,1
+control,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,no,57,> 50,female,Durango State,Durango State,Urban,0
+control,no,27,menos 30,female,Durango State,Durango State,Urban,0
+control,yes,35,31-50,female,Durango State,Durango State,Urban,1
+control,no,44,31-50,female,Durango State,Durango State,Urban,0
+control,no,55,> 50,female,Durango State,Durango State,rural,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,59,> 50,female,Durango State,Durango State,Urban,0
+control,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,no,30,menos 30,female,Durango State,Durango State,,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,27,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,23,menos 30,female,Durango State,Durango State,rural,0
+control,no,45,31-50,female,Durango State,Durango State,Urban,0
+caso,no,23,menos 30,female,Durango State,Durango State,Urban,0
+control,no,27,menos 30,female,Durango State,Durango State,Urban,0
+control,no,39,31-50,female,Durango State,Durango State,Urban,0
+control,no,57,> 50,female,Durango State,Durango State,Urban,0
+control,no,53,> 50,female,Durango State,Durango State,Urban,0
+control,no,55,> 50,female,Durango State,Durango State,Urban,0
+control,no,63,> 50,female,Durango State,Durango State,Urban,0
+control,no,59,> 50,female,Durango State,Durango State,Urban,0
+control,no,27,menos 30,female,Durango State,Durango State,Urban,0
+control,no,41,31-50,female,Durango State,Durango State,rural,0
+control,no,30,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,59,> 50,female,Durango State,Durango State,rural,0
+control,no,44,31-50,female,Durango State,Durango State,Urban,0
+caso,no,36,31-50,female,Durango State,Durango State,rural,0
+control,no,35,31-50,female,Durango State,Durango State,Urban,0
+control,no,41,31-50,male,Durango State,Durango State,Urban,0
+control,no,48,31-50,female,Durango State,Durango State,Urban,0
+caso,no,45,31-50,female,Other Mexican State,Durango State,rural,0
+caso,no,30,menos 30,female,Durango State,Durango State,Urban,1
+caso,no,50,31-50,female,Durango State,Durango State,Urban,0
+caso,no,49,31-50,female,Durango State,Durango State,Urban,0
+control,no,27,menos 30,female,Durango State,Durango State,Urban,0
+control,no,59,> 50,female,Durango State,Durango State,rural,0
+caso,no,23,menos 30,female,Durango State,Durango State,Urban,0
+control,no,81,> 50,female,Durango State,Durango State,rural,0
+control,yes,48,31-50,female,Durango State,Durango State,rural,1
+control,no,53,> 50,female,Durango State,Durango State,rural,0
+control,no,44,31-50,female,Durango State,Durango State,Urban,0
+caso,no,26,menos 30,male,Durango State,Durango State,rural,0
+control,no,55,> 50,female,Durango State,Durango State,Urban,0
+control,no,49,31-50,female,Durango State,Durango State,Urban,0
+control,no,59,> 50,female,Durango State,Durango State,Urban,0
+control,no,39,31-50,female,Durango State,Durango State,Urban,1
+control,no,67,> 50,female,Other Mexican State,Durango State,Urban,0
+control,no,68,> 50,female,Durango State,Durango State,rural,0
+control,no,31,31-50,female,Durango State,Durango State,rural,0
+caso,no,20,menos 30,female,Durango State,Durango State,Urban,0
+control,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,no,37,31-50,male,Durango State,Durango State,Urban,0
+control,no,41,31-50,female,Other Mexican State,Durango State,Urban,0
+control,no,31,31-50,female,Durango State,Durango State,Urban,0
+control,no,49,31-50,female,Durango State,Durango State,Urban,0
+caso,no,27,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,48,31-50,male,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,suburba,0
+control,no,48,31-50,male,Other Mexican State,Durango State,Urban,0
+control,no,35,31-50,female,Durango State,Durango State,Urban,0
+control,no,35,31-50,female,Durango State,Durango State,Urban,0
+control,no,31,31-50,female,Durango State,Durango State,rural,0
+control,no,72,> 50,male,Durango State,Durango State,Urban,0
+control,no,42,31-50,female,Durango State,Abroad,rural,0
+control,no,41,31-50,female,Durango State,Durango State,Urban,0
+control,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,no,51,> 50,female,Durango State,Durango State,Urban,0
+control,no,52,> 50,male,Durango State,Durango State,suburba,0
+control,no,52,> 50,female,Durango State,Durango State,Urban,0
+control,no,55,> 50,female,Durango State,Durango State,Urban,0
+control,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,no,57,> 50,female,Durango State,Durango State,Urban,0
+control,no,44,31-50,female,Durango State,Durango State,Urban,0
+control,no,42,31-50,female,Durango State,Durango State,Urban,0
+control,no,63,> 50,female,Durango State,Durango State,Urban,0
+control,no,50,31-50,female,Durango State,Durango State,Urban,0
+control,no,52,> 50,female,Other Mexican State,Durango State,Urban,0
+control,no,45,31-50,female,Durango State,Durango State,Urban,0
+control,no,64,> 50,male,Durango State,Durango State,Urban,0
+control,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,no,61,> 50,female,Durango State,Durango State,Urban,0
+control,no,44,31-50,female,Durango State,Durango State,rural,0
+control,no,41,31-50,female,Durango State,Durango State,Urban,0
+control,no,54,> 50,female,Other Mexican State,Durango State,Urban,0
+control,no,52,> 50,female,Durango State,Durango State,Urban,0
+control,no,59,> 50,female,Durango State,Durango State,Urban,0
+control,no,48,31-50,female,Durango State,Durango State,Urban,0
+control,no,55,> 50,female,Durango State,Durango State,Urban,0
+control,no,43,31-50,female,Durango State,Durango State,Urban,0
+control,no,43,31-50,female,Durango State,Durango State,Urban,0
+control,no,80,> 50,female,Durango State,Durango State,Urban,0
+control,no,61,> 50,female,Durango State,Durango State,Urban,0
+control,no,61,> 50,female,Durango State,Durango State,Urban,0
+control,no,66,> 50,male,Durango State,Durango State,Urban,0
+control,no,54,> 50,female,Durango State,Durango State,Urban,0
+control,no,75,> 50,female,Durango State,Durango State,Urban,0
+control,no,57,> 50,female,Durango State,Durango State,Urban,0
+control,no,57,> 50,female,Durango State,Durango State,Urban,0
+control,no,53,> 50,female,Durango State,Durango State,Urban,0
+control,no,63,> 50,female,Durango State,Durango State,Urban,0
+control,no,45,31-50,male,Durango State,Durango State,Urban,0
+control,no,64,> 50,female,Other Mexican State,Durango State,Urban,0
+control,no,51,> 50,female,Durango State,Durango State,Urban,0
+caso,no,60,> 50,female,Durango State,Durango State,suburba,0
+control,no,53,> 50,female,Durango State,Durango State,Urban,1
+caso,no,51,> 50,female,Durango State,Durango State,Urban,0
+caso,no,27,menos 30,female,Other Mexican State,Durango State,Urban,0
+caso,no,40,31-50,male,Durango State,Durango State,Urban,0
+control,no,74,> 50,female,Durango State,Durango State,Urban,0
+control,no,56,> 50,female,Durango State,Durango State,Urban,0
+caso,no,52,> 50,female,Durango State,Durango State,suburba,0
+caso,no,60,> 50,female,Durango State,Durango State,Urban,0
+control,no,67,> 50,female,Durango State,Durango State,suburba,0
+caso,no,59,> 50,female,Other Mexican State,Durango State,Urban,0
+caso,no,37,31-50,female,Durango State,Durango State,Urban,1
+caso,no,61,> 50,female,Durango State,Durango State,suburba,1
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,41,31-50,female,Durango State,Durango State,Urban,0
+control,no,53,> 50,female,Durango State,Durango State,Urban,0
+caso,no,70,> 50,male,Durango State,Durango State,Urban,0
+control,no,47,31-50,female,Durango State,Durango State,Urban,0
+caso,no,61,> 50,female,Durango State,Durango State,Urban,1
+caso,no,47,31-50,female,Durango State,Durango State,rural,0
+caso,no,58,> 50,female,Durango State,Durango State,Urban,1
+caso,no,49,31-50,male,Durango State,Durango State,Urban,1
+control,no,52,> 50,male,Durango State,Durango State,Urban,0
+caso,no,60,> 50,female,Other Mexican State,Durango State,suburba,1
+control,no,38,31-50,male,Other Mexican State,Durango State,Urban,0
+caso,no,59,> 50,female,Other Mexican State,Durango State,Urban,0
+caso,no,69,> 50,female,Other Mexican State,Durango State,Urban,0
+caso,no,56,> 50,female,Durango State,Durango State,Urban,0
+caso,no,64,> 50,male,Other Mexican State,Durango State,Urban,0
+control,no,59,> 50,female,Durango State,Durango State,Urban,0
+caso,no,56,> 50,male,Other Mexican State,Durango State,Urban,0
+caso,no,66,> 50,male,Durango State,Durango State,Urban,0
+control,no,43,31-50,female,Durango State,Durango State,Urban,0
+caso,no,58,> 50,female,Durango State,Durango State,Urban,0
+caso,no,63,> 50,female,Durango State,Durango State,Urban,0
+caso,no,75,> 50,female,Durango State,Durango State,Urban,0
+control,no,53,> 50,female,Durango State,Durango State,Urban,0
+caso,no,44,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,male,Durango State,Durango State,Urban,0
+caso,no,53,> 50,female,Durango State,Durango State,Urban,0
+caso,no,48,31-50,female,Durango State,Durango State,Urban,0
+caso,no,55,> 50,female,Durango State,Durango State,suburba,0
+control,no,69,> 50,female,Durango State,Durango State,Urban,0
+caso,no,52,> 50,female,Durango State,Durango State,Urban,0
+control,no,55,> 50,female,Durango State,Durango State,Urban,0
+caso,no,61,> 50,female,Other Mexican State,Durango State,suburba,0
+control,no,55,> 50,female,Durango State,Durango State,suburba,0
+caso,no,41,31-50,female,Durango State,Durango State,Urban,0
+caso,no,49,31-50,female,Durango State,Durango State,Urban,0
+caso,no,53,> 50,female,Durango State,Durango State,suburba,0
+control,no,49,31-50,female,Durango State,Durango State,Urban,1
+control,no,55,> 50,female,Durango State,Durango State,Urban,0
+control,no,69,> 50,female,Durango State,Durango State,Urban,0
+control,no,59,> 50,female,Durango State,Durango State,Urban,0
+control,no,48,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,yes,50,31-50,female,Other Mexican State,Durango State,Urban,1
+caso,no,54,> 50,female,Durango State,Durango State,Urban,0
+caso,no,74,> 50,female,Durango State,Durango State,Urban,0
+caso,no,55,> 50,female,Durango State,Durango State,Urban,0
+control,no,56,> 50,female,Durango State,Durango State,Urban,0
+caso,no,55,> 50,female,Durango State,Durango State,Urban,0
+caso,no,65,> 50,female,Durango State,Durango State,Urban,0
+caso,yes,65,> 50,female,Durango State,Durango State,suburba,1
+control,no,45,31-50,female,Durango State,Durango State,Urban,0
+caso,no,56,> 50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,1
+control,no,36,31-50,female,Durango State,Durango State,Urban,0
+caso,no,43,31-50,male,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,Urban,0
+caso,no,53,> 50,male,Durango State,Durango State,Urban,0
+control,no,57,> 50,male,Durango State,Durango State,suburba,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,36,31-50,female,Durango State,Durango State,Urban,0
+control,no,36,31-50,female,Durango State,Durango State,Urban,0
+control,no,36,31-50,female,Durango State,Durango State,Urban,0
+control,no,46,31-50,male,Durango State,Durango State,Urban,0
+control,no,64,> 50,female,Durango State,Durango State,Urban,1
+control,no,60,> 50,female,Durango State,Durango State,Urban,0
+caso,no,69,> 50,female,Durango State,Durango State,Urban,0
+caso,no,64,> 50,female,Durango State,Durango State,Urban,1
+control,no,42,31-50,female,Durango State,Durango State,Urban,0
+control,no,66,> 50,male,Durango State,Durango State,Urban,0
+caso,no,30,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,46,31-50,female,Durango State,Durango State,Urban,1
+control,no,50,31-50,female,Durango State,Durango State,Urban,0
+caso,no,74,> 50,female,Durango State,Durango State,Urban,0
+caso,no,36,31-50,female,Durango State,Durango State,Urban,0
+control,no,55,> 50,female,Durango State,Durango State,Urban,0
+control,no,50,31-50,female,Durango State,Durango State,Urban,0
+control,no,46,31-50,female,Durango State,Durango State,Urban,0
+caso,no,67,> 50,female,Durango State,Durango State,suburba,0
+caso,no,39,31-50,female,Durango State,Durango State,Urban,0
+caso,no,54,> 50,female,Durango State,Durango State,Urban,0
+control,no,50,31-50,male,Durango State,Durango State,Urban,0
+control,no,55,> 50,female,Durango State,Durango State,Urban,0
+caso,no,50,31-50,female,Durango State,Durango State,Urban,0
+control,no,45,31-50,female,Durango State,Durango State,Urban,0
+control,no,50,31-50,female,Durango State,Durango State,Urban,0
+caso,no,72,> 50,male,Durango State,Durango State,Urban,0
+control,no,38,31-50,male,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,64,> 50,female,Durango State,Durango State,Urban,0
+control,no,60,> 50,female,Durango State,Durango State,Urban,0
+control,no,42,31-50,female,Durango State,Durango State,Urban,0
+control,no,52,> 50,female,Durango State,Durango State,Urban,0
+caso,no,35,31-50,female,Other Mexican State,Durango State,Urban,0
+control,no,53,> 50,female,Other Mexican State,Durango State,Urban,0
+caso,no,77,> 50,female,Durango State,Durango State,Urban,0
+caso,no,59,> 50,female,Durango State,Durango State,Urban,0
+control,no,45,31-50,female,Other Mexican State,Durango State,Urban,0
+caso,no,58,> 50,female,Durango State,Durango State,Urban,0
+control,no,41,31-50,female,Durango State,Durango State,Urban,1
+caso,no,59,> 50,female,Other Mexican State,Durango State,Urban,0
+control,no,60,> 50,female,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,48,31-50,female,Durango State,Durango State,Urban,0
+control,no,45,31-50,female,Durango State,Durango State,Urban,0
+control,no,54,> 50,female,Durango State,Durango State,Urban,0
+caso,no,60,> 50,female,Durango State,Durango State,Urban,0
+control,no,61,> 50,female,Durango State,Durango State,Urban,0
+control,no,46,31-50,female,Durango State,Durango State,Urban,0
+caso,no,55,> 50,female,Durango State,Durango State,Urban,0
+control,no,52,> 50,female,Durango State,Durango State,Urban,0
+control,no,59,> 50,male,Other Mexican State,Durango State,Urban,1
+control,no,45,31-50,female,Durango State,Durango State,Urban,0
+caso,no,67,> 50,female,Durango State,Durango State,Urban,0
+control,no,54,> 50,female,Durango State,Durango State,Urban,0
+control,no,78,> 50,female,Durango State,Durango State,Urban,0
+caso,no,53,> 50,female,Durango State,Durango State,Urban,0
+caso,no,43,31-50,female,Durango State,Durango State,Urban,0
+caso,no,35,31-50,female,Durango State,Durango State,Urban,0
+caso,no,19,menos 30,female,Abroad,Durango State,Urban,0
+control,no,59,> 50,female,Durango State,Durango State,Urban,0
+caso,no,57,> 50,female,Durango State,Durango State,Urban,0
+caso,no,61,> 50,female,Durango State,Durango State,Urban,0
+caso,no,21,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,20,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,60,> 50,female,Durango State,Durango State,Urban,0
+control,no,59,> 50,female,Durango State,Durango State,Urban,0
+caso,no,48,31-50,female,Durango State,Durango State,Urban,1
+caso,no,72,> 50,male,Other Mexican State,Durango State,Urban,0
+caso,no,33,31-50,female,Durango State,Durango State,Urban,0
+caso,no,51,> 50,female,Durango State,Durango State,Urban,0
+control,no,72,> 50,male,Other Mexican State,Durango State,Urban,0
+caso,no,49,31-50,female,Durango State,Durango State,Urban,0
+caso,no,26,menos 30,female,Durango State,Durango State,Urban,0
+control,no,59,> 50,female,Durango State,Durango State,Urban,0
+caso,no,52,> 50,female,Durango State,Durango State,Urban,0
+caso,no,50,31-50,female,Durango State,Durango State,Urban,0
+control,no,60,> 50,female,Durango State,Durango State,Urban,0
+control,no,50,31-50,female,Durango State,Durango State,Urban,0
+caso,no,41,31-50,female,Durango State,Durango State,Urban,0
+control,no,56,> 50,female,Durango State,Durango State,Urban,0
+control,no,49,31-50,female,Durango State,Durango State,Urban,0
+caso,no,58,> 50,male,Other Mexican State,Durango State,Urban,1
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,yes,63,> 50,male,Durango State,Durango State,Urban,1
+control,no,55,> 50,female,Durango State,Durango State,Urban,0
+caso,no,59,> 50,female,Durango State,Durango State,Urban,0
+caso,no,57,> 50,female,Durango State,Durango State,Urban,0
+caso,yes,52,> 50,female,Durango State,Durango State,Urban,1
+caso,no,50,31-50,female,Other Mexican State,Durango State,Urban,1
+caso,no,45,31-50,female,Durango State,Durango State,Urban,0
+caso,no,45,31-50,female,Durango State,Durango State,Urban,0
+caso,no,69,> 50,female,Durango State,Durango State,Urban,0
+caso,no,52,> 50,female,Durango State,Durango State,Urban,0
+caso,no,60,> 50,female,Durango State,Durango State,Urban,0
+caso,no,51,> 50,female,Durango State,Durango State,Urban,0
+control,no,51,> 50,female,Durango State,Durango State,Urban,0
+control,no,54,> 50,female,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,Urban,0
+caso,no,63,> 50,female,Other Mexican State,Durango State,Urban,0
+caso,no,58,> 50,female,Other Mexican State,Durango State,Urban,0
+caso,no,59,> 50,female,Durango State,Durango State,Urban,0
+control,no,49,31-50,female,Durango State,Durango State,Urban,0
+caso,no,32,31-50,female,Durango State,Durango State,Urban,0
+caso,no,66,> 50,female,Durango State,Durango State,Urban,0
+caso,no,54,> 50,female,Durango State,Durango State,Urban,0
+caso,no,41,31-50,female,Durango State,Durango State,rural,0
+control,no,49,31-50,female,Durango State,Durango State,rural,0
+caso,no,41,31-50,female,Other Mexican State,Durango State,Urban,0
+control,no,54,> 50,female,Durango State,Durango State,Urban,0
+caso,no,55,> 50,female,Durango State,Durango State,Urban,0
+caso,no,46,31-50,female,Durango State,Durango State,rural,0
+caso,no,51,> 50,female,Durango State,Durango State,Urban,0
+control,no,41,31-50,female,Durango State,Durango State,Urban,0
+caso,no,41,31-50,female,Other Mexican State,Durango State,suburba,0
+caso,no,49,31-50,female,Durango State,Durango State,Urban,0
+caso,no,42,31-50,female,Durango State,Durango State,suburba,1
+control,no,52,> 50,female,Durango State,Durango State,suburba,0
+control,no,52,> 50,female,Durango State,Durango State,suburba,0
+control,no,40,31-50,female,Durango State,Durango State,rural,0
+caso,no,42,31-50,female,Durango State,Durango State,rural,0
+caso,no,55,> 50,female,Durango State,Durango State,suburba,0
+caso,no,41,31-50,female,Durango State,Durango State,suburba,0
+caso,no,42,31-50,female,Durango State,Durango State,suburba,0
+caso,no,48,31-50,female,Durango State,Durango State,Urban,0
+control,no,51,> 50,female,Durango State,Durango State,Urban,0
+caso,no,41,31-50,female,Durango State,Durango State,Urban,0
+caso,no,54,> 50,female,Durango State,Durango State,Urban,0
+caso,no,43,31-50,female,Durango State,Durango State,Urban,0
+caso,no,42,31-50,female,Durango State,Durango State,suburba,0
+caso,no,46,31-50,female,Other Mexican State,Durango State,suburba,0
+control,no,41,31-50,female,Durango State,Durango State,suburba,0
+control,no,49,31-50,female,Durango State,Durango State,suburba,0
+caso,no,47,31-50,female,Durango State,Durango State,suburba,0
+caso,no,51,> 50,female,Durango State,Durango State,suburba,0
+control,no,40,31-50,female,Other Mexican State,Durango State,Urban,1
+caso,no,55,> 50,female,Other Mexican State,Durango State,suburba,0
+caso,no,40,31-50,female,Durango State,Durango State,suburba,0
+caso,no,40,31-50,female,Other Mexican State,Durango State,suburba,0
+caso,no,50,31-50,female,Durango State,Durango State,suburba,0
+caso,no,49,31-50,female,Durango State,Durango State,suburba,0
+caso,no,53,> 50,female,Other Mexican State,Durango State,suburba,0
+control,no,49,31-50,female,Durango State,Durango State,suburba,0
+caso,no,40,31-50,female,Durango State,Durango State,suburba,0
+caso,no,53,> 50,female,Durango State,Durango State,rural,0
+control,no,42,31-50,female,Durango State,Durango State,Urban,0
+caso,no,48,31-50,female,Durango State,Durango State,rural,0
+caso,no,55,> 50,female,Durango State,Durango State,suburba,0
+control,no,55,> 50,female,Durango State,Durango State,suburba,0
+caso,no,46,31-50,female,Durango State,Durango State,suburba,1
+caso,no,50,31-50,female,Durango State,Durango State,rural,0
+control,no,55,> 50,female,Durango State,Durango State,suburba,0
+control,no,54,> 50,female,Durango State,Durango State,suburba,0
+control,no,55,> 50,female,Durango State,Durango State,rural,0
+caso,no,45,31-50,female,Durango State,Durango State,suburba,0
+control,no,40,31-50,female,Durango State,Durango State,suburba,1
+caso,no,43,31-50,female,Durango State,Durango State,Urban,0
+caso,no,55,> 50,female,Other Mexican State,Durango State,rural,0
+control,yes,49,31-50,female,Other Mexican State,Durango State,suburba,1
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,55,> 50,female,Other Mexican State,Durango State,Urban,0
+caso,no,56,> 50,female,Durango State,Durango State,Urban,0
+caso,no,45,31-50,female,Other Mexican State,Durango State,Urban,0
+control,no,49,31-50,female,Durango State,Durango State,Urban,0
+caso,no,42,31-50,female,Durango State,Durango State,Urban,0
+caso,no,49,31-50,female,Durango State,Durango State,Urban,0
+control,no,52,> 50,female,Durango State,Durango State,Urban,0
+caso,no,50,31-50,female,Durango State,Durango State,suburba,0
+control,no,51,> 50,female,Durango State,Durango State,suburba,0
+caso,no,55,> 50,female,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,suburba,0
+caso,no,42,31-50,female,Durango State,Durango State,suburba,0
+caso,no,49,31-50,female,Durango State,Durango State,rural,0
+caso,no,55,> 50,female,Durango State,Durango State,suburba,0
+caso,no,55,> 50,female,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,rural,0
+control,no,52,> 50,female,Durango State,Durango State,suburba,0
+caso,no,40,31-50,female,Durango State,Durango State,rural,0
+control,no,52,> 50,female,Durango State,Durango State,suburba,0
+caso,no,40,31-50,female,Durango State,Durango State,suburba,0
+control,no,40,31-50,female,Durango State,Durango State,rural,0
+caso,no,40,31-50,female,Durango State,Durango State,suburba,0
+control,no,47,31-50,female,Other Mexican State,Durango State,Urban,0
+caso,no,45,31-50,female,Durango State,Durango State,suburba,0
+control,no,54,> 50,female,Durango State,Durango State,Urban,0
+caso,no,44,31-50,female,Durango State,Durango State,suburba,0
+caso,no,52,> 50,female,Durango State,Durango State,suburba,0
+control,no,47,31-50,female,Durango State,Durango State,Urban,0
+caso,no,43,31-50,female,Durango State,Durango State,Urban,0
+caso,no,53,> 50,female,Other Mexican State,Durango State,suburba,0
+control,no,48,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,suburba,0
+control,yes,40,31-50,female,Durango State,Durango State,suburba,1
+control,no,40,31-50,female,Durango State,Durango State,suburba,0
+caso,no,46,31-50,female,Durango State,Durango State,Urban,0
+caso,no,54,> 50,female,Durango State,Durango State,suburba,0
+control,no,54,> 50,female,Durango State,Durango State,suburba,0
+control,no,40,31-50,female,Durango State,Durango State,suburba,1
+control,no,40,31-50,female,Durango State,Durango State,suburba,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,48,31-50,female,Durango State,Durango State,rural,0
+caso,no,55,> 50,female,Durango State,Durango State,suburba,1
+caso,no,45,31-50,female,Durango State,Durango State,rural,0
+caso,no,46,31-50,female,Durango State,Durango State,suburba,0
+control,no,40,31-50,female,Durango State,Durango State,suburba,0
+control,no,40,31-50,female,Other Mexican State,Durango State,Urban,0
+control,no,47,31-50,female,Durango State,Durango State,rural,0
+caso,no,50,31-50,female,Durango State,Durango State,suburba,0
+caso,no,40,31-50,female,Durango State,Durango State,suburba,0
+caso,no,50,31-50,female,Durango State,Durango State,suburba,0
+caso,no,48,31-50,female,Durango State,Durango State,suburba,0
+control,no,51,> 50,female,Durango State,Durango State,suburba,0
+caso,no,49,31-50,female,Durango State,Durango State,suburba,0
+caso,no,55,> 50,female,Durango State,Durango State,suburba,1
+caso,no,43,31-50,female,Durango State,Durango State,rural,0
+caso,no,54,> 50,female,Other Mexican State,Durango State,Urban,0
+control,no,51,> 50,female,Durango State,Durango State,suburba,0
+caso,no,41,31-50,female,Durango State,Durango State,Urban,0
+control,no,51,> 50,female,Durango State,Durango State,suburba,0
+control,no,52,> 50,female,Durango State,Durango State,suburba,0
+caso,no,54,> 50,female,Durango State,Durango State,suburba,0
+caso,no,40,31-50,female,Durango State,Durango State,rural,0
+control,no,49,31-50,female,Durango State,Durango State,Urban,0
+control,no,55,> 50,female,Durango State,Durango State,rural,0
+control,no,42,31-50,female,Durango State,Durango State,Urban,0
+control,no,42,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Other Mexican State,Durango State,rural,0
+caso,no,55,> 50,female,Durango State,Durango State,suburba,0
+control,no,49,31-50,female,Durango State,Durango State,suburba,0
+control,no,40,31-50,female,Other Mexican State,Durango State,suburba,0
+caso,no,51,> 50,female,Durango State,Durango State,Urban,0
+caso,no,51,> 50,female,Durango State,Durango State,suburba,0
+caso,no,49,31-50,female,Durango State,Durango State,suburba,0
+control,no,41,31-50,female,Durango State,Durango State,suburba,0
+caso,no,40,31-50,female,Durango State,Durango State,rural,0
+caso,no,41,31-50,female,Durango State,Durango State,suburba,0
+caso,no,51,> 50,female,Durango State,Durango State,suburba,0
+control,no,55,> 50,female,Durango State,Durango State,suburba,0
+caso,no,40,31-50,female,Durango State,Durango State,rural,0
+control,no,42,31-50,female,Durango State,Durango State,suburba,0
+caso,no,54,> 50,female,Durango State,Durango State,suburba,0
+caso,no,46,31-50,female,Durango State,Durango State,suburba,0
+caso,no,41,31-50,female,Durango State,Durango State,suburba,0
+caso,no,45,31-50,female,Durango State,Durango State,rural,0
+caso,no,55,> 50,female,Durango State,Durango State,suburba,0
+control,no,40,31-50,female,Durango State,Durango State,suburba,0
+caso,no,42,31-50,female,Other Mexican State,Durango State,Urban,1
+control,no,48,31-50,female,Durango State,Durango State,Urban,0
+caso,no,54,> 50,female,Durango State,Durango State,suburba,1
+control,no,41,31-50,female,Other Mexican State,Durango State,suburba,0
+caso,no,47,31-50,female,Durango State,Durango State,rural,0
+control,no,54,> 50,female,Durango State,Durango State,rural,0
+caso,no,55,> 50,female,Durango State,Durango State,suburba,0
+caso,no,55,> 50,female,Other Mexican State,Durango State,suburba,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,yes,38,31-50,female,Durango State,Durango State,suburba,1
+control,no,51,> 50,female,Durango State,Durango State,rural,0
+control,no,55,> 50,female,Durango State,Durango State,Urban,0
+caso,no,44,31-50,female,Durango State,Durango State,suburba,0
+control,no,42,31-50,female,Durango State,Durango State,suburba,0
+control,no,47,31-50,female,Durango State,Durango State,rural,0
+caso,no,55,> 50,female,Durango State,Durango State,Urban,0
+caso,no,51,> 50,female,Durango State,Durango State,suburba,0
+control,no,42,31-50,female,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,Urban,0
+caso,no,50,31-50,female,Other Mexican State,Durango State,Urban,1
+control,no,40,31-50,female,Durango State,Durango State,suburba,0
+caso,no,55,> 50,female,Durango State,Durango State,rural,0
+caso,no,42,31-50,female,Durango State,Durango State,suburba,0
+caso,no,51,> 50,female,Other Mexican State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,54,> 50,female,Durango State,Durango State,Urban,0
+caso,yes,55,> 50,female,Durango State,Durango State,Urban,1
+caso,no,49,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,51,> 50,female,Other Mexican State,Durango State,Urban,1
+control,no,42,31-50,female,Durango State,Durango State,suburba,1
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,54,> 50,female,Other Mexican State,Durango State,suburba,0
+caso,no,55,> 50,female,Durango State,Durango State,rural,0
+caso,yes,54,> 50,female,Durango State,Durango State,Urban,1
+control,no,51,> 50,female,Durango State,Durango State,rural,0
+caso,no,40,31-50,female,Other Mexican State,Durango State,Urban,0
+caso,no,43,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,Urban,0
+caso,no,52,> 50,female,Durango State,Durango State,Urban,0
+caso,no,43,31-50,female,Durango State,Durango State,Urban,0
+caso,no,46,31-50,female,Durango State,Durango State,Urban,0
+control,no,51,> 50,female,Durango State,Durango State,Urban,0
+caso,no,51,> 50,female,Durango State,Durango State,rural,0
+caso,no,50,31-50,female,Durango State,Durango State,rural,0
+caso,no,40,31-50,female,Durango State,Durango State,rural,0
+caso,no,44,31-50,female,Durango State,Durango State,Urban,0
+caso,no,42,31-50,female,Durango State,Durango State,Urban,0
+control,no,54,> 50,female,Durango State,Durango State,Urban,0
+caso,no,49,31-50,female,Durango State,Durango State,rural,0
+caso,no,54,> 50,female,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,rural,0
+caso,no,51,> 50,female,Other Mexican State,Durango State,Urban,0
+caso,no,44,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Other Mexican State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,rural,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,45,31-50,female,Durango State,Durango State,rural,0
+control,no,47,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,53,> 50,female,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,55,> 50,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,42,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,yes,40,31-50,female,Durango State,Durango State,suburba,1
+caso,no,37,31-50,female,Durango State,Durango State,Urban,0
+caso,no,35,31-50,female,Durango State,Durango State,Urban,0
+caso,no,32,31-50,female,Durango State,Durango State,rural,0
+control,no,35,31-50,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,suburba,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,30,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,39,31-50,female,Durango State,Durango State,rural,0
+caso,no,37,31-50,female,Durango State,Durango State,Urban,0
+caso,no,31,31-50,female,Durango State,Durango State,suburba,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,33,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,31,31-50,female,Durango State,Durango State,suburba,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,37,31-50,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Other Mexican State,Durango State,Urban,0
+caso,no,30,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,31,31-50,female,Durango State,Durango State,rural,0
+control,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,32,31-50,female,Durango State,Durango State,suburba,1
+caso,no,35,31-50,female,Durango State,Durango State,Urban,0
+caso,no,31,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,34,31-50,female,Durango State,Durango State,Urban,0
+caso,no,37,31-50,female,Durango State,Durango State,Urban,0
+caso,no,39,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,33,31-50,female,Durango State,Durango State,Urban,0
+caso,no,31,31-50,female,Durango State,Durango State,Urban,0
+caso,no,30,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,1
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,39,31-50,female,Durango State,Durango State,Urban,0
+caso,no,39,31-50,female,Other Mexican State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,34,31-50,female,Durango State,Durango State,Urban,0
+caso,no,37,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,yes,37,31-50,female,Other Mexican State,Durango State,Urban,1
+caso,no,32,31-50,female,Durango State,Durango State,Urban,0
+caso,no,38,31-50,female,Other Mexican State,Durango State,Urban,0
+caso,no,31,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,30,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,30,menos 30,female,Other Mexican State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,33,31-50,female,Other Mexican State,Durango State,Urban,0
+caso,no,36,31-50,female,Durango State,Durango State,Urban,0
+caso,no,36,31-50,female,Durango State,Durango State,Urban,0
+caso,no,35,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Other Mexican State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,30,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,39,31-50,female,Durango State,Durango State,Urban,0
+caso,no,39,31-50,female,Durango State,Durango State,Urban,0
+caso,no,37,31-50,female,Durango State,Durango State,Urban,0
+caso,no,31,31-50,female,Durango State,Durango State,suburba,0
+caso,no,34,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,suburba,0
+caso,no,33,31-50,female,Durango State,Durango State,Urban,0
+caso,no,30,menos 30,female,Durango State,Durango State,Urban,0
+control,no,40,31-50,female,Durango State,Durango State,suburba,0
+caso,no,38,31-50,female,Durango State,Durango State,suburba,0
+caso,no,36,31-50,female,Durango State,Durango State,rural,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,31,31-50,female,Durango State,Durango State,Urban,0
+caso,no,29,menos 30,male,Durango State,Durango State,Urban,0
+caso,no,49,31-50,female,Durango State,Durango State,Urban,0
+caso,no,53,> 50,female,Durango State,Durango State,suburba,0
+caso,no,50,31-50,male,Durango State,Durango State,rural,0
+caso,no,19,menos 30,male,Durango State,Durango State,Urban,0
+caso,no,45,31-50,male,Durango State,Durango State,rural,0
+caso,no,43,31-50,male,Durango State,Durango State,Urban,0
+caso,no,37,31-50,male,Durango State,Durango State,Urban,0
+caso,no,38,31-50,female,Durango State,Durango State,Urban,0
+control,no,76,> 50,male,Other Mexican State,Other Mexican State,suburba,0
+caso,no,36,31-50,male,Durango State,Durango State,Urban,0
+caso,no,43,31-50,female,Durango State,Durango State,Urban,0
+caso,no,37,31-50,female,Durango State,Durango State,Urban,0
+caso,no,35,31-50,female,Durango State,Durango State,suburba,0
+caso,no,25,menos 30,female,Other Mexican State,Durango State,suburba,0
+caso,no,59,> 50,female,Durango State,Durango State,Urban,0
+caso,no,48,31-50,female,Durango State,Durango State,rural,0
+caso,no,53,> 50,female,Durango State,Abroad,Urban,0
+caso,no,38,31-50,male,Durango State,Durango State,Urban,0
+caso,no,30,menos 30,male,Durango State,Durango State,Urban,0
+caso,no,66,> 50,male,Durango State,Durango State,suburba,0
+caso,no,52,> 50,female,Durango State,Durango State,suburba,0
+caso,no,52,> 50,male,Durango State,Durango State,suburba,0
+caso,no,31,31-50,male,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,suburba,0
+caso,no,34,31-50,male,Durango State,Durango State,Urban,0
+caso,no,60,> 50,female,Durango State,Durango State,Urban,0
+caso,no,23,menos 30,male,Durango State,Durango State,Urban,0
+caso,no,23,menos 30,male,Other Mexican State,Durango State,suburba,0
+control,no,51,> 50,female,Durango State,Durango State,rural,1
+control,no,30,menos 30,male,Durango State,Durango State,Urban,0
+caso,no,53,> 50,female,Durango State,Durango State,Urban,0
+caso,no,51,> 50,male,Durango State,Durango State,suburba,0
+caso,yes,19,menos 30,female,Durango State,Durango State,Urban,1
+caso,no,36,31-50,female,Durango State,Durango State,suburba,0
+caso,no,45,31-50,male,Durango State,Durango State,Urban,0
+caso,yes,57,> 50,male,Durango State,Durango State,suburba,1
+caso,no,21,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,53,> 50,female,Durango State,Durango State,Urban,0
+caso,no,46,31-50,female,Durango State,Durango State,suburba,0
+caso,no,25,menos 30,male,Durango State,Durango State,Urban,0
+caso,yes,32,31-50,female,Durango State,Durango State,suburba,1
+caso,no,37,31-50,female,Durango State,Durango State,suburba,1
+caso,no,24,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,47,31-50,female,Durango State,Durango State,Urban,0
+caso,no,52,> 50,male,Durango State,Durango State,Urban,0
+caso,no,20,menos 30,male,Durango State,Durango State,Urban,0
+caso,yes,38,31-50,female,Durango State,Durango State,Urban,1
+caso,no,27,menos 30,male,Durango State,Durango State,Urban,1
+caso,no,30,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,51,> 50,female,Durango State,Durango State,suburba,1
+caso,no,49,31-50,female,Durango State,Durango State,Urban,1
+caso,no,40,31-50,male,Durango State,Durango State,suburba,0
+caso,no,78,> 50,female,Durango State,Durango State,Urban,0
+caso,no,43,31-50,female,Durango State,Durango State,Urban,0
+caso,no,53,> 50,female,Other Mexican State,Durango State,Urban,1
+caso,no,44,31-50,female,Durango State,Durango State,Urban,0
+caso,no,40,31-50,female,Durango State,Durango State,Urban,0
+caso,no,39,31-50,female,Durango State,Durango State,Urban,0
+caso,no,39,31-50,female,Durango State,Durango State,rural,0
+caso,no,25,menos 30,female,Durango State,Durango State,suburba,0
+caso,no,42,31-50,female,Other Mexican State,Durango State,Urban,0
+caso,no,49,31-50,female,Durango State,Durango State,Urban,0
+caso,no,34,31-50,female,Durango State,Durango State,rural,0
+caso,no,38,31-50,male,Durango State,Durango State,suburba,1
+caso,no,26,menos 30,male,Durango State,Durango State,Urban,0
+control,no,47,31-50,female,Durango State,Durango State,suburba,0
+caso,no,40,31-50,male,Durango State,Durango State,Urban,1
+caso,no,46,31-50,female,Durango State,Durango State,Urban,0
+caso,no,52,> 50,female,Other Mexican State,Durango State,Urban,0
+caso,no,27,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,21,menos 30,female,Durango State,Durango State,Urban,0
+control,no,55,> 50,female,Durango State,Durango State,suburba,0
+caso,no,29,menos 30,female,Durango State,Durango State,Urban,1
+control,no,54,> 50,female,Durango State,Durango State,Urban,1
+caso,no,57,> 50,female,Durango State,Durango State,suburba,0
+caso,no,53,> 50,female,Durango State,Durango State,suburba,0
+caso,no,48,31-50,female,Durango State,Durango State,Urban,0
+caso,no,25,menos 30,female,Durango State,Durango State,Urban,0
+control,no,47,31-50,female,Durango State,Durango State,Urban,0
+caso,no,42,31-50,female,Durango State,Durango State,suburba,0
+caso,no,62,> 50,male,Durango State,Durango State,suburba,0
+caso,no,42,31-50,female,Durango State,Durango State,Urban,0
+control,no,55,> 50,female,Durango State,Durango State,Urban,0
+caso,no,26,menos 30,male,Durango State,Durango State,Urban,0
+caso,no,28,menos 30,male,Durango State,Durango State,Urban,0
+control,no,49,31-50,male,Other Mexican State,Other Mexican State,rural,0
+caso,no,19,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,28,menos 30,female,Durango State,Durango State,Urban,0
+caso,no,53,> 50,male,Durango State,Durango State,rural,0
+caso,no,76,> 50,male,Durango State,Durango State,rural,1
+caso,no,31,31-50,female,Durango State,Durango State,rural,0
+caso,no,47,31-50,male,Durango State,Durango State,rural,0
+control,no,70,> 50,male,Durango State,Durango State,rural,1
+caso,no,41,31-50,female,Durango State,Durango State,rural,1
+caso,no,55,> 50,male,Other Mexican State,Durango State,rural,0
+caso,yes,23,menos 30,female,Durango State,Durango State,rural,1
+caso,no,34,31-50,female,Durango State,Durango State,rural,1
+caso,no,36,31-50,female,Durango State,Durango State,rural,1
+caso,no,65,> 50,male,Durango State,Durango State,rural,0
+caso,yes,31,31-50,male,Durango State,Durango State,rural,1
+caso,yes,61,> 50,female,Durango State,Durango State,rural,1
+caso,yes,49,31-50,female,Durango State,Durango State,rural,1
+caso,no,49,31-50,female,Durango State,Durango State,rural,0
+control,no,55,> 50,male,Durango State,Durango State,rural,0
+caso,yes,52,> 50,female,Durango State,Durango State,rural,1
+caso,no,78,> 50,male,Durango State,Durango State,rural,1
+caso,no,29,menos 30,male,Durango State,Durango State,rural,0
+caso,no,30,menos 30,female,Durango State,Durango State,rural,1
+control,no,78,> 50,male,Durango State,Durango State,rural,1
+caso,no,41,31-50,male,Durango State,Durango State,rural,0
+caso,yes,37,31-50,female,Durango State,Durango State,rural,1
+caso,no,50,31-50,female,Durango State,Durango State,rural,0
+control,no,47,31-50,female,Durango State,Durango State,rural,1
+caso,no,38,31-50,male,Durango State,Durango State,rural,0
+caso,no,26,menos 30,female,Durango State,Durango State,rural,0
+caso,no,33,31-50,female,Other Mexican State,Durango State,rural,0
+caso,yes,27,menos 30,female,Durango State,Durango State,rural,1
+caso,no,35,31-50,female,Durango State,Durango State,rural,1
+caso,no,54,> 50,female,Durango State,Durango State,rural,0
+caso,no,20,menos 30,female,Durango State,Durango State,rural,0
+caso,no,37,31-50,male,Other Mexican State,Durango State,rural,1
+caso,no,44,31-50,female,Durango State,Durango State,rural,0
+caso,no,20,menos 30,female,Durango State,Durango State,suburba,0
+caso,yes,52,> 50,male,Durango State,Durango State,suburba,1
+caso,no,63,> 50,female,Durango State,Durango State,rural,0
+caso,yes,46,31-50,male,Durango State,Durango State,rural,1
+caso,no,30,menos 30,female,Durango State,Durango State,rural,0
+caso,no,27,menos 30,female,Durango State,Durango State,rural,0
+caso,no,43,31-50,female,Other Mexican State,Durango State,rural,0
+caso,no,34,31-50,female,Durango State,Durango State,rural,0
+control,no,65,> 50,male,Durango State,Durango State,rural,1
+caso,no,57,> 50,female,Other Mexican State,Durango State,rural,0
+caso,no,25,menos 30,female,Durango State,Durango State,rural,1
+caso,no,41,31-50,female,Durango State,Durango State,rural,0
+caso,yes,23,menos 30,female,Durango State,Durango State,rural,1
+caso,no,59,> 50,female,Durango State,Durango State,rural,0
+control,no,61,> 50,female,Durango State,Durango State,rural,0
+caso,yes,49,31-50,male,Durango State,Durango State,rural,1
+control,yes,74,> 50,female,Durango State,Durango State,rural,1

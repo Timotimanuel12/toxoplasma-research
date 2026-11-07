@@ -1,0 +1,10 @@
+held-out study,n,questions available,transfer AUC
+indonesia_pregnant,182,"cat, raw_or_undercooked_meat, soil, raw_vegetables, untreated_water, age",0.821
+cameroon_hiv,325,"cat, raw_or_undercooked_meat, soil, raw_vegetables, untreated_water, age",0.584
+china_women,920,"cat, raw_or_undercooked_meat, soil, raw_vegetables, age",0.694
+myanmar_slaughter,139,"raw_or_undercooked_meat, soil, age",0.485
+iran_suicide,500,"cat, raw_or_undercooked_meat",0.496
+philippines_cebu,924,"cat, age",0.55
+thai_border_pregnant,199,age,0.578
+brazil_homeless,120,"cat, age",0.439
+ghana_sickle_cell,156,"cat, raw_or_undercooked_meat, age",0.597
